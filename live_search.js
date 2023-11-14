@@ -1,6 +1,7 @@
 document.addEventListener('DOMContentLoaded', function () {
   const container = document.querySelector('.elastic');
 
+
   // Загрузить данные из файла data.json
   fetch('data.json')
       .then(response => response.json())
