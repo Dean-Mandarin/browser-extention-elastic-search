@@ -1,7 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
   const container = document.querySelector('.elastic');
 
-
   // Загрузить данные из файла data.json
   fetch('data.json')
       .then(response => response.json())
@@ -13,7 +12,19 @@ document.addEventListener('DOMContentLoaded', function () {
           question.textContent = item.question;
           const answer = document.createElement('span');
           answer.classList.add('ans');
-          answer.textContent = item.answer;
+
+          // Если answer - массив, добавить <br> между элементами
+          if (Array.isArray(item.answer)) {
+            item.answer.forEach((answerPart, index) => {
+              answer.innerHTML += answerPart;
+              if (index < item.answer.length - 1) {
+                answer.innerHTML += '<br> <br> ';
+              }
+            });
+          } else {
+            answer.textContent = item.answer;
+          }
+
           li.appendChild(question);
           li.appendChild(answer);
           container.appendChild(li);

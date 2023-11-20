@@ -10,5 +10,13 @@
   {
     "question": "When determining the risk level of an event, which two elements of such event should be assessed?",
     "answer": "“Impact” and “Probability”"
+  },
+  {
+    "question": "What types of assessments can be found in this course? You can select more than one.",
+    "answer": [
+      "Knowledge Check quizzes",
+      "Peer Review exercise",
+      "Module Review quizzes"
+    ]
   }
 ]
