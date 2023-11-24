@@ -1,22 +1,728 @@
 [
   {
-    "question": "What is risk?",
-    "answer": "The happening of an event is uncertain, with the possibility to bring positive and/or negative impacts"
+    "question": "When a browser connects to a web server to retrieve a document, what is the default TCP/IP port that is used?",
+    "answer": "80"
   },
   {
-    "question": "In the lecture video 1.2, Prof. Dias mentioned that internal man-made threat is more serious than an external man-made threat. Why is it so?",
-    "answer": "Internal man-made threat is relatively more difficult to be prevented as if a staff is intended to steal the digital assets which he / she is being granted with corresponding access rights to such digital assets according to his/her roles"
+    "question": "When a browser connects to a web server to retrieve a document, what command is sent to the server?",
+    "answer": "GET"
   },
   {
-    "question": "When determining the risk level of an event, which two elements of such event should be assessed?",
-    "answer": "“Impact” and “Probability”"
+    "question": "Which of the HTTP headers does the browser look at to decide how to display the retrieved document?",
+    "answer": "Content-type"
   },
   {
-    "question": "What types of assessments can be found in this course? You can select more than one.",
+    "question": "What does the second \"T\" of HTTP stand for?",
+    "answer": "Transfer"
+  },
+  {
+    "question": "Which of the following is NOT part of a Uniform Resource Locator?",
+    "answer": "Operating System"
+  },
+  {
+    "question": "Which HTML tags typically generate a request to retrieve a document?",
     "answer": [
-      "Knowledge Check quizzes",
-      "Peer Review exercise",
-      "Module Review quizzes"
+      "a",
+      "img"
     ]
+  },
+  {
+    "question": "What standards organization publishes many of the documents that describe the protocols we use on the Internet?",
+    "answer": "IETF"
+  },
+  {
+    "question": "What is true about the following HTML?  <a href=\"http://www.dr-chuck.com/page2.htm\">Second Page</a> ",
+    "answer": "The reference is an absolute reference"
+  },
+  {
+    "question": "What do you put at the beginning of an HTML file to inform the browser which variant of HTML you will be using in this document?",
+    "answer": "DOCTYPE"
+  },
+  {
+    "question": "What is the name of the tag that is used in a document's <head> area to set the text shown in the tab of the browser or title bar?",
+    "answer": "TITLE"
+  },
+  {
+    "question": "In HTML, what attribute is used to indicate text that will be shown if an image is not loaded or read to a user that is using a screen reader?",
+    "answer": "ALT"
+  },
+  {
+    "question": "For the following HTML: <img src=\"csev_ian_dolphin_small.jpg\" alt=\"Photo Credit: Ian Dolphin\" width=\"160\" align=\"middle\"> What is an example of an \"attribute\"?",
+    "answer": "src"
+  },
+  {
+    "question": "How do you show a less-than (<) in an an HTML page?",
+    "answer": "&lt;"
+  },
+  {
+    "question": "What does the <ul> tag accomplish?",
+    "answer": "Begins an unordered list"
+  },
+  {
+    "question": "In a table, what is the general order of tags from outer to inner when constructing a table?",
+    "answer": "<table> <tr> <td>"
+  },
+  {
+    "question": "Which of the following is not a way to include CSS in an HTML page?",
+    "answer": "Using the <font> tag to enclose other tags"
+  },
+  {
+    "question": "Which HTML tag does nothing to the text it surrounds and has as its sole purpose to create a \"handle\" so as to be able to apply CSS to the text?",
+    "answer": "SPAN"
+  },
+  {
+    "question": "Why is there more than one font listed in the following CSS rule?  body { font-family: \"Trebuchet MS\", Helvetica, Arial, sans-serif; }",
+    "answer": "They are listed in descending preference order if fonts are not present in the browser"
+  },
+  {
+    "question": "Which CSS selector controls how a link (anchor tag) looks while the user mouses over the link (i.e. while hovering)?",
+    "answer": "HOVER"
+  },
+  {
+    "question": "Which of these CSS rules make text appear in a bold face font?",
+    "answer": "font-weight: bold"
+  },
+  {
+    "question": "What CSS selector would style a tag that looks like this:  < ... class=\"puppy\">",
+    "answer": ".puppy { ..."
+  },
+  {
+    "question": "What CSS rule allows you include a tag in markup but hide it from view in the browser?",
+    "answer": "visibility: hidden;"
+  },
+  {
+    "question": "Which of the following CSS selectors is between the content area and the border? (CSS box model)",
+    "answer": "padding"
+  },
+  {
+    "question": "What tag is used to import a style sheet into an HTML document?",
+    "answer": "LINK"
+  },
+  {
+    "question": "What does PHP stand for?",
+    "answer": "PHP: Hypertext Preprocessor "
+  },
+  {
+    "question": "PHP Server scripts are surrounded by?",
+    "answer": "<?php ... ?>"
+  },
+  {
+    "question": "The PHP syntax is most similar to:",
+    "answer": "Perl and C"
+  },
+  {
+    "question": "Which of the following are operators in PHP?",
+    "answer": [
+      "===",
+      "!=",
+      "++"
+    ]
+  },
+  {
+    "question": "What is the output of the following?",
+    "answer": "y = 24 x = 13"
+  },
+  {
+    "question": "What is a correct way to add a comment in PHP?",
+    "answer": "/* ... */"
+  },
+  {
+    "question": "All variables in PHP start with [_________] symbol. ",
+    "answer": "$"
+  },
+  {
+    "question": "What is the value returned by: (int) 9.9 - 1",
+    "answer": "8"
+  },
+  {
+    "question": "Use the [_____] operator to test if two values are identical in both value and type.",
+    "answer": "==="
+  },
+  {
+    "question": "What is the value of $x?  $x = 1200 + \"34\";",
+    "answer": "1234"
+  },
+  {
+    "question": "In PHP you can use both single quotes ( ' ' ) and double quotes ( \" \" ) for strings.",
+    "answer": "True"
+  },
+  {
+    "question": "PHP and HTML cannot be intermingled in the same file.",
+    "answer": "False"
+  },
+  {
+    "question": "Which escape sequences can be used in single quoted ( ' ) strings in PHP?",
+    "answer": [
+      "\\'",
+      "\\\\"
+    ]
+  },
+  {
+    "question": "You cannot run PHP files from the command line.",
+    "answer": "False"
+  },
+  {
+    "question": "You can run PHP files on a server.",
+    "answer": "True"
+  },
+  {
+    "question": "In PHP, variable names are case sensitive.",
+    "answer": "True"
+  },
+  {
+    "question": "In PHP, functions names are not case sensitive.",
+    "answer": "True"
+  },
+  {
+    "question": "In PHP arrays can either be key / value (i.e. an associative array) or indexed by integers (i.e. a linear array).",
+    "answer": "True"
+  },
+  {
+    "question": "Which symbol is used to associate a key to a value in an associative array?",
+    "answer": "=>"
+  },
+  {
+    "question": "Fill in the blank to echo 'Arrays' $stuff = array('course ' => 'PHP-Intro', 'topic' => 'Arrays');\necho ________;",
+    "answer": "$stuff['topic']"
+  },
+  {
+    "question": "What is the output of  $stuff = array('course' => 'PHP-Intro', 'topic' => 'Arrays');\necho isset($stuff['section']);",
+    "answer": "There is no output"
+  },
+  {
+    "question": "In PHP you cannot make an array of associative arrays.",
+    "answer": "False"
+  },
+  {
+    "question": "The [_____] function is used to rearrange an array in random order.",
+    "answer": "SHUFFLE()"
+  },
+  {
+    "question": "Which of these are built-in sorting functions provided by PHP?",
+    "answer": [
+      "ksort()",
+      "asort()",
+      "sort()"
+    ]
+  },
+  {
+    "question": "What function is used to sort the array in alphabetical order of the keys?",
+    "answer": "ksort()"
+  },
+  {
+    "question": "What function is used to sort the values in array and keep the keys intact?",
+    "answer": "asort()"
+  },
+  {
+    "question": "What function can be used to split a string into an array words based on a delimiter? For instance, create a three element array from the string 'I am great!!!'.",
+    "answer": "explode()"
+  },
+  {
+    "question": "var_dump will display the name, key/value pairs, and data types of a variable.",
+    "answer": "True"
+  },
+  {
+    "question": "Why should you use functions?",
+    "answer": [
+      "Avoid repetitive code",
+      "Break complex code into logical chunks",
+      "Organize your code"
+    ]
+  },
+  {
+    "question": "Which keyword defines a new function?",
+    "answer": "function"
+  },
+  {
+    "question": "Return values are type-specific in php functions (a function only returns a value of a specified data type.)",
+    "answer": "False"
+  },
+  {
+    "question": "What output does the following code produce?  function double($val){ $val = $val * 2; return $val; } $val = 15; $dval = double($val); echo \"Value = $val Doubled = $dval\";",
+    "answer": "Value = 15 Doubled = 30"
+  },
+  {
+    "question": "Which keyword is used to use code from one php file into a different PHP file?",
+    "answer": "include"
+  },
+  {
+    "question": "Which function prints out the internal configuration capabilities of your particular PHP installation?",
+    "answer": "phpinfo()"
+  },
+  {
+    "question": "Adding an ampersand ( & ) to a function parameter indicates that you are using call by [_____] for that parameter.",
+    "answer": "reference"
+  },
+  {
+    "question": "The keyword [_____] will expand the scope of a variable outside of its function.",
+    "answer": "global"
+  },
+  {
+    "question": "The [_____] function is used to check if a function already exists or not.",
+    "answer": "function_exists()"
+  },
+  {
+    "question": "It is common to use uppercase and/or long names for global variables to avoid confusion or mistaken reuse.",
+    "answer": "True"
+  },
+  {
+    "question": "A properly formatted form element will always include an action attribute.",
+    "answer": "False"
+  },
+  {
+    "question": "Web crawlers follow anchor tags <a href=\".... and may even fill in forms with a method of GET, but will never submit a form with a method= attribute of [_____].",
+    "answer": "POST"
+  },
+  {
+    "question": "It is good practice for a web application to change data on a GET request.",
+    "answer": "False"
+  },
+  {
+    "question": "The [_____] attribute of an text input field will set a default value for the field.",
+    "answer": "value"
+  },
+  {
+    "question": "The function htmlentities will transform an ampersand character ( & ) into",
+    "answer": "&amp;"
+  },
+  {
+    "question": "The input type [_____] will display your form input as dots.",
+    "answer": "password"
+  },
+  {
+    "question": "To connect the behavior of multiple radio buttons (e.g. to make sure that only one is \"on\" at the same time), make sure to give each radio button the same [_____] attribute.",
+    "answer": "name"
+  },
+  {
+    "question": "To set a checkbox as checked by default, use the [_____] attribute.",
+    "answer": "checked"
+  },
+  {
+    "question": "To set a default option in a drop-down list, use the [_____] attribute.",
+    "answer": "selected"
+  },
+  {
+    "question": "All browsers treat unknown input types as type= [_____] \"",
+    "answer": "text"
+  },
+  {
+    "question": "In HTML5, the email input type doesn't validate the value until you press",
+    "answer": "submit"
+  },
+  {
+    "question": "Post data is appended to the URL.",
+    "answer": "False"
+  },
+  {
+    "question": "In a PHP script, it is generally a good idea to process any incoming POST data before you produce page output.",
+    "answer": "True"
+  },
+  {
+    "question": "\"View Page Source\" allows you to see the HTML code.",
+    "answer": "True"
+  },
+  {
+    "question": "\"View Page Source\" allows you to see the PHP code.",
+    "answer": "False"
+  },
+  {
+    "question": "\"View Page Source\" allows you to see the output of the PHP code.",
+    "answer": "True"
+  },
+  {
+    "question": "DBA stands for",
+    "answer": "database administrator"
+  },
+  {
+    "question": "Structured Query Language (SQL) is used to (check all that apply)",
+    "answer": [
+      "Create a table",
+      "Delete data",
+      "Insert data"
+    ]
+  },
+  {
+    "question": "Which statement is the right syntax to make a new database using command line?",
+    "answer": "CREATE DATABASE people;"
+  },
+  {
+    "question": "\"INSERT INTO\" is the keyword used to insert data into tables.",
+    "answer": "True"
+  },
+  {
+    "question": "Which keyword is used to add conditions to your query?",
+    "answer": "WHERE"
+  },
+  {
+    "question": "Which command is used to retrieve all records from the table?",
+    "answer": "SELECT * FROM Users"
+  },
+  {
+    "question": "Which keyword will cause the results of the query to be displayed in sorted order?",
+    "answer": "ORDER BY"
+  },
+  {
+    "question": "The LIMIT clause reduces the number of rows returned by a query.",
+    "answer": "True"
+  },
+  {
+    "question": "A [_____] column allocates a string with a variable amount of space depending on the data length that is actually stored.",
+    "answer": "varchar"
+  },
+  {
+    "question": "A column of type CHAR cannot be indexed.",
+    "answer": "False"
+  },
+  {
+    "question": "Images, PDF, movies cannot be stored in a database.",
+    "answer": "False"
+  },
+  {
+    "question": "Column of type TIMESTAMP stores the number of seconds from January 1, [_____] in the column.",
+    "answer": "1970"
+  },
+  {
+    "question": "A primary key can be set to null.",
+    "answer": "False"
+  },
+  {
+    "question": "An UNSIGNED int can be a negative number.",
+    "answer": "False"
+  },
+  {
+    "question": "Primary keys are used to distinguish rows within in a table. [_____] keys are used to reference the primary key from a different table.",
+    "answer": "foreign"
+  },
+  {
+    "question": "What is the primary value add of relational databases over flat files?",
+    "answer": "Ability to scan large amounts of data quickly"
+  },
+  {
+    "question": "Which of the following is NOT a good rule to follow when developing a database model?",
+    "answer": "Use a persons email address as their primary key"
+  },
+  {
+    "question": "If our user interface (i.e. like iTunes) has repeated strings on one column of the UI, how should we model this properly in a database:",
+    "answer": "We make a table that maps the strings in the column to numbers and then use those numbers in the column"
+  },
+  {
+    "question": "Which of the following is the label we give a column that the \"outside world\" uses to look up a particular row?",
+    "answer": "Logical key"
+  },
+  {
+    "question": "What is the label we give to a column that is an integer and used to point to a row in a different table?",
+    "answer": "Foreign key"
+  },
+  {
+    "question": "What MySQL keyword is added to primary keys in a CREATE TABLE statement to indicate that the database is to provide a value for the column when records are inserted.",
+    "answer": "AUTO_INCREMENT"
+  },
+  {
+    "question": "What is the SQL keyword that reconnects rows with foreign keys with the corresponding data in the table that the foreign key points to?",
+    "answer": "JOIN"
+  },
+  {
+    "question": "What happens when you JOIN two tables together without an ON clause?",
+    "answer": "The number of rows you get is the number of rows in the first table times the number of rows in the second table"
+  },
+  {
+    "question": "What does an \"ON DELETE CASCADE\" clause imply in a foreign key constraint in a MySQL CREATE TABLE statement?",
+    "answer": "When a row in the parent table is deleted all the rows in a child table that point to that row via a foreign key are deleted"
+  },
+  {
+    "question": "Which of the following types of tables often are created without a primary key?",
+    "answer": "Many-to-many"
+  },
+  {
+    "question": "When might one prefer the CHAR column type over VARCHAR?",
+    "answer": "When the data is relatively short and almost always present"
+  },
+  {
+    "question": "What is the built-in MySQL function that gives you the current time in an SQL statement?",
+    "answer": "NOW()"
+  },
+  {
+    "question": "Which of the following indexes would be best for fast look up for exact key matches but not so good for prefix lookups or sorting?",
+    "answer": "HASH"
+  },
+  {
+    "question": "Why is it a good idea to add \"CONSTRAINT FOREIGN KEY\" statements when creating database tables? (Check all that apply)",
+    "answer": [
+      "So that you can specify default behaviors when records are deleted or updated",
+      "So that MySql knows which columns are foreign keys and which columns are just integers",
+      "So that database modeling tools know the relationships between tables"
+    ]
+  },
+  {
+    "question": "Why is it a good idea to add \"CONSTRAINT FOREIGN KEY\" statements when creating database tables? (Check all that apply)",
+    "answer": "Read performance is faster, insert performance is slower and extra storage is required"
+  },
+  {
+    "question": "In Object Oriented programming, what is another name for the \"attributes\" of an object?",
+    "answer": "fields"
+  },
+  {
+    "question": "At the moment of creation of a new object, PHP looks at the _________ definition to define the structure and capabilities of the newly created object",
+    "answer": "class"
+  },
+  {
+    "question": "Which of the following is not a good synonym for 'class' in PHP?",
+    "answer": "direction"
+  },
+  {
+    "question": "What does the following code accomplish: $now = new DateTime();",
+    "answer": "Using the DateTime template make a new object and assign it to $now"
+  },
+  {
+    "question": "What is the syntax to look up the fullname attribute in an object stored in the variable $colleen",
+    "answer": "$colleen->fullname"
+  },
+  {
+    "question": "Which of these statements is used to indicate that class A will inherit all the features of class B.",
+    "answer": "class A extends B"
+  },
+  {
+    "question": "Which of the class member visibility settings indicates that a member variable can be accessed within a class and all sub-classes but not outside of the class.",
+    "answer": "protected"
+  },
+  {
+    "question": "What does the \"::\" operator do in PHP?",
+    "answer": "Allows us to access constants and static items from a class"
+  },
+  {
+    "question": "Why is it important to have extensive error checking on SQL statements when an application is in production?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is the purpose of the PDO::errorinfo() data?",
+    "answer": "It gives extended detail when a PDO function returns an error"
+  },
+  {
+    "question": "How does a web server recognize a particular web browser?",
+    "answer": "Cookies"
+  },
+  {
+    "question": "The Web is a stateful system.",
+    "answer": "False"
+  },
+  {
+    "question": "The browser does not always maintain a connection to the server.",
+    "answer": "True"
+  },
+  {
+    "question": "Cookies can be made to last for how long?",
+    "answer": "Any of these"
+  },
+  {
+    "question": "If a browser is contacting a server for the very first time, the browser does not send cookies in its first request.",
+    "answer": "True"
+  },
+  {
+    "question": "Sessions are server controlled and are protected from the users direct access to it.",
+    "answer": "True"
+  },
+  {
+    "question": "session_start() is used to",
+    "answer": [
+      "Make a new session",
+      "Restore an old session"
+    ]
+  },
+  {
+    "question": "session_start() can be placed anywhere in the php file.",
+    "answer": "False"
+  },
+  {
+    "question": "$_SESSION is a",
+    "answer": "All of these"
+  },
+  {
+    "question": "PHP applications can make changes to the $_SESSION variable.",
+    "answer": "True"
+  },
+  {
+    "question": "End users can make changes to the $_SESSION variable.",
+    "answer": "False"
+  },
+  {
+    "question": "Generally, if there are no cookies for a web site in the browser, PHP will make a new session as soon as the user tries to access the url.",
+    "answer": "True"
+  },
+  {
+    "question": "When do session cookies expire?",
+    "answer": "When the browser is closed"
+  },
+  {
+    "question": "Where are non-session cookies stored?",
+    "answer": "On the hard drive of the user's computer"
+  },
+  {
+    "question": "What is the typical session identifier?",
+    "answer": "A large random number chosen by the server"
+  },
+  {
+    "question": "If a browser does not support cookies, how can PHP maintain a session?",
+    "answer": "By including the session identifier as a parameter every GET and POST request"
+  },
+  {
+    "question": "Refreshing the page after a [_____] request might cause unintended consequences.",
+    "answer": "POST"
+  },
+  {
+    "question": "Double POST problems can be solved by:",
+    "answer": "Redirecting to a URL after the POST data has been processed"
+  },
+  {
+    "question": "A simple rule for generating a server response is to never generate a page with HTML content when the server receives [_____] data.",
+    "answer": "POST"
+  },
+  {
+    "question": "HTML pages can only be requested using GET request.",
+    "answer": "False"
+  },
+  {
+    "question": "Messages that show up once and are gone when you refresh the page are often called.",
+    "answer": "flash messages"
+  },
+  {
+    "question": "What is the correct sequence to avoid double post?",
+    "answer": "POST > Redirect > GET"
+  },
+  {
+    "question": "The PHP header() function affects which part of the request / response cycle?",
+    "answer": "response headers"
+  },
+  {
+    "question": "In the request/response cycle, when the browser sends form data using a POST request, how are the names and values sent to the server?",
+    "answer": "After the browser sends the POST request, request headers, and a blank line"
+  },
+  {
+    "question": "Having a session means that the user is logged in.",
+    "answer": "False"
+  },
+  {
+    "question": "Typically sessions are not established until after the user logs in successfully.",
+    "answer": "False"
+  },
+  {
+    "question": "What data changes when you successfully log in?",
+    "answer": "Data in the session"
+  },
+  {
+    "question": "Where does the following JavaScript code execute? <p>One Paragraph</p> \n<script type=\"text/javascript\"> \ndocument.write(\"<p>Hello World</p>\") \n</script> \n<p>Second Paragraph</p>",
+    "answer": "In the browser"
+  },
+  {
+    "question": "What happens when JavaScript runs the alert() function?",
+    "answer": "JavaScript execution is paused and a dialog box pops up"
+  },
+  {
+    "question": "Which of the following is not a way to include JavaScript in an HTML document?",
+    "answer": "By including the code the <?javascript and ?\\> tags"
+  },
+  {
+    "question": "In the following code, what does the \"return false\" accomplish? <a href=\"js-01.htm\" onclick=\"alert('Hi'); return false;\">Click Me</a>",
+    "answer": "It keeps the browser from following the href attribute when \"Click Me\" is clicked"
+  },
+  {
+    "question": "What happens in a normal end-user's browser when there is a JavaScript error?",
+    "answer": "Nothing except perhaps a small red error icon that is barely noticeable"
+  },
+  {
+    "question": "Where can a developer find which line in a web page of JavaScript file is causing a syntax error?",
+    "answer": "In the developer console in the browser"
+  },
+  {
+    "question": "What does the following JavaScript do? console.log(\"This is a message\");",
+    "answer": "Puts the message in the browser developer console and continues JavaScript execution"
+  },
+  {
+    "question": "Which of the following is not a valid comment in JavaScript?",
+    "answer": " # This is a comment"
+  },
+  {
+    "question": "Which of the following is not a valid JavaScript variable name?",
+    "answer": "3peat"
+  },
+  {
+    "question": "What is the difference between strings with single quotes and double quotes in JavaScript?",
+    "answer": "There is no difference"
+  },
+  {
+    "question": "What does the following JavaScript print out? toys = ['bat', 'ball', 'whistle', 'puzzle', 'doll'];\nconsole.log(toys[1]);",
+    "answer": "ball"
+  },
+  {
+    "question": "What value ends up in the variable x when the JavaScript below is executed? x = 27 % 2;",
+    "answer": "1"
+  },
+  {
+    "question": "What is the meaning of the \"triple equals\" operator (===) in JavaScript?",
+    "answer": "That the values being compared are the same without any type conversion"
+  },
+  {
+    "question": "How do you indicate that a variable reference within a JavaScript function is a global (i.e. not local) variable?",
+    "answer": "Nothing, simply declare the variable globally before the function definition in the code"
+  },
+  {
+    "question": "Which of the following is a template that defines the shape of an object that is created?",
+    "answer": "Class"
+  },
+  {
+    "question": "Which of the following describes a feature which we would expect from a programming language that supported first class functions?",
+    "answer": "The ability to define a function and assign the function to a variable"
+  },
+  {
+    "question": "What is the keyword / predefined variable that is used in a JavaScript class definition to refer to the \"current instance\" of the class?",
+    "answer": "this"
+  },
+  {
+    "question": "What do these two statements in JavaScript accomplish? data.stuff = \"hello\"; \ndata['stuff'] = \"hello\";",
+    "answer": "These two statements accomplish the same thing"
+  },
+  {
+    "question": "How is the constructor defined in JavaScript class compared to how the constructor is defined in a PHP class?",
+    "answer": "A PHP constructor is a method named __construct() and a JavaScript constructor is code in the outer function definition"
+  },
+  {
+    "question": "What is the purpose of the following JQuery ready() call? $(document).ready(function(){\n window.console && console.log('Hello JQuery..');\n});",
+    "answer": "Register a function that will be called when the HTML document is completely loaded"
+  },
+  {
+    "question": "What portion of the DOM (Document Object Model) will be affected by the following JQuery statement: $('#para').css('background-color', 'red');",
+    "answer": "A tag with an id attribute of \"para\""
+  },
+  {
+    "question": "What does the following JQuery code do? $('#spinner').toggle();",
+    "answer": "Hide or show the contents of a tag with the id attribute of \"spinner\""
+  },
+  {
+    "question": "What will the following JQuery code select from the given HTML? <p id=\"p\">two\n  <input type=\"text\" name=\"one\" value=\"three\" title=\"four\">\n  <input type=\"text\" name=\"five\" class=\"p\" value=\"p\">\n</p>\n<script>\n$('#p').find('input[name=\"one\"]').val();\n</script>",
+    "answer": "three"
+  },
+  {
+    "question": "Which of the following is not a primitive type supported in JSON?",
+    "answer": "url"
+  },
+  {
+    "question": "In the following JSON, how would you print the value \"six\"? data = {'one':'two', 'three': 4,\n  'five' : [ 'six', 'seven' ],\n  'eight' : { 'nine' : 10, 'ten' : 11  }\n}",
+    "answer": "alert(data.five[0])"
+  },
+  {
+    "question": "What would the following JavaScript print out? data = {'one':'two', 'three': 4,\n  'five' : [ 'six', 'seven' ],\n  'eight' : { 'nine' : 10, 'ten' : 11  }\n};\nalert(data.eight.nine);",
+    "answer": "10"
+  },
+  {
+    "question": "In the following code, what would you expect in the variable named \"data\"? $.getJSON('json.php', function(data) {\n    $(\"#back\").html(data.first);\n    window.console && console.log(data);\n });",
+    "answer": "Either a JavaScript object or list depending on the returned output of the script json.php"
+  },
+  {
+    "question": "Which of the following JQuery statements will hide spinner.gif in this HTML? <div id=\"chatcontent\">\n <img src=\"spinner.gif\" alt=\"Loading...\"/>\n</div>",
+    "answer": "$(\"#chatcontent\").hide();"
+  },
+  {
+    "question": "What does the PHP function json_encode() do ?",
+    "answer": "Takes a PHP object or list and serializes it into a JSON string representation"
   }
+
 ]
