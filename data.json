@@ -448,7 +448,987 @@
     "answer": "Use the risk matrix to calculate the impact and probability of the risk"
   },
   {
-    "question": "",
-    "answer": ""
+    "question": "In performing an IS audit exercise for a company for the first time, which of the following information should IS auditor review first?",
+    "answer": "The company’s background and its audit areas"
+  },
+  {
+    "question": "Which of the following is NOT a major phase of the general audit procedure",
+    "answer": "Win an Audit Engagement"
+  },
+  {
+    "question": "Which of the following areas would likely be audited when you are auditing a financial reporting system (i.e., the system that generates financial statements)?\ni. User list and corresponding access rights of such system\nii. The time required to generate the financial statement\niii. Approval flow and approval matrix for posting an accounting journal\niv. System change controls",
+    "answer": "(i), (ii) & (iv)"
+  },
+  {
+    "question": "During the “Fieldwork and Documentation” phase, if the audit client asks the IS auditors to share the observations they have obtained, can the IS auditors provide such information to the audit client?",
+    "answer": "It depends – observations cannot be shared as if it is about a crime that the IS auditors should first inform the regulator / law enforcing organization"
+  },
+  {
+    "question": "Which of the following is the best way to review whether the system users have changed their password in accordance with the password policy in the past 12 months during the relevant compliance testing?",
+    "answer": "Review the global security setting of the system and check whether it is configured in accordance with the company password policy"
+  },
+  {
+    "question": "What is “Substantive Testing”?",
+    "answer": "Audit procedure to collect evidence and evaluate the integrity of detail data, programming code and/or change requests"
+  },
+  {
+    "question": "Under what circumstance IS auditors must perform “Substantive Testing”?",
+    "answer": "Proper program change policy is in place, with good internal controls design, but it is not followed properly by the company"
+  },
+  {
+    "question": "When IS auditors collect evidence, which of the following is the most trustworthy source?",
+    "answer": "Security configurations of the system downloaded by the IS auditor"
+  },
+  {
+    "question": "When should IS auditors perform “Re-performance”?",
+    "answer": "When reviewing the control of a critical function of a system, where any failure of such control can possibly lead to a great financial impact"
+  },
+  {
+    "question": "An IS auditor needs to obtain samples of documents from the audit client, such as program change request forms, to review the internal control of the audit client over the past 12 months. What would be the most appropriate action that the IS auditor should do in terms of sampling?",
+    "answer": "IS auditor to determine the number of samples required, randomly pick the required samples based on the full set of documents from the last 12 months, and request the audit client to provide accordingly"
+  },
+  {
+    "question": "To understand whether an information system control, such as the ability to assign different levels of system access to different users of the financial trading system is designed efficiently, which document from the System Development Life Cycle (SDLC) should the IS auditor review to obtain the best relevant understanding?",
+    "answer": "Technical design document of the system"
+  },
+  {
+    "question": "Some companies prefer to outsource system development work to third-party development vendors. Which of the following is the best for the company to ensure the system development work will be done successfully by the third-party development vendor?",
+    "answer": "Provide detailed requirements / specifications to the vendor and assign experienced users to work with the development vendor on a regular basis"
+  },
+  {
+    "question": "Which of the following is the most important phase of the System Development Life Cycle (SDLC) in the perspective of having the system to support business operations effectively?",
+    "answer": "Requirement Phase"
+  },
+  {
+    "question": "When an IS Auditor audits the SDLC of a decision support system, of which the development work is outsourced to the third party, which of the following activity in relation to the system would most concern the IS Auditor?",
+    "answer": "The implementation quality of the system"
+  },
+  {
+    "question": "Which of the following control activity is required before a newly built system can be launched to support business operations?",
+    "answer": "Signing-off the final acceptance test, which is done by the user"
+  },
+  {
+    "question": "There are various types of system changeover approaches. Which of the following is the major advantage of performing Parallel Changeover approach?",
+    "answer": "To minimize the impact on the business due to the risk of system changeover failure"
+  },
+  {
+    "question": "Why do IS auditors perform the “Post-implementation Review” of an information system 3-6 months after its implementation, but not right after the system launches?",
+    "answer": "To allow system bugs to be fixed and sufficient business transactions to be performed in the system to support the review"
+  },
+  {
+    "question": "Which of the following can be considered as a risk in relation to system development?\ni. The misunderstanding of user requirements\nii. The change of relevant regulatory requirements\niii. The change of its project scope after requirement is signed-off\niv. The market competition among the outsource system development vendors",
+    "answer": "(i), (ii) & (iii)"
+  },
+  {
+    "question": "What is the primary advantage for a company to engage an independent IS auditor to review their in-house system development?",
+    "answer": "IS auditors are independent from the system development, senior management can obtain a true and fair review result from them"
+  },
+  {
+    "question": "The system users would like to do the following changes to a newly-implemented accounting system. As an IS auditor, which of the changes do you think is in the highest priority?",
+    "answer": "Implement a two-form factor authentication when generating financial statements for a more tightened security"
+  },
+  {
+    "question": "The system users would like to do the following changes to a newly-implemented accounting system. As an IS auditor, which of the changes do you think is in the lowest priority?",
+    "answer": "Enlarge the description textboxes in the journal entries page for better visibility"
+  },
+  {
+    "question": "When auditing the change requests of a point of sale system, you notice 70% of the change requests are related to adaptive maintenance, developers reflect that the effort of implementing the change is huge. As an auditor, what would be your best recommendation to the Management?",
+    "answer": "Look for the feasibility of implementing a brand new point of sale system to address the requests"
+  },
+  {
+    "question": "Prof. Dias discussed different system environments used in the change management process in this module. Which of the following is true about the system environments?",
+    "answer": "When developers modify the system, there must be a computer-generated audit trail in place, tracking who modified the program and the corresponding timestamp"
+  },
+  {
+    "question": "A user submitted a change request, which has been approved and well-documented. The developer also followed the change management procedure to make modification in the appropriate system environment and has passed the testing. However, the change does not take place in the production environment of the system eventually. The reason is likely to be ___________________________",
+    "answer": "The emergency environment has been in place for half a year which the system changes from the production environment cannot be reflected"
+  },
+  {
+    "question": "The developer has implemented the change request of enhancing the fund transfer functionality in the production environment of an e-Banking system. After an hour, the bank received complaints from customers as they cannot transfer funds, while other modules of the e-Banking system work fine. What would be the immediate step to resolve this issue from the perspective of having good IS controls and governance?",
+    "answer": "Reverse only the fund transfer module back to the previous version, following the IT change procedure of the bank"
+  },
+  {
+    "question": "You notice the auditee’s financial system contains a tremendous amount of program changes. As an IS auditor, how would you kickstart your audit practice?",
+    "answer": "IS auditor should perform random sampling, extracting a certain amount of program changes for review"
+  },
+  {
+    "question": "“Adding a Simplified Chinese language instruction to the banking system for fulfilling the latest regulatory requirement from the Chinese government” is most probably a kind of ___________ maintenance.",
+    "answer": "adaptive"
+  },
+  {
+    "question": "“Installing a patch to resolve the file attachment failure in the job application system” is a kind of __________ maintenance.",
+    "answer": "corrective"
+  },
+  {
+    "question": "Upon system implementation, the system maintenance changes are usually ____________ in nature. As time goes by, more and more system maintenance changes are ___________ in nature instead.",
+    "answer": "corrective; adaptive"
+  },
+  {
+    "question": "Risk Assessment-",
+    "answer": "considered the foundation of the audit function as they assist in developing the process for planning individual audits."
+  },
+  {
+    "question": "Business Email Compromise (BEC)",
+    "answer": "sophisticated scam targeting businesses working with foreign suppliers and/or businesses who regularly perform wire transfer payments"
+  },
+  {
+    "question": "Tech Support Fraud",
+    "answer": "occurs when the subject claims to be associated with a computer software or security company, or even a cable or Internet company, offering technical support to the victim."
+  },
+  {
+    "question": "Ransomware",
+    "answer": "form of malware targeting both human and technical weaknesses in an effort to deny the availability of critical data and/or systems"
+  },
+  {
+    "question": "Intimidation/Extortion Scam",
+    "answer": "This type of Internet crime involves posing as government, law enforcement officials, or simply someone pretending to have a certain level of authority to persuade unaware victims to provide their personal information."
+  },
+  {
+    "question": "Give the explanation of PCAOB:",
+    "answer": "is a non-for-profit corporation instituted by Congress to oversee the audits of public companies in order to protect the interests of investors and further the public interest in the preparation of informative, accurate, and independent audit reports."
+  },
+  {
+    "question": "Select all possible appropriate options, ISACA:",
+    "answer": "All of them"
+  },
+  {
+    "question": "The term that is defined as service availability, and the level of trust and confidence that can be placed on the information",
+    "answer": "Information assurance"
+  },
+  {
+    "question": "Which one is not included in the IT audit?",
+    "answer": "Cancelling the needs of preparing paychecks for a large number of companies;"
+  },
+  {
+    "question": "What is big data as defined by TechAmerica Foundation’s Federal Big Data Commission?",
+    "answer": "describes large volumes of high velocity, complex and variable data that require advanced techniques and technologies to enable the capture, storage, distribution, management, and analysis of the information"
+  },
+  {
+    "question": "Find an auditing service in the list below:",
+    "answer": "Produce all types of financial reports and documentation"
+  },
+  {
+    "question": "What is not included in the risk assessment?",
+    "answer": "describe the importance of a change control system and management."
+  },
+  {
+    "question": "Not an example of an IT audit report?",
+    "answer": "Interviewing organization personnel, including users, systems analysts, and programmers."
+  },
+  {
+    "question": "What does the ASL command Extract do ?",
+    "answer": "Selects records or fields from a file or current table, and copies them to a different file or table."
+  },
+  {
+    "question": "What does the ASL command Export do ?",
+    "answer": "Sends data to external file (e.g., database, Excel, text file, etc.) for use outside ACL."
+  },
+  {
+    "question": "What does the ASL command Sorting do ?",
+    "answer": "Sorts or organizes the active table into ascending or descending order based on specified key fields."
+  },
+  {
+    "question": "What does the ASL command Verify do ?",
+    "answer": "Checks for data validity errors in the active table. Ensures that data in a table conform to the table layout and reports on any errors encountered"
+  },
+  {
+    "question": "What does the ASL command Search do ?",
+    "answer": "Locates first record in an indexed table that meets a specified criteria/condition."
+  },
+  {
+    "question": "What does the ASL command Append do ?",
+    "answer": "Adds command output to the end of an existing file instead of overwriting the existing file."
+  },
+  {
+    "question": "What is the process by which an enterprise’s IT is directed and controlled?",
+    "answer": "IT Governance"
+  },
+  {
+    "question": "What kind of category does GAAS cover?",
+    "answer": "General Standards, Standards of Fieldwork, Standards of Reporting"
+  },
+  {
+    "question": "What type of audit function evaluates the reliability and the validity of systems controls in all forms?",
+    "answer": "External Audit Function"
+  },
+  {
+    "question": "Which phase of an audit may include procedures such as examining documentary evidence, as well as performing corroborating interviews, inspections, and personal observations?",
+    "answer": "Test controls"
+  },
+  {
+    "question": "Nonprofit corporation created by the Sarbanes–Oxley Act (SOX) of 2002 to oversee the audits of public companies?",
+    "answer": "PCAOB"
+  },
+  {
+    "question": "What is the primary emphasis of the COBIT framework?",
+    "answer": "to ensure that technology provides businesses with relevant, timely, and quality information for decision-making purposes"
+  },
+  {
+    "question": "___________ supports the need to research, develop, publicize, and promote up-to-date interna- tionally accepted IT control objectives.",
+    "answer": "COBIT"
+  },
+  {
+    "question": "Choose the correct phases of an audit.",
+    "answer": "Risk assessment->Audit plan->Preliminary review->Design audit procedures"
+  },
+  {
+    "question": "How many principles are there in COBIT?",
+    "answer": "5"
+  },
+  {
+    "question": "Which of the following is true about “Governance”?",
+    "answer": "optimizes the use of organizational resources to effectively address risks."
+  },
+  {
+    "question": "What statement is correct about “Management”?",
+    "answer": "plan, build, run, and monitor the activities and processes used by the organization topursue the objectives established by the board."
+  },
+  {
+    "question": "What is the ERP?",
+    "answer": "Enterprise Resource Planning"
+  },
+  {
+    "question": "Name criteria for use by practitioners when providing professional attestation",
+    "answer": "Security, availability, processing integrity, confidentiality, privacy"
+  },
+  {
+    "question": "Why IT auditing became an integral part of the audit function?",
+    "answer": "Because it supports the auditor’s judgment on the quality of the information processed by computer systems"
+  },
+  {
+    "question": "What helps ensure that IT supports business goals, maximizes business investment in IT, and appropriately manages IT-related risks?",
+    "answer": "Effective IT governance"
+  },
+  {
+    "question": "What was the purpose of the Privacy Act of 1974?",
+    "answer": "to provide certain safeguards to an individual against an invasion of personal privacy"
+  },
+  {
+    "question": "___________ is concerned with matching the demand for materials in the organization with the supply.",
+    "answer": "Material Planning"
+  },
+  {
+    "question": "_____________enables an organization to optimize its product development process, from design to market, while ensuring that it complies with industry, quality, and regulatory standards?",
+    "answer": "Lifecycle Data Management"
+  },
+  {
+    "question": "Which system connects a company's ERP system to those of its customers?",
+    "answer": "Customer Relationship Management (CRM)"
+  },
+  {
+    "question": "_____________ is the administration of mobile devices, such as smartphones, tablet computers, and laptops.",
+    "answer": "Mobile device management (MDM)"
+  },
+  {
+    "question": "Access control management is an important component of effectively managing the flow of people and restricting access where there is a need.",
+    "answer": "Access control management"
+  },
+  {
+    "question": "_____________ plan, build, run, and monitor the activities and processes used by the organization to pursue the objectives established by the board.",
+    "answer": "Management"
+  },
+  {
+    "question": "Change control management system refers to the controlled set of actions to ensure that a change does not negatively impact a product’s safety, quality or compliance.",
+    "answer": "Change control management"
+  },
+  {
+    "question": "The economic demand for auditing is driven by",
+    "answer": "information risk"
+  },
+  {
+    "question": "The recording, classifying, and summarizing of economic events in a logical manner for the purpose of providing financial information for decision-making purposes",
+    "answer": "accounting"
+  },
+  {
+    "question": "Any information used by the auditor to determine whether the information being audited is stated in accordance with the established criteria",
+    "answer": "evidence"
+  },
+  {
+    "question": "The accumulation and evaluation of evidence about information to determine the report on the degree of correspondence between the information and established criteria",
+    "answer": "auditing"
+  },
+  {
+    "question": "An independent professional service that improves the quality of information for decision makers",
+    "answer": "assurance service"
+  },
+  {
+    "question": "Type of assurance service in which the CPA firm issues a report about a subject matter or assertion that is made by another party",
+    "answer": "attestation services"
+  },
+  {
+    "question": "How many types of audits?",
+    "answer": "3"
+  },
+  {
+    "question": "What are audit productivity tools?",
+    "answer": "software that helps auditors reduce the amount of time spent on administrative tasks by automating the audit function and integrating information gathered as part of the audit process"
+  },
+  {
+    "question": "Abbreviation of CAATs",
+    "answer": "Computer-assisted audit techniques"
+  },
+  {
+    "question": "Examples of audit functions that may be automated through auditor productivity tools not include:",
+    "answer": "Computer communication"
+  },
+  {
+    "question": "Human resource and payroll includes new employee form and existing employee change form.",
+    "answer": "True"
+  },
+  {
+    "question": "Flowcharts developed during the _________ analysis phase of audit engagement.",
+    "answer": "application"
+  },
+  {
+    "question": "_________ represent a method for identifying and evaluating control strengths and weaknesses within a financial application system under examination.",
+    "answer": "Flowcharts"
+  },
+  {
+    "question": "CAATs can be used only by IT auditors in a variety of ways to evaluate the integrity of an application, determine compliance with procedures, and continuously monitor processing results.",
+    "answer": "False"
+  },
+  {
+    "question": "Data analysis programs use techniques such as:",
+    "answer": "Histograms"
+  },
+  {
+    "question": "The sample is randomly selected and evaluated through the application of the probability theory",
+    "answer": "Statistical sampling"
+  },
+  {
+    "question": "A method of random sampling that separates the population into similar groups, and then selects a random sample from the group",
+    "answer": "Cluster Sampling (Block Sampling)"
+  },
+  {
+    "question": "Which of these is NOT an operational planning process?",
+    "answer": "Risk Management"
+  },
+  {
+    "question": "IT Governance Framework(s) that provides best practice recommendations related to the management of information security:",
+    "answer": "ISO/IEK 27002"
+  },
+  {
+    "question": "What is Transition?",
+    "answer": "aims at managing change, risk, and quality assurance during the deployment of an IT service"
+  },
+  {
+    "question": "What are best practice processes (or requirements) implemented to guide toward a solution?",
+    "answer": "Design"
+  },
+  {
+    "question": "How many principles does the COBIT based on?",
+    "answer": "Five"
+  },
+  {
+    "question": "According to a Gartner Group report....",
+    "answer": "95% of businesses do not have a well-defined business strategy"
+  },
+  {
+    "question": "Who should be responsible for developing and implementing the IT strategy?",
+    "answer": "senior management of the organization"
+  },
+  {
+    "question": "The basics of the CIO function as described by the Society for Human Resource Management include:",
+    "answer": "True"
+  },
+  {
+    "question": "The IT Steering Committee may include:",
+    "answer": "True"
+  },
+  {
+    "question": "Projects need to be reviewed early in their life cycle to ensure they have a sound _________.",
+    "answer": "Business case"
+  },
+  {
+    "question": "From what points of view is the risk assessed?",
+    "answer": "likelihood and impact."
+  },
+  {
+    "question": "Critical - risks can lead, for example, to bankruptcy?",
+    "answer": "True"
+  },
+  {
+    "question": "Minor - possible losses will not lead to bankruptcy, but will require the company to",
+    "answer": "False"
+  },
+  {
+    "question": "What is information?",
+    "answer": "Data is organized and processed to give meaning and thus improve decision making."
+  },
+  {
+    "question": "Relevance: the information is relevant and applicable to the decision (for example, for a decision to extend a loan, the client will need relevant information about the client's balance from the receivables maturities report, etc.).",
+    "answer": "True"
+  },
+  {
+    "question": "In terms of risk assessments, what are Unimportant risks?",
+    "answer": "exposures that could be accommodated by existing assets or current income without imposing undue financial strain."
+  },
+  {
+    "question": "What is the Transfer way in risk response?",
+    "answer": "Common methods of risk transfer include acquiring insurance or outsourcing services. As an example, a company that needs to update its financial application system may choose to outsource or subcontract such a project to an outsider."
+  },
+  {
+    "question": "___ are intended to discover problems that cannot be prevented. Examples of a detective control include performing reconciliations of bank accounts, trial balances, etc. What type of control is this part?",
+    "answer": "Detective"
+  },
+  {
+    "question": "Two or more independent people can produce the same conclusion. In the item information and communication, what type is this?",
+    "answer": "Verifiable"
+  },
+  {
+    "question": "The work of the IT department, headed by the chief technology officer (CTO)?",
+    "answer": "would be evaluating, managing, and accepting the risks associated with this type of enterprise-wide technology."
+  },
+  {
+    "question": "NIST.gov. has provided a number of audit, control, and security resources as well as identification of best practices in managing and reviewing IT risk in many areas.",
+    "answer": "False"
+  },
+  {
+    "question": "Statements on Auditing Standards (SAS) are issued by the Auditing Standards Board of the AICPA and are recognized as interpretations of the 10 generally accepted auditing standards.",
+    "answer": "True"
+  },
+  {
+    "question": "Government Accountability Office (GAO) –",
+    "answer": "is a nonpartisan agency within the legislative branch of the government."
+  },
+  {
+    "question": "____ helps organizations create optimal value from IT by maintaining a balance between realizing benefits and optimizing risk levels and resource use.",
+    "answer": "COBIT"
+  },
+  {
+    "question": "Choose the correct question of prevention risk response technique",
+    "answer": "Are there controls in place to prevent the risk from occurring?"
+  },
+  {
+    "question": "What is the purpose of project management?",
+    "answer": "The purpose of project management is to identify, establish, coordinate, and monitor activities, tasks, and resources for a project that is consistent with the goals and objectives of the organization."
+  },
+  {
+    "question": "What project management methodologies exist?",
+    "answer": "Traditional / Waterfall; Agile Project Management; Systems Development Life Cycle"
+  },
+  {
+    "question": "What does SDLC stand for?",
+    "answer": "Systems Development Life Cycle"
+  },
+  {
+    "question": "When to use the AgIle Methodology?",
+    "answer": "used in projects requiring special flexibility in requirements, focuses on adaptability to changing situations and constant feedback."
+  },
+  {
+    "question": "According to a Gartner Group report....",
+    "answer": "95% of businesses do not have a well-defined business strategy"
+  },
+  {
+    "question": "Who should be responsible for developing and implementing the IT strategy?",
+    "answer": "senior management of the organization"
+  },
+  {
+    "question": "The basics of the CIO function as described by the Society for Human Resource Management include: - Formal communication of new or revised information systems policies and procedures to all users in the organization.",
+    "answer": "True"
+  },
+  {
+    "question": "The IT Steering Committee may include:\n◾ Analysis of business and technology strategies and plans.\n◾ Prioritization of major development projects.",
+    "answer": "True"
+  },
+  {
+    "question": "Projects need to be reviewed early in their life cycle to ensure they have a sound _________.",
+    "answer": "Business case"
+  },
+  {
+    "question": "From what points of view is the risk assessed?",
+    "answer": "likelihood and impact."
+  },
+  {
+    "question": "Critical - risks can lead, for example, to bankruptcy?",
+    "answer": "True"
+  },
+  {
+    "question": "Minor - possible losses will not lead to bankruptcy, but will require the company to",
+    "answer": "False"
+  },
+  {
+    "question": "What is information?",
+    "answer": "Data is organized and processed to give meaning and thus improve decision making."
+  },
+  {
+    "question": "Relevance: the information is relevant and applicable to the decision (for example, for a decision to extend a loan, the client will need relevant information about the client's balance from the receivables maturities report, etc.).",
+    "answer": "True"
+  },
+  {
+    "question": "In terms of risk assessments, what are Unimportant risks?",
+    "answer": "exposures that could be accommodated by existing assets or current income without imposing undue financial strain."
+  },
+  {
+    "question": "What is the Transfer way in risk response?",
+    "answer": "Common methods of risk transfer include acquiring insurance or outsourcing services. As an example, a company that needs to update its financial application system may choose to outsource or subcontract such a project to an outsider."
+  },
+  {
+    "question": "___ are intended to discover problems that cannot be prevented. Examples of a detective control include performing reconciliations of bank accounts, trial balances, etc. What type of control is this part?",
+    "answer": "Detective"
+  },
+  {
+    "question": "Two or more independent people can produce the same conclusion. In the item information and communication, what type is this?",
+    "answer": "Verifiable"
+  },
+  {
+    "question": "The work of the IT department, headed by the chief technology officer (CTO)?",
+    "answer": "would be evaluating, managing, and accepting the risks associated with this type of enterprise-wide technology."
+  },
+  {
+    "question": "NIST.gov. has provided a number of audit, control, and security resources as well as identification of best practices in managing and reviewing IT risk in many areas.",
+    "answer": "False"
+  },
+  {
+    "question": "Statements on Auditing Standards (SAS) are issued by the Auditing Standards Board of the AICPA and are recognized as interpretations of the 10 generally accepted auditing standards.",
+    "answer": "True"
+  },
+  {
+    "question": "Government Accountability Office (GAO) –",
+    "answer": "is a nonpartisan agency within the legislative branch of the government."
+  },
+  {
+    "question": "____ helps organizations create optimal value from IT by maintaining a balance between realizing benefits and optimizing risk levels and resource use.",
+    "answer": "COBIT"
+  },
+  {
+    "question": "Choose the correct question of prevention risk response technique",
+    "answer": "Are there controls in place to prevent the risk from occurring?"
+  },
+  {
+    "question": "What is the purpose of project management?",
+    "answer": "The purpose of project management is to identify, establish, coordinate, and monitor activities, tasks, and resources for a project that is consistent with the goals and objectives of the organization."
+  },
+  {
+    "question": "What project management methodologies exist?",
+    "answer": "Traditional / Waterfall; Agile Project Management ;Systems Development Life Cycle"
+  },
+  {
+    "question": "What does SDLC stand for?",
+    "answer": "Systems Development Life Cycle"
+  },
+  {
+    "question": "When to use the AgIle Methodology?",
+    "answer": "used in projects requiring special flexibility in requirements, focuses on adaptability to changing situations and constant feedback."
+  },
+  {
+    "question": "What does NOT include project management tools?",
+    "answer": "Development testing"
+  },
+  {
+    "question": "What are the responsibilities of a project manager?",
+    "answer": "All of the above"
+  },
+  {
+    "question": "Which groups does the auditor establish relationships with?",
+    "answer": "Database administrators"
+  },
+  {
+    "question": "Which includes the area of ​​management and monitoring and control?",
+    "answer": "includes processing change requests, reviewing the current budget, considerations and mitigation of contingencies that could impair the ability of the team to meet the original goals and expectations of the project."
+  },
+  {
+    "question": "From what project management audit begins?",
+    "answer": "preliminary analysis of the control environment"
+  },
+  {
+    "question": "Where does the task of the auditor to determine the level of participation begin?",
+    "answer": "risk assessment"
+  },
+  {
+    "question": "During which phase the auditor can facilitate communication between functions and raise issues that may impact the quality of the project?",
+    "answer": "planning"
+  },
+  {
+    "question": "The scope of a project management audit can include an evaluation of the administrative controls over the project.",
+    "answer": "True"
+  },
+  {
+    "question": "What does PERT stand for in an IT audit?",
+    "answer": "Program Evaluation and Review Technique"
+  },
+  {
+    "question": "The PMI defines methodology as a “system of practices, techniques, procedures and rules used by those who work in a discipline.”",
+    "answer": "True"
+  },
+  {
+    "question": "What is the primary standards organization for project management ?",
+    "answer": "Project Management Institute"
+  },
+  {
+    "question": "SDLC stands for…",
+    "answer": "Systems Development Life Cycle"
+  },
+  {
+    "question": "Which of these is the correct order of the SDLC?",
+    "answer": "Planning, Analysis, Design, Implementation, Maintenance"
+  },
+  {
+    "question": "What happens in the design phase?",
+    "answer": "Planning the solution, look and feel of the software interface"
+  },
+  {
+    "question": "What happens in the implementation phase?",
+    "answer": "The deliverables of the implementation stage are created e.g. the code"
+  },
+  {
+    "question": "What happens in the Analysis Stage?",
+    "answer": "Look at the existing system and find areas to improve"
+  },
+  {
+    "question": "Which stage comes after Design?",
+    "answer": "Development and Testing"
+  },
+  {
+    "question": "What happens in the Development and Testing Stage?",
+    "answer": "Create the new system and test it"
+  },
+  {
+    "question": "User Manuals and Technical guides are created in which stage of the System Analysis and Design?",
+    "answer": "Documentation"
+  },
+  {
+    "question": "How many types of testing are given in system life cycle",
+    "answer": "4"
+  },
+  {
+    "question": "Which of them is the slowest method of system implementation.",
+    "answer": "Parallel"
+  },
+  {
+    "question": "Allowing the designer of the new system to review documentation. What needs to take place to make sure a newly developed system works correctly?",
+    "answer": "Testing"
+  },
+  {
+    "question": "Conversion strategies used to change from old system to new system.",
+    "answer": "True"
+  },
+  {
+    "question": "A rudimentary prototype can be redesigned and enhanced many times before the final form is accepted.",
+    "answer": "True"
+  },
+  {
+    "question": "Define SDLC",
+    "answer": "Set of activities / phases used to build an information system"
+  },
+  {
+    "question": "ERP is:",
+    "answer": "enterprise resource planning systems"
+  },
+  {
+    "question": "On what basis are ERP systems usually built?",
+    "answer": "Modular"
+  },
+  {
+    "question": "The main areas for the dissemination of security information are:",
+    "answer": "IT, users, management"
+  },
+  {
+    "question": "After launching the application into production, what kind of access is available to programmers?",
+    "answer": "Read-only"
+  },
+  {
+    "question": "Which devices are really at risk of 'Remote Access' if it is unauthorized?",
+    "answer": "client devices"
+  },
+  {
+    "question": "What does EUD stands for?",
+    "answer": "End-user development"
+  },
+  {
+    "question": "What is the description of Field check",
+    "answer": "Confirms that characters in a field are of a proper type."
+  },
+  {
+    "question": "What does EDI stands for?",
+    "answer": "Electronic Data Interchange"
+  },
+  {
+    "question": "Based on the McAfee Labs report, 650 million virus attacks are approaching in December",
+    "answer": "True"
+  },
+  {
+    "question": "The scope of a project management audit can include an evaluation of the administrative controls over the project.",
+    "answer": "True"
+  },
+  {
+    "question": "Which groups does the auditor establish relationships with?",
+    "answer": "Database administrators"
+  },
+  {
+    "question": "What is ERP?",
+    "answer": "Enterprise Resource Planning"
+  },
+  {
+    "question": "Which stage comes after Design?",
+    "answer": "Development and Testing"
+  },
+  {
+    "question": "How many types of testing are given in system life cycle",
+    "answer": "4"
+  },
+  {
+    "question": "Which of the following has a potential transformational effect on IT environments, data centers, technology providers?",
+    "answer": "IoT"
+  },
+  {
+    "question": "The goal of this strategy is to ensure that systems to be integrate well and are compatible with existing software and technology infrastructure",
+    "answer": "True"
+  },
+  {
+    "question": "Select one of the processes of Systems Acquisition Process",
+    "answer": "Carrying out the selection process"
+  },
+  {
+    "question": "What is the final process of Systems Acquisition Process?",
+    "answer": "Completing final acceptance"
+  },
+  {
+    "question": "Which option describes the economic category of  performing a feasibility analysis?",
+    "answer": "The expenses of a system include procurement, start-up, project-specific issues, and impact to operations."
+  },
+  {
+    "question": "A Request for Proposal (RFP) offers flexibility to respondents to further define or explore the requested requirements",
+    "answer": "True"
+  },
+  {
+    "question": "Choose the option that NOT includes as a software contract terms",
+    "answer": "Documentation for business analysis processes"
+  },
+  {
+    "question": "Request for Information (RFI)  is a document that specifies the minimally acceptable requirements (functional, technical, and contractual)",
+    "answer": "True"
+  },
+  {
+    "question": "_______________ for an organization includes defined IT services; SLAs; design services and pricing; service engagement and delivery; and service measurements to track performance.",
+    "answer": "The service management process"
+  },
+  {
+    "question": "Service management is dependent on well-functioning processes in asset management, financial management, service delivery, service desk, problem management, change management, and relationship management.",
+    "answer": "True"
+  },
+  {
+    "question": "Choose the wrong answer “SLA can be made between?”",
+    "answer": "Between customers and suppliers"
+  },
+  {
+    "question": "SLA –",
+    "answer": "Service Level Agreement"
+  },
+  {
+    "question": "Types of Service Level Agreement – Customer Service Level Agreement, Operating Service Level Agreement, Supplier Service Level Agreement",
+    "answer": "FALSE"
+  },
+  {
+    "question": "An operating level agreement helps set expectations between",
+    "answer": "Between operations and application groups"
+  },
+  {
+    "question": "All models in service management require an internal process",
+    "answer": "Manage service levels, costs, risk"
+  },
+  {
+    "question": "Internal measures keep the IT group focused on things the customer cares about.",
+    "answer": "FALSE"
+  },
+  {
+    "question": "Tools are needed to capture performance, usage metrics from the various platforms, and to consolidate and report on all of this information.",
+    "answer": "TRUE"
+  },
+  {
+    "question": "Service organizations (S.O.) are established to offer services to organizations that decide to outsource, for example, their data processing services.",
+    "answer": "TRUE"
+  },
+  {
+    "question": "What is the main purpose of an IT change control management?",
+    "answer": "ensure the integrity, availability, reliability, security, confidentiality, and accuracy of an organization or IT system supporting the organization"
+  },
+  {
+    "question": "Is the change management system part of the three main computer systems?",
+    "answer": "True"
+  },
+  {
+    "question": "The change management process does not benefit organizations by reducing system disruptions",
+    "answer": "False"
+  },
+  {
+    "question": "Is ensuring a consistent implementation of changes that allows management to allocate staff and system time efficiently and meet planned implementation deadlines as a benefit of change control management?",
+    "answer": "True"
+  },
+  {
+    "question": "A change control management process typically covers:",
+    "answer": "Change request form"
+  },
+  {
+    "question": "A change request form ensures that only authorized changes are implemented",
+    "answer": "True"
+  },
+  {
+    "question": "Which law is appropriate for integrating change requests, software changes, and software distribution",
+    "answer": "Sarbanes-Oxley Act of 2002"
+  },
+  {
+    "question": "Git is not a VCS change tracking tool",
+    "answer": "False"
+  },
+  {
+    "question": "What is Application Software for?",
+    "answer": "Application software is computing software designed to perform a specific task other than that related to the operation of the computer itself and is usually intended for use by end users."
+  },
+  {
+    "question": "Which of these is not one of the types of Change Control Management Process",
+    "answer": "non-urgent"
+  },
+  {
+    "question": "What methods should not include software distribution (multiple choice)",
+    "answer": "Obtaining copies of help desk call logs to determine adverse impacts from changes."
+  },
+  {
+    "question": "A change control management process typically covers the following:",
+    "answer": "Change request form, Controls, Change documentation"
+  },
+  {
+    "question": "What is the most important area of control in any information processing environment?",
+    "answer": "management that makes changes to existing systems"
+  },
+  {
+    "question": "Potential objectives of change control management procedures include:",
+    "answer": "Identify the personnel requesting the change"
+  },
+  {
+    "question": "Which of them are not possible sources of information for members of the management board or the change control committee?",
+    "answer": "Ordinary users"
+  },
+  {
+    "question": "All key employees and departments affected by the change should be notified of its implementation schedule. Those who may require notification include:",
+    "answer": "End users of the system and manufacturers"
+  },
+  {
+    "question": "The change of culture and structure should be carried out throughout the entire life cycle. This includes people, organization, and culture.",
+    "answer": "Managing Organizational Change"
+  },
+  {
+    "question": "What does the CIs stand for?",
+    "answer": "Software Configuration Elements"
+  },
+  {
+    "question": "Authorization, Testing (acceptance of the device, system and user), Documentation these areas cover:",
+    "answer": "Audit Involvement"
+  },
+  {
+    "question": "How does SCM stand for?",
+    "answer": "Software configuration management"
+  },
+  {
+    "question": "How many blocks does a flowchart consist of, depicting a standard change control management process?",
+    "answer": "4"
+  },
+  {
+    "question": "Errors in data processing usually relate to ________ and actual monitoring of the job processing.",
+    "answer": "job scheduling"
+  },
+  {
+    "question": "Physical security and access controls NOT include",
+    "answer": "Schedule"
+  },
+  {
+    "question": "BCP",
+    "answer": "business continuity plan"
+  },
+  {
+    "question": "DRP",
+    "answer": "Disaster Recovery Plan"
+  },
+  {
+    "question": "DRP is a",
+    "answer": "survival tool that helps businesses respond to threats and recover in the wake of an event that disrupts normal business operations"
+  },
+  {
+    "question": "The DRP should identify various levels of recovery, from an isolated event to a widespread disaster.",
+    "answer": "True"
+  },
+  {
+    "question": "Why are physical security and access controls important to organizations",
+    "answer": "control movement of servers, network-related equipment"
+  },
+  {
+    "question": "DRP should address components:",
+    "answer": "True"
+  },
+  {
+    "question": "Once controls are in place, they can be tested for adequacy and effectiveness. Who does this?",
+    "answer": "auditors"
+  },
+  {
+    "question": "Who should evaluate the controls and determine whether the objectives have been achieved?",
+    "answer": "IT auditors"
+  },
+  {
+    "question": "How many of the organizations surveyed have either moved most of their business continuity and disaster recovery tasks to the cloud (including backup) or plan to do so in the near future?",
+    "answer": "44%"
+  },
+  {
+    "question": "What are the three fundamental objectives for information and confidentiality?",
+    "answer": "Confidentiality, integrity, availability"
+  },
+  {
+    "question": "What is FIPS?",
+    "answer": "Federal Information Processing Standards"
+  },
+  {
+    "question": "What is ERP?",
+    "answer": "Enterprise Resource Planning"
+  },
+  {
+    "question": "Primary ERP supplies include:",
+    "answer": "SAP, Oracle, Microsoft"
+  },
+  {
+    "question": "Based on the July 2015’s ISACA Innovation Insights report, which one was considered as a key trend driving business?",
+    "answer": "Cloud computing"
+  },
+  {
+    "question": "What is the main tool which is used by cloud computing?",
+    "answer": "Internet"
+  },
+  {
+    "question": "MDM stands for:",
+    "answer": "Mobile Device Management"
+  },
+  {
+    "question": "MDM is responsible for:",
+    "answer": "Managing and administrating mobile devices"
+  },
+  {
+    "question": "Employees can bring their own mobile device to the organization",
+    "answer": "True"
+  },
+  {
+    "question": "How can mobile devices be used in organizations?",
+    "answer": "Personal and work purposes"
+  },
+  {
+    "question": "Which of the following has a potential transformational effect on IT environments, data centers, technology providers?",
+    "answer": "IoT"
+  },
+  {
+    "question": "IoT, as defined by Gartner, Inc., is a system that allows remote assets from “things” (e.g., stationary or mobile devices, sensors, objects, etc.) to interact and communicate among them and with other network systems.",
+    "answer": "True"
+  },
+  {
+    "question": "What is “spamming”?",
+    "answer": "Disruptive online messages, especially commercial messages posted on a computer network or sent as email."
+  },
+  {
+    "question": "What is “Denial-of-service attack”?",
+    "answer": "Attack designed to disable a network by flooding it with useless traffic."
+  },
+  {
+    "question": "What is “worm”?",
+    "answer": "Independent program code that replicates itself and eats away at data, uses up memory, and slows down processing."
+  },
+  {
+    "question": "How many categories does the Feasibility Analysis include?",
+    "answer": "5"
   }
 ]
