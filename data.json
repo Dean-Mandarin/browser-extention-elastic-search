@@ -1,22 +1,859 @@
 [
   {
-    "question": "What is risk?",
-    "answer": "The happening of an event is uncertain, with the possibility to bring positive and/or negative impacts"
-  },
-  {
-    "question": "In the lecture video 1.2, Prof. Dias mentioned that internal man-made threat is more serious than an external man-made threat. Why is it so?",
-    "answer": "Internal man-made threat is relatively more difficult to be prevented as if a staff is intended to steal the digital assets which he / she is being granted with corresponding access rights to such digital assets according to his/her roles"
-  },
-  {
-    "question": "When determining the risk level of an event, which two elements of such event should be assessed?",
-    "answer": "“Impact” and “Probability”"
-  },
-  {
-    "question": "What types of assessments can be found in this course? You can select more than one.",
+    "question": "Select two fundamental characteristics of cloud computing from this list.",
     "answer": [
-      "Knowledge Check quizzes",
-      "Peer Review exercise",
-      "Module Review quizzes"
+      "Resources are available from anywhere over the network.",
+      "Customers can scale their resource use up and down."
+    ]
+  },
+  {
+    "question": "Which one of the following statements is true regarding the ability to scale cloud computing resources up and down?",
+    "answer": "CPU, memory, and storage resources are elastic."
+  },
+  {
+    "question": "What cloud computing service binds application code to libraries that give access to the infrastructure an application needs?",
+    "answer": "Platform as a service"
+  },
+  {
+    "question": "What cloud computing service provides raw compute, storage, and network resources that are organized similarly to physical data centers?",
+    "answer": "Infrastructure as a service"
+  },
+  {
+    "question": "What is the primary benefit to a Google Cloud customer of using resources in several zones within a region?",
+    "answer": "For improved fault tolerance"
+  },
+  {
+    "question": "Who benefits the most from billing by the second for cloud resources, such as virtual machines?",
+    "answer": "Customers who create and run many virtual machines"
+  },
+  {
+    "question": "When would you choose to have an organization node? (Select two)",
+    "answer": [
+      "When you want to create folders",
+      "When you want to centrally apply organization-wide policies"
+    ]
+  },
+  {
+    "question": "Which statement best describes how Google Cloud resources are associated within the resource hierarchy?",
+    "answer": "All Google Cloud resources are associated with a project."
+  },
+  {
+    "question": "Consider a single hierarchy of Google Cloud resources. Which of these situations is possible? (Choose 3 responses.)",
+    "answer": [
+      "There is no organization node, and there are no folders.",
+      "There is an organization node, and there are no folders.",
+      "There is an organization node, and there is at least one folder."
+    ]
+  },
+  {
+    "question": "Your company has two Google Cloud projects and you want them to share policies. What is the least error-prone way to set this up?",
+    "answer": "Place both projects into a folder, and define the policies on that folder."
+  },
+  {
+    "question": "What is the difference between Identity and Access Management (IAM) basic roles and IAM predefined roles?",
+    "answer": "Basic roles affect all resources in a Google Cloud project. Predefined roles apply to a specific service in a project."
+  },
+  {
+    "question": "Select the option that displays IAM roles from general to specific.",
+    "answer": "Basic roles, predefined roles, custom roles"
+  },
+  {
+    "question": "How does the resource hierarchy control how IAM policies are inherited?",
+    "answer": "IAM policies that are implemented by lower-level policies can override the policies defined at a higher level"
+  },
+  {
+    "question": "Which way of accessing Google Cloud lets you control services through the code you write?",
+    "answer": "APIs"
+  },
+  {
+    "question": "Which term describes a secure, individual, private cloud-computing model hosted within a public cloud?",
+    "answer": "Virtual private cloud (VPC)"
+  },
+  {
+    "question": "Select the true statement about Google’s VPC networks and subnets",
+    "answer": "Networks are global, and subnets are regional"
+  },
+  {
+    "question": "Preemptible VMs can offer advantages over a standard Compute Engine VM. What is a reason customers choose preemptible VMs?",
+    "answer": "To reduce cost"
+  },
+  {
+    "question": "Which statement best describes how VPC routers and firewalls work?",
+    "answer": "They are managed by Google as a built-in feature"
+  },
+  {
+    "question": "Which interconnect option is a service level agreement (SLA) available for?",
+    "answer": "Dedicated Interconnect"
+  },
+  {
+    "question": "A Google Cloud customer wants to load-balance traffic among the backend VMs that form part of a multi-tier application. Which load-balancing option should this customer choose?",
+    "answer": "The regional internal load balancer"
+  },
+  {
+    "question": "Which statement describes the correct Cloud Storage use case?",
+    "answer": "Cloud Storage provides durable and highly available object storage."
+  },
+  {
+    "question": "Why would a customer consider the Coldline Storage class?",
+    "answer": "To save money on storing infrequently accessed data"
+  },
+  {
+    "question": "Which SQL database service can scale to petabyte database sizes?",
+    "answer": "Cloud Spanner"
+  },
+  {
+    "question": "How are Firestore and Bigtable alike? (Select two answers.)",
+    "answer": [
+      "They are both highly scalable.",
+      "They are both NoSQL databases."
+    ]
+  },
+  {
+    "question": "You manufacture devices with sensors and need to stream huge amounts of data from these devices to a storage option in the cloud. Which storage option is the best choice for your application?",
+    "answer": "Bigtable"
+  },
+  {
+    "question": "Your application needs to store data with strong transactional consistency, and you want seamless scaling up. Which storage option is the best choice for your application?",
+    "answer": "Cloud Spanner"
+  },
+  {
+    "question": "Select two reasons for using containers to deploy applications. (Choose 2 responses.)",
+    "answer": [
+      "Migrating workloads is simpler.",
+      "It creates consistency across development, testing, and production environments."
+    ]
+  },
+  {
+    "question": "How do containers access an operating system?",
+    "answer": "Containers use a shared base operating system stored in a shared kernel layer."
+  },
+  {
+    "question": "What is a Kubernetes pod?",
+    "answer": "A group of containers"
+  },
+  {
+    "question": "What is a Kubernetes cluster?",
+    "answer": "A group of machines where Kubernetes can schedule workloads."
+  },
+  {
+    "question": "Where do the resources used to build Google Kubernetes Engine clusters come from?",
+    "answer": "Compute Engine"
+  },
+  {
+    "question": "How do you keep your Kubernetes version updated in Google Kubernetes Engine?",
+    "answer": "The Google Kubernetes Engine team periodically performs automatic upgrades of your cluster to newer stable versions."
+  },
+  {
+    "question": "Anthos provides a rich set of tools for monitoring and maintaining the consistency of your applications across which of the following locations?",
+    "answer": "Applications hosted on-premises, in the cloud, or in multiple clouds."
+  },
+  {
+    "question": "App Engine is best suited to the development and hosting of which type of application?",
+    "answer": "A web application"
+  },
+  {
+    "question": "Which statements are true about App Engine? (Select 2).",
+    "answer": [
+      "The daily billing for an App Engine application can drop to zero.",
+      "App Engine manages the hardware and networking infrastructure required to run your code."
+    ]
+  },
+  {
+    "question": "What are the advantages of using App Engine’s flexible environment instead of its standard environment? (Select 3).",
+    "answer": [
+      "Your application can write to the local disk.",
+      "You can use SSH to connect to the virtual machines on which your application runs.",
+      "You can install third-party binaries across all languages."
+    ]
+  },
+  {
+    "question": "Which Google Cloud service should you choose to perform business analytics and billing for a customer-facing API?",
+    "answer": "Apigee API Management"
+  },
+  {
+    "question": "Select the managed compute platform that lets you run stateless containers through web requests or Pub/Sub events.",
+    "answer": "Cloud Run"
+  },
+  {
+    "question": "Cloud Run can only pull images from:",
+    "answer": "Artifact Registry"
+  },
+  {
+    "question": "Why would a developer choose to store source code in Cloud Source Repositories? (Select 2)",
+    "answer": [
+      "To reduce work",
+      "To keep code private to a Google Cloud project"
+    ]
+  },
+  {
+    "question": "Why might a Google Cloud customer choose to use Cloud Functions?",
+    "answer": "Their application contains event-driven code that they don't want to provision compute resources for."
+  },
+  {
+    "question": "Select the advantage of putting the event-driven components of your application into Cloud Functions.",
+    "answer": "Cloud Functions handles scaling these components seamlessly."
+  },
+  {
+    "question": "Why might a Google Cloud customer choose to use Terraform?",
+    "answer": "Terraform can be used as an infrastructure management system for Google Cloud resources."
+  },
+  {
+    "question": "There are “Four Golden Signals” that measure a system’s performance and reliability. What are they?",
+    "answer": "Latency, traffic, saturation, errors"
+  },
+  {
+    "question": "Which option describes a commitment made to your customers that your systems and applications will have only a certain amount of “downtime”?",
+    "answer": "Service level agreement"
+  },
+  {
+    "question": "You want to create alerts on your Google Cloud resources, such as when health checks fail. Which is the best Google Cloud product to use?",
+    "answer": "Cloud Monitoring"
+  },
+  {
+    "question": "Select the two correct statements about Cloud Logging.",
+    "answer": [
+      "Cloud Logging lets you view logs from your applications and filter and search on them.",
+      "Cloud Logging lets you define metrics based on your logs."
+    ]
+  },
+  {
+    "question": "Which definition best describes a service level indicator (SLI)?",
+    "answer": "A carefully selected monitoring metric that measures one aspect of a service's reliability."
+  },
+  {
+    "question": "Which statements are true about cloud computing? Mark all that are true (2 correct answers).",
+    "answer": [
+      "Customers who need more resources can get them rapidly",
+      "Customers pay for the resources they use or reserve."
+    ]
+  },
+  {
+    "question": "Which of these Google Cloud compute services provides environments for execution of code, in which users don't have to worry about infrastructure management? Choose all that are correct (2 correct answers).",
+    "answer": [
+      "Cloud Functions",
+      "App Engine"
+    ]
+  },
+  {
+    "question": "Within which of these Google Cloud geographic scopes are network latencies generally less than 1 millisecond? Choose all that are correct (2 correct answers).",
+    "answer": [
+      "Region",
+      "Zone"
+    ]
+  },
+  {
+    "question": "What type of resource is a Compute Engine virtual machine?",
+    "answer": "Zonal"
+  },
+  {
+    "question": "What is the base-level organizing entity for creating and using Google Cloud resources and services?",
+    "answer": "Project"
+  },
+  {
+    "question": "At what level in the Google Cloud resource hierarchy is billing set up?",
+    "answer": "Project"
+  },
+  {
+    "question": "Which type of quota resets at regular intervals?",
+    "answer": "Rate quotas"
+  },
+  {
+    "question": "Which of these ways to interact with give you access to the gcloud and kubectl commands? Choose all that are correct (2 correct answers).",
+    "answer": [
+      "Cloud SDK",
+      "Cloud Shell"
+    ]
+  },
+  {
+    "question": "You are considering deploying a solution using containers on Google Cloud. What Google Cloud solutions are available to you that will provide a managed compute platform with native support for containers?",
+    "answer": "Google Kubernetes Engine"
+  },
+  {
+    "question": "You are ready to start work building an application in Google Cloud. What IAM hierarchy should you implement for this project?",
+    "answer": "Create a new folder inside your organization and create projects inside that folder for the resources."
+  },
+  {
+    "question": "You are developing a new product for a customer and need to implement control structures in Google Cloud to help manage the Google Cloud resources consumed by the product and the billing for the customer account. What steps should you take to manage costs for this product and customer?",
+    "answer": "Set up budgets and alerts at the project level for the product."
+  },
+  {
+    "question": "You need to write some automated scripts to run periodic updates to the resources in your Google Cloud environment. What tools can you install in your own computers to allow you to run those scripts?",
+    "answer": "The Cloud SDK"
+  },
+  {
+    "question": "One of the key characteristics of cloud computing is the concept of measured service. What is the primary customer benefit of the measured service aspect of cloud computing?",
+    "answer": "You pay only for the resources you consume."
+  },
+  {
+    "question": "Which of these problems are containers intended to solve? Mark all that are correct (3 correct answers).",
+    "answer": [
+      "Applications need a way to isolate their dependencies from one another.",
+      "Packaging applications in virtual machines can be wasteful.",
+      "It's difficult to troubleshoot applications when they work on a developer's laptop but fail in production."
+    ]
+  },
+  {
+    "question": "Why do Linux containers use union file systems?",
+    "answer": "To efficiently encapsulate applications and their dependencies into a set of clean, minimal layers"
+  },
+  {
+    "question": "What is significant about the topmost layer in a container? Choose all that are true (2 correct answers).",
+    "answer": [
+      "An application running in a container can only modify the topmost layer.",
+      "The topmost layer's contents are ephemeral. When the container is deleted, the contents will be lost."
+    ]
+  },
+  {
+    "question": "When you use Kubernetes, you describe the desired state you want, and Kubernetes's job is to make the deployed system conform to your desired state and to keep it there in spite of failures. What is the name for this management approach?",
+    "answer": "Declarative configuration"
+  },
+  {
+    "question": "What is a stateful application?",
+    "answer": "An application that requires user and session data to be stored persistently"
+  },
+  {
+    "question": "What is the relationship between Kubernetes and Google Kubernetes Engine?",
+    "answer": "Google Kubernetes Engine is Kubernetes as a managed service."
+  },
+  {
+    "question": "What is the name for the computers in a Kubernetes cluster that can run your workloads?",
+    "answer": "Nodes"
+  },
+  {
+    "question": "Which of the following supports scaling a Kubernetes cluster as a whole?",
+    "answer": "Google Kubernetes Engine"
+  },
+  {
+    "question": "You are choosing a technology for deploying applications, and you want to deliver them in lightweight, standalone, resource-efficient, portable packages. Which choice best meets those goals?",
+    "answer": "Containers"
+  },
+  {
+    "question": "You are classifying a number of your applications into workload types. Select the stateful applications in this list of applications. Choose the TWO responses that are correct.",
+    "answer": [
+      "A shopping application that saves user shopping cart data between sessions.",
+      "A gaming application that keeps track of user state persistently."
+    ]
+  },
+  {
+    "question": "Google Compute Engine provides fine-grained control of costs. Which Compute Engine features provide this level of control? (Choose TWO)",
+    "answer": [
+      "Fully customizable virtual machines",
+      "Per-second billing"
+    ]
+  },
+  {
+    "question": "You are deploying a containerized application, and you want maximum control over how containers are configured and deployed. You want to avoid the operational management overhead of managing a full container cluster environment yourself. Which Google Cloud compute solution should you choose?",
+    "answer": "Google Kubernetes Engine"
+  },
+  {
+    "question": "What is the difference between a pod and a container?",
+    "answer": "A pod contains one or more containers."
+  },
+  {
+    "question": "Which control plane component is the only one with which clients interact directly?",
+    "answer": "kube-apiserver"
+  },
+  {
+    "question": "Which control plane component is the cluster's database?",
+    "answer": "etcd"
+  },
+  {
+    "question": "What is the role of the kubelet?",
+    "answer": "To serve as Kubernetes’s agent on each node"
+  },
+  {
+    "question": "In GKE clusters, how are nodes provisioned?",
+    "answer": "As Compute Engine virtual machines"
+  },
+  {
+    "question": "In GKE, how are control planes provisioned?",
+    "answer": "As abstract parts of the GKE service that are not exposed to Google Cloud customers"
+  },
+  {
+    "question": "What is the purpose of configuring a regional cluster in GKE?",
+    "answer": "To allow applications running in the cluster to withstand the loss of a zone"
+  },
+  {
+    "question": "In a manifest file for a Pod, in which field do you define a container image for the Pod?",
+    "answer": "spec"
+  },
+  {
+    "question": "What are Kubernetes namespaces useful for? Choose all that are correct (2 correct answers).",
+    "answer": [
+      "Namespaces let you implement resource quotas across your cluster.",
+      "Namespaces allow you to use object names that would otherwise be duplicates of one another."
+    ]
+  },
+  {
+    "question": "What is the purpose of the Deployment object?",
+    "answer": "To ensure that a defined set of Pods is running at any given time."
+  },
+  {
+    "question": "What is the purpose of a Service? Choose all that are true (2 correct answers)",
+    "answer": [
+      "To provide a load-balancing network endpoint for Pods",
+      "To allow you to choose how Pods are exposed"
+    ]
+  },
+  {
+    "question": "If you are deploying applications in your Pods that need persistent storage, which controller type should you use?",
+    "answer": "StatefulSet"
+  },
+  {
+    "question": "You are designing an application, and you want to ensure that the containers are located as close to each other as possible, in order to minimize latency. Which design decision helps meet this requirement?",
+    "answer": "Place the containers in the same Pod."
+  },
+  {
+    "question": "Which Kubernetes component does the kubectl command connect to in order to carry out operations on a cluster?",
+    "answer": "kube-apiserver"
+  },
+  {
+    "question": "You have deployed a new Google Kubernetes Engine regional cluster with four machines in the default pool for the first zone and left the number of zones at the default. How many Compute Engine machines are deployed and billed against your account?",
+    "answer": "Twelve. (Four nodes are deployed in each of three zones. A control plane node is deployed in each zone which is indirectly billed against your account through the cluster management fee.)"
+  },
+  {
+    "question": "You need to ensure that the production applications running on your Kubernetes cluster are not impacted by test and staging deployments. Which features should you implement and configure to ensure that the resources for your production applications can be prioritized?",
+    "answer": "Configure Namespaces for Test, Staging and Production and configure specific Kubernetes resource quotas for the test and staging Namespaces."
+  },
+  {
+    "question": "When configuring storage for stateful applications, what steps must you take to provide file system storage inside your containers for data from your applications that will not be lost or deleted if your Pods fail or are deleted for any reason?",
+    "answer": "You must create Volumes using network based storage to provide durable storage remote to the Pods and specify these in the Pods."
+  },
+  {
+    "question": "You want to deploy multiple copies of your application, so that you can load balance traffic across them. How should you deploy this application's Pods to the production Namespace in your cluster?",
+    "answer": "Create a Deployment manifest that specifies the number of replicas that you want to run."
+  },
+  {
+    "question": "Which control plane component does the kubectl command interact with?",
+    "answer": "kube-apiserver"
+  },
+  {
+    "question": "How do you tell the kubectl command which Kubernetes cluster it should act upon?",
+    "answer": "By configuring the $HOME/.kube/config file."
+  },
+  {
+    "question": "What is the most common reason for a Pod to report CrashLoopBackOff as its state?",
+    "answer": "The Pod's configuration is not correct."
+  },
+  {
+    "question": "Which command allows you to run a command inside a Pod?",
+    "answer": "kubectl exec"
+  },
+  {
+    "question": "You want to use kubectl to configure your cluster, but first you must configure it. Where does the kubectl command store its configuration file?",
+    "answer": "The configuration information is stored in the $HOME/.kube/config file."
+  },
+  {
+    "question": "You attempt to update a container image to a new version, but this does not succeed. You execute the command 'kubectl describe pod '. The output of the command shows that the Pod status has changed to Pending, the state is shown as Waiting and the reason shown is ImagePullBackOff. What is the most probable cause of this error?",
+    "answer": "The container image failed to download."
+  },
+  {
+    "question": "You want to use a kubectl get command to identify which Node each Pod is running on. Which command do you need to execute?",
+    "answer": "kubectl get pods -o=wide"
+  },
+  {
+    "question": "Which command can you use to look at the error messages from containers in a Pod that are failing to run successfully?",
+    "answer": "kubectl logs"
+  },
+  {
+    "question": "What command can you use to identify which containers in a Pod are successfully running, and which are failing or having issues?",
+    "answer": [
+      "kubectl describe pod",
+      "kubectl exec -it -- /bin/bash"
+    ]
+  },
+  {
+    "question": "What is the relationship between Deployments and ReplicaSets?",
+    "answer": "A Deployment configures a ReplicaSet controller to create and maintain a specific version of the Pods that the Deployment specifies."
+  },
+  {
+    "question": "What type of application is suited for use with a Deployment?",
+    "answer": "Stateless"
+  },
+  {
+    "question": "You want to have two versions of your application in production, but be able to switch all traffic between them. This is an example of which deployment strategy?",
+    "answer": "Blue-green deployment"
+  },
+  {
+    "question": "You want to have two versions of your application in production, but be able to redirect a small percentage of traffic to the newer version as a gradual test. This is an example of which deployment strategy?",
+    "answer": "Canary deployment"
+  },
+  {
+    "question": "In a rolling update strategy, you can define the 'max unavailable' parameter as a percentage. A percentage of what?",
+    "answer": "The total number of desired Pods across all ReplicaSets in the deployment."
+  },
+  {
+    "question": "What happens if a node fails while a Job is executing on that node?",
+    "answer": "Kubernetes will restart the Job on a node that is still running."
+  },
+  {
+    "question": "Suppose you have a Job in which each Pod performs work drawn from a work queue. How should this Job's manifest be configured?",
+    "answer": "Specify a parallelism value and leave spec.completions unset"
+  },
+  {
+    "question": "True or false: if you increase the size of a node pool, existing Pods will be moved to newer nodes.",
+    "answer": "False"
+  },
+  {
+    "question": "True or false: if you manually decrease the size of a node pool, any Pods on deleted nodes will be restarted on other nodes.",
+    "answer": "False"
+  },
+  {
+    "question": "True or false: if autoscaling decreases the size of a node pool, any Pods on deleted nodes that aren't managed by a replication controller will be lost.",
+    "answer": "False"
+  },
+  {
+    "question": "True or false: if the labels on nodes change, affinity and anti-affinity rules will be applied to already-running Pods.",
+    "answer": "False"
+  },
+  {
+    "question": "What is the difference between the taint system and the affinity system?",
+    "answer": "Taints apply to nodes, while affinity rules apply to Pods."
+  },
+  {
+    "question": "After a Deployment has been created and its component Pods are running, which component is responsible for ensuring that a replacement Pod is launched whenever a Pod fails or is evicted?",
+    "answer": "ReplicaSet"
+  },
+  {
+    "question": "You are configuring the rollout strategy for your Deployment that contains 8 Pods. You need to specify a Deployment property that will ensure at least 75% of the desired number of Pods is always running at the same time. What property and value should you set for the deployment to ensure that this is the case?",
+    "answer": "maxUnavailable=25%"
+  },
+  {
+    "question": "You have made a number of changes to your deployment and applied those changes. Which command should you use to rollback the environment to the deployment identified in the deployment history as revision 2?",
+    "answer": "Run 'kubectl rollout undo deployment --to-revision=2'."
+  },
+  {
+    "question": "You are resolving a range of issues with a Deployment and need to make a large number of changes. Which command can you execute to group these changes into a single rollout, thus avoiding pushing out a large number of rollouts?",
+    "answer": "kubectl rollout pause deployment"
+  },
+  {
+    "question": "You are configuring a Job to process the conversion of a sample of a large number of video files from one format to another. Which parameter should you configure to ensure that you stop processing once a sufficient quantity have been processed?",
+    "answer": "completions=4"
+  },
+  {
+    "question": "You have configured a Kubernetes Job with a backofflimit of 4 and a completions count of 8. If the Pods launched by the Job continually fail, how long does it take for four failures to happen and what does the Job report?",
+    "answer": "70 seconds, Job fails with BackoffLimitExceeded as the reason."
+  },
+  {
+    "question": "A parallel Kubernetes Job is configured with parallelism of property of 4 and a completion property of 9. How many Pods are kept in a running state by the Job controller immediately after the sixth successful completion?",
+    "answer": "3"
+  },
+  {
+    "question": "With a Kubernetes Job configured with a parallelism value of 3 and no completion count, what happens to the status of the Job when one of the Pods successfully terminates?",
+    "answer": "The Job is considered complete, but the remaining Pods are left to shut themselves down."
+  },
+  {
+    "question": "How do you configure a Kubernetes Job so that Pods are retained after completion?",
+    "answer": "Configure the cascade flag for the Job with a value of false."
+  },
+  {
+    "question": "You have autoscaling enabled on your cluster. What conditions are required for the autoscaler to decide to delete a node?",
+    "answer": "If a node is underutilized and running Pods can be run on other Nodes."
+  },
+  {
+    "question": "What status or event is used by the GKE autoscaler to decide when scaleout is required and a new node needs to be added?",
+    "answer": "When the scheduler cannot schedule a Pod due to resource constraints and the Pod has been marked as unschedulable."
+  },
+  {
+    "question": "When specifying Inter-pod affinity rules, you need to specify an affinity rule at the zone level, not at the individual Node level. Which additional parameter in the Pod manifest YAML must you set to apply this override?",
+    "answer": "topologyKey: failure-domain.beta.kubernetes.io/zone"
+  },
+  {
+    "question": "Which statement is true about Kubernetes networking?",
+    "answer": "Each Pod in a cluster has a unique IP address."
+  },
+  {
+    "question": "In GKE, what is the source of the IP addresses for Pods?",
+    "answer": "Address ranges assigned to your Virtual Private Cloud"
+  },
+  {
+    "question": "What is the purpose of Services?",
+    "answer": "To provide a static, load-balanced front end for transient Pods."
+  },
+  {
+    "question": "A Service provides an endpoint for specific Pods. How is this determined?",
+    "answer": "Using a label selector"
+  },
+  {
+    "question": "True or false: a Pod can connect to a Service running in a different namespace in its cluster.",
+    "answer": "True."
+  },
+  {
+    "question": "What is the main use of a Service of type ClusterIP?",
+    "answer": "Internal communication within a cluster"
+  },
+  {
+    "question": "What is the difference between a Service of type ClusterIP and one of type NodePort?",
+    "answer": "In addition to exposing the service at a particular cluster IP address, a NodePort Service also exposes the service on every node at a particular port number."
+  },
+  {
+    "question": "What is the main use of a Service of type LoadBalancer?",
+    "answer": "Exposing services outside a cluster"
+  },
+  {
+    "question": "What is the main purpose of an Ingress resource?",
+    "answer": "To provide external access to one or more Services"
+  },
+  {
+    "question": "How does an Ingress resource decide how to route incoming requests?",
+    "answer": "By the host name and resource path requested"
+  },
+  {
+    "question": "What is the purpose of enabling network policies in a Kubernetes cluster?",
+    "answer": "To restrict network access from a Pod to other Pods and Services inside the cluster"
+  },
+  {
+    "question": "What are the requirements for enabling network security policies? Choose all answers that are correct (3 correct answers).",
+    "answer": [
+      "You must have at least 2 nodes.",
+      "All nodes must be of machine type n1-standard-1 or higher.",
+      "You must restart your nodes."
+    ]
+  },
+  {
+    "question": "Your Pod has been rescheduled and the original IP address that was assigned to the Pod is no longer accessible. What is the reason for this?",
+    "answer": "The new Pod has received a different IP address."
+  },
+  {
+    "question": "You have updated your application and deployed a new Pod. What step can you take to ensure that you can access the Pod and the Pod's application throughout the lifecycle of the Pod using a durable IP address?",
+    "answer": "Deploy a Kubernetes Service with a selector that locates the application's Pods."
+  },
+  {
+    "question": "During testing you cannot find the Google Cloud Load Balancer that should have been configured for your application. You check the manifest for the application and notice that the application's front-end Service type is ClusterIP. How can you correct this?",
+    "answer": "Define spec.type as LoadBalancer in the YAML manifest for the service and redeploy it."
+  },
+  {
+    "question": "What change can an administrator make to achieve the lowest possible latency when using a Google Cloud load-balancer service to balance network traffic, minimizing double-hop traffic between nodes? Assume that container-native load balancing is not in use.",
+    "answer": "Set the externalTrafficPolicy field to local in the YAML manifest."
+  },
+  {
+    "question": "You are designing a GKE solution. One of your requirements is that network traffic load balancing should be directed to Pods directly, instead of balanced across nodes. What change can you make to your environment?",
+    "answer": "Configure or migrate your cluster to VPC-Native Mode and deploy a Container- native load balancer."
+  },
+  {
+    "question": "You need to apply a network policy to five Pods to block ingress traffic from other Pods. Each Pod has a label of app:demo-app. In your network policy manifest, you have specified the label app:demo-app in spec.podSelector. The policy is configured and when you list the Network Policies on your cluster you can see the policy listed but is not having any effect as you can still ping the Pods from other Pods in the cluster. What is the problem and what action can you take to correct this?",
+    "answer": "You have not enabled network policies on the cluster. Enable network policies on the cluster, and recreate all of the nodes."
+  },
+  {
+    "question": "What happens if a Pod fails while it is using a persistent volume?",
+    "answer": "The volumes are unmounted from the failing Pod, and they continue to exist with their last contents."
+  },
+  {
+    "question": "True or false: Volumes allow containers within a Pod to share data.",
+    "answer": "True."
+  },
+  {
+    "question": "What is the primary difference between Secrets and ConfigMaps?",
+    "answer": "Secrets are intended for use with security-sensitive data, such as private keys, while ConfigMaps are intended for use with general-purpose configuration information."
+  },
+  {
+    "question": "How can a Pod request persistent storage without specifying the details of how that storage is to be implemented?",
+    "answer": "By using a PersistentVolumeClaim"
+  },
+  {
+    "question": "How are the Pods that make up a StatefulSet distinguished from one another?",
+    "answer": "By an ordinal index at the end of their names"
+  },
+  {
+    "question": "How can I make a headless Service to bring together the Pods in a StatefulSet?",
+    "answer": "By specifying None for the cluster IP in the Service definition"
+  },
+  {
+    "question": "How frequently does the kubelet refresh the values of ConfigMaps mounted as volumes inside Pods?",
+    "answer": "Roughly on the order of seconds or minutes"
+  },
+  {
+    "question": "How frequently does the kubelet refresh the values of ConfigMaps stored in environment variables inside Pods?",
+    "answer": "Never"
+  },
+  {
+    "question": "True or false: You supply the values of Secrets in encrypted form.",
+    "answer": "False"
+  },
+  {
+    "question": "How can you store the values of Secrets in a way that's designed to be secure? Choose all that are correct (2 correct responses).",
+    "answer": [
+      "Using Google Cloud Key Management System",
+      "Using a third party key management system"
+    ]
+  },
+  {
+    "question": "An application owner has created a Pod manifest using a PersistentVolumeClaim with a StorageClassName value of standard. What type of storage is used for this volume in a GKE Cluster?",
+    "answer": "Google Persistent Disk"
+  },
+  {
+    "question": "You have created a ConfigMap and want to make the data available to your application. Where should you configure the directory path parameters in the Pod manifest to allow your application to access the data as files?",
+    "answer": "spec.containers.volumeMounts"
+  },
+  {
+    "question": "You are creating a new PersistentVolume object, and the Volume is to be created using Google Cloud standard Persistent Disks. What property must you configure to set the read/write characteristics for the Volume to the correct setting?",
+    "answer": "accessModes: [ReadWriteOnce]"
+  },
+  {
+    "question": "A stateful set consists of four Pods that are named Demo-0, Demo-1, Demo-2, and Demo-3. The StatefulSet originally only had two replica Pods, but this was recently increased to four replicas. An update is being rolled out to this StatefulSet using the RollingUpdate updateStrategy type. Which Pod will be the last member of the StatefulSet to be updated?",
+    "answer": "Demo-0"
+  },
+  {
+    "question": "A stateful set consists of four Pods that are named Demo-0, Demo-1, Demo-2, and Demo-3; with matching volumeClaims called Demo-0 to Demo-3 assigned by the StatefulSet. Demo-1 Pod has failed and the StatefulSet controller deploys a new Pod to replace it. What will the new Pod be called and what storage volume is attached to it?",
+    "answer": "The new Pod will be called Demo-1 and will have the existing Demo-1 volume attached to it."
+  },
+  {
+    "question": "Which type of Kubernetes Secret should you use to pass credentials for an image repository so that Kubelet can pull private images on behalf of your Pods?",
+    "answer": "A Docker Registry Secret"
+  },
+  {
+    "question": "Why would someone consider exporting log data from Cloud Logging to Bigquery or Cloud Storage? Choose all that are correct (2 correct answers).",
+    "answer": ["For longer-term storage.", "For more complex analysis."]
+  },
+  {
+    "question": "If your organization has multiple Google Cloud projects, what is the recommended best practice for logging and monitoring?",
+    "answer": "Set up a host project for Operations, and use it to monitor the other projects."
+  },
+  {
+    "question": "By default, how long does log information remain in Cloud Logging?",
+    "answer": "Exactly 30 days"
+  },
+  {
+    "question": "By default, how long does log information remain on GKE nodes?",
+    "answer": "5 days or less, depending on log volume"
+  },
+  {
+    "question": "How is monitoring in Kubernetes typically structured?",
+    "answer": "By labels"
+  },
+  {
+    "question": "What is the role of Prometheus in a Kubernetes cluster?",
+    "answer": "To allow applications to expose application-specific metrics."
+  },
+  {
+    "question": "You are troubleshooting an issue which happened in the last hour. You execute the command 'kubectl logs --since=3h demo-pod'. However, the events you are looking for do not appear in the output. What is the likely cause?",
+    "answer": "The log file was greater than 100MB in size and it has been rotated."
+  },
+  {
+    "question": "You have a job that deploys a container that failed to run properly. How can you retrieve detailed information about the errors that happened inside the container?",
+    "answer": "Execute kubectl logs in the Cloud Shell."
+  },
+  {
+    "question": "You have configured both a Readiness probe and Liveness probe for a critical application component. Shortly after the application has started, the Pod is running, but the Readiness probe is failing. What effect does this have on the application's Pods and Services?",
+    "answer": "The Service will ignore the Pod until the Readiness Probe succeeds."
+  },
+  {
+    "question": "You need to monitor specific applications running on your production GKE Clusters. How should you create a logical structure for your application that allows you to selectively monitor the application's components using Cloud Monitoring? Choose all responses that are correct (2 correct responses).",
+    "answer": ["Filter the Cloud Monitoring logs using the Kubernetes labels.", "Add Labels to the Pods in Kubernetes that identify the applications."]
+  },
+  {
+    "question": "You are using a liveness probe to monitor the state of an application. You have recently updated the application and are concerned that the boot time is now longer than before. What value must you change in the YAML manifest file to ensure that the probe is not initiated before the application is ready?",
+    "answer": "spec.containers.livenessProbe.initialDelaySeconds."
+  },
+  {
+    "question": "You are unable to find any logs in Cloud Logging for an issue with a Pod that occurred 2 months ago. You know that events were logged at the time for this issue. Why can you no longer find these logs?",
+    "answer": "They have been deleted by Cloud Logging."
+  },
+  {
+    "question": "What is the best way to use Google Cloud managed services from an application running in GKE?",
+    "answer": "Create a new service account, give it an IAM role with least privilege, store its credential in a Kubernetes secret, and use the credential in API calls to the service."
+  },
+  {
+    "question": "True or false: Kubernetes storage classes are related to the storage classes offered by Cloud Storage.",
+    "answer": "False"
+  },
+  {
+    "question": "Which Cloud Storage storage class offers the least expensive per-gigabyte per-time storage charges?",
+    "answer": "Coldline"
+  },
+  {
+    "question": "You want to reduce the management overheads associated with using a containerized MySQL server in your application. Which Google managed storage service can you use as a direct replacement?",
+    "answer": "Cloud SQL"
+  },
+  {
+    "question": "You are deploying an application running inside a Pod in a GKE cluster that needs to access a Google Cloud-managed storage service in a secure and controlled manner. What step must you take in order to allow the application to access the service?",
+    "answer": "The application must be provided with the credentials for a Google IAM account with the permissions required to access the Google Cloud service."
+  },
+  {
+    "question": "You are designing a solution for a new application and need to set out the guidelines for the accounts that will be used by the application to access managed Google Cloud services. Which of the following approaches follows the Google recommended practice for such accounts?",
+    "answer": "Create a separate Google Cloud Service Account for each application and assign permissions to those accounts."
+  },
+  {
+    "question": "You are configuring applications that need access to Google managed storage services. The applications will be deployed to your GKE clusters. How should you provide the credentials to the applications so that they are protected?",
+    "answer": "Create Kubernetes Secrets containing the account credential files and present those to the containers as environment variables or Secret Volumes."
+  },
+  {
+    "question": "You are designing an application, and you want to ensure that the containers are located as close to each other as possible, in order to minimize latency. Which design decision helps meet this requirement?",
+    "answer": "Place the containers in the same Pod"
+  },
+  {
+    "question": "You are considering options for your business continuity and data protection plans and have identified a number of systems that need to be archived periodically for regulatory compliance. These archives must be kept for up to 5 years and will need to be audited quarterly. Apart from the quarterly audit, there is no expectation that they will need to be accessed routinely. What Google Storage solution best matches these requirements?",
+    "answer": "Cloud Storage - Nearline"
+  },
+  {
+    "question": "Which Google managed storage solution should you use for an online multiplayer game that needs to be able to propagate a consistent global game state across a massive number of concurrent sessions?",
+    "answer": "Datastore"
+  },
+  {
+    "question": "If you need a NoSQL database that is easy to use as storage for MapReduce operations, which of these Google Cloud managed storage services should you consider?",
+    "answer": "Cloud BigTable"
+  },
+  {
+    "question": "If you need a SQL database that can scale beyond tens of terabytes, which of these Google Cloud managed storage services should you consider?",
+    "answer": "Cloud Spanner"
+  },
+  {
+    "question": "Which authentication method is enabled by default in GKE clusters of version 1.12 and later?",
+    "answer": "OpenID Connect"
+  },
+  {
+    "question": "True or false: Both Cloud IAM and Kubernetes RBAC are relevant to managing GKE clusters.",
+    "answer": "True"
+  },
+  {
+    "question": "True or false: It is possible to grant an IAM permission at a higher point in the Google Cloud resource hierarchy and revoke it at a lower point.",
+    "answer": "False"
+  },
+  {
+    "question": "Use of which kind of Cloud IAM role may be incompatible with the principle of least privilege?",
+    "answer": "Primitive"
+  },
+  {
+    "question": "Choose all the resources below that are cluster-scoped rather than namespace-scoped. (Choose TWO)",
+    "answer": ["PersistentVolumes", "nodes"]
+  },
+  {
+    "question": "True or false: Kubernetes RBAC offers both 'allow' and 'deny' rules.",
+    "answer": "False"
+  },
+  {
+    "question": "True or false: if one of your GKE clusters' TLS certificates are compromised, you must replace the certificates on all your GKE clusters.",
+    "answer": "False"
+  },
+  {
+    "question": "It's a good security practice to rotate your GKE cluster credentials frequently, to limit the value of any compromised keys. What is the tradeoff inherent in rotating your cluster credentials?",
+    "answer": "During the rotation, your cluster's API endpoint is unavailable for a short while."
+  },
+  {
+    "question": "What type of account is used by processes in containers in a Pod to communicate with the kube-apiserver running on the Kubernetes cluster control plane?",
+    "answer": "A Kubernetes Service Account"
+  },
+  {
+    "question": "You want to implement account controls that will allow you to grant junior admin users the ability to view details about production clusters and applications, and to be able to fully manage test and lab resources inside your GKE cluster environments. Which account control mechanism will provide you with the level of granular control that is required for this type of user?",
+    "answer": "Kubernetes RBAC"
+  },
+  {
+    "question": "Which service can be used to synchronize enterprise user accounts to your Google Cloud infrastructure, so that you can define Cloud IAM policies for them?",
+    "answer": "Use Google Cloud Directory Sync (GCDS) to synchronize the accounts between your enterprise directory and Cloud IAM."
+  },
+  {
+    "question": "When granting users the permissions to access and perform actions on Google Cloud resources using Cloud IAM, what type of Google Cloud object needs to be created in order to grant roles to member accounts?",
+    "answer": "A Cloud IAM Policy"
+  },
+  {
+    "question": "Your organization is creating a new support team that will need to be able to view your Kubernetes Engine clusters and also access a number of Operations features. You want to keep these users tightly controlled and need to make sure they only have the minimum level of access necessary to perform their jobs. What type of Cloud IAM role will you be using to assign these users the permissions they need?",
+    "answer": "A Custom role"
+  },
+  {
+    "question": "What security features can you control using Pod securityContexts? Choose all responses that are correct (2 correct responses).",
+    "answer": [
+      "Limit access to some Linux capabilities, for example to grant certain privileges to a process, but not all root user privileges.",
+      "Enable AppArmor, which uses security profiles to restrict individual programs actions."
     ]
   }
 ]
