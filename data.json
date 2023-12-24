@@ -1,7 +1,791 @@
 [
   {
+    "question": "What are the ouputs for the planning phase?\nsystem request, feasibility study, and project plan",
+    "answer": "What are the ouputs for the planning phase?"
+  },
+  {
+    "question": "What are the three steps in the analysis phase?\n-Understand the exisitng situation (the as-is system)\n-Identify improvements\n- Define requirements for the new systems (the to-be)",
+    "answer": "What are the three steps in the analysis phase?"
+  },
+  {
+    "question": "What is the final deliverable of the Analysis Phase?\nThe system proposal:\n- use cases\n-process models\n- data model\n-revised feasbility analysis and work plan",
+    "answer": "What is the final deliverable of the Analysis Phase?"
+  },
+  {
+    "question": "Requirements Determination\nis performed to transform the system requests high level statement of business requirements into a more detailed, precise list of what the new system must do to provide the needed value to the business",
+    "answer": "Requirements Determination"
+  },
+  {
+    "question": "What is a requirement?\nis simply a statement of what the system must do or what characteristics it needs to have.",
+    "answer": "What is a requirement?"
+  },
+  {
+    "question": "What are the list a requirement categories\n- business requirements/needs\n- user requirements\n- nonfunctional requirements\n- system requirements",
+    "answer": "What are the list a requirement categories"
+  },
+  {
+    "question": "What is a user requirement\na good starting place is to concentrate on what the user actually needs to accomplish with the system in order to fulfill a needed job or task",
+    "answer": "What is a user requirement"
+  },
+  {
+    "question": "What is a functional requirement\nrelated directly to a process the system has to perform as part of supporting a user task and or information it needs to provdide as the user is performing a task",
+    "answer": "What is a functional requirement"
+  },
+  {
+    "question": "User vs. functional requirement\nYou have a task that gets done by the user and then the functional requirements are what the system needs to do in order for that task to get completed.",
+    "answer": "User vs. functional requirement"
+  },
+  {
+    "question": "Interviews Basic Steps\n- selecting interviewees\n- designing interview questions\n- preparing for the interview\n- conducting the interview\n- post - interview follow up",
+    "answer": "Interviews Basic Steps"
+  },
+  {
+    "question": "Selecting Interviewees\nInclude ppl at different levels of the organization:\nManagers\nUsers\nOther key stakeholders",
+    "answer": "Selecting Interviewees"
+  },
+  {
+    "question": "Designing Interview questions\nUnstructured interview:\nfor a broad and roughly defined set of information\n\nStructure interview:\nfor very specific information",
+    "answer": "Designing Interview questions"
+  },
+  {
+    "question": "Preparing the interview\n- prepare a general interview plan\n- confiem areas of knowledge\n- set priorities in case fo time shortage\n- prepare the interviewee",
+    "answer": "Preparing the interview"
+  },
+  {
+    "question": "Conducting the interview\nappear professional and UNBIASED\nrecord ALL information\nbe sure you understand the issues that are discussed\nseparate facts from opinions\ngive interviewee time to ask questions",
+    "answer": "Conducting the interview"
+  },
+  {
+    "question": "Post -Interview Questions\n-Prepare and interview report\n- Report should include \"interview notes\"\n- The report is sent to interviewee for clarification & updates.",
+    "answer": "Post -Interview Questions"
+  },
+  {
+    "question": "JAD\nJoint Application Development\n\nis an information gathering technique that allows the project team, users, and management to work together to identify requirements for the system\n\nit can reduce scope creep by 50%\n\nThis process in which 10-20 users meet under the direction of a FACILITATOR skilled in JAD techniques",
+    "answer": "JAD\nJoint Application Development"
+  },
+  {
+    "question": "Designing and Preparing for JAD\n- Sessions can last from half a day to weeks\n- Sucess depends upon careful planning\n- most sessions are designed to collect specific information\n- It is important to prepare the analyst and participants for the JAD sesssion",
+    "answer": "Designing and Preparing for JAD"
+  },
+  {
+    "question": "Conducting JAD session\n- sessions follow formal agenda and ground rules\n- Facilitator does the following:\n* Keep session on track (agenda)\n* Help group understand technical terms and jargon\n* record the groups input on the publix display area\n- The facilitator must remain neutral at all time and help the group throught the process.",
+    "answer": "Conducting JAD session"
+  },
+  {
+    "question": "POST JAD Follow up\n-post session report is prepared and circulated among session attendees\n- the report should be completed approximately a week to two after the JAD",
+    "answer": "POST JAD Follow up"
+  },
+  {
+    "question": "Questionnaires\n- it is a written set of questions for the users to obtain info\n- selecting participants: using a sample of people who are representative of the entire group.\n- designing: follow good practice guidelines\n- administering the questionarre: improving the response rates\n- questionnaire follow up: developing a report",
+    "answer": "Questionnaires"
+  },
+  {
+    "question": "Good questionnaire design\n- begin with nonthreatning questions\n- group items into coherent sections\n- but important items on top\n- avoid abbreviations\n- number the questions\n- pretest to avoid any bad questions\n- provide anonymity to repondents",
+    "answer": "Good questionnaire design"
+  },
+  {
+    "question": "Document Analysis\nis used to understand the as-is system\n-forms, reports, policy manuals, organization charts decribe the formal system that the organization uses\n- the \"real\" ifo system differes from the formal one and reveals what needs to be changed\n- the indication that the system needs to be changed is when users create new forms or make changes to the existing forms",
+    "answer": "Document Analysis"
+  },
+  {
+    "question": "Observation\nthe acto of watching the processes being performed\n\n- it is a poweful tool to gain insight into the as- is system, and to check teh validity of information gathered form other sources\n-ppl tend to be extremely careful with thier behaviors as they are being watched",
+    "answer": "Observation"
+  },
+  {
+    "question": "Problem Analysis\n- asking users to identify problems and solutions\n-improvements from problem analysis tend to be small and incremental\n- this type of improvments often is very effective at improving a system's efficiency or ease of use; however, it provides minor improvements in business value",
+    "answer": "Problem Analysis"
+  },
+  {
+    "question": "Root Cause Analysis\nfocuses on problems first rather than solutions",
+    "answer": "Root Cause Analysis"
+  },
+  {
+    "question": "Duration Analysis\nrequires a detailed examination of amount of time it takes to perform each process in the as-is system\n- compare the total time to complete basic steps and the total time for the overall process - a significant difference indicates that the process is badly fragmented\n-potential solutions:\n* Process integration\n* Parallelization",
+    "answer": "Duration Analysis"
+  },
+  {
+    "question": "Activity Based Costing\n- examines the cost of each major process or step in a business process\n- Both direct and indirect costs are considered\n- the analyst identify most costly steps and focus improvement efforts on them",
+    "answer": "Activity Based Costing"
+  },
+  {
+    "question": "Informal Benchmarking\n-refers to the studying how other organizations perform a business process\n- informal benchmarking is common for \"customer-facing\" processes.\n- the analysts visit other organizations as customers to watch how the business process is perfomed",
+    "answer": "Informal Benchmarking"
+  },
+  {
+    "question": "Outcome Analysis\n- focuses on uderstanding fundamental outcomes that provide value to customers\n- think what the organization could enable the customer to do",
+    "answer": "Outcome Analysis"
+  },
+  {
+    "question": "Technology Analysis\n1. the analysts and managers list important and interesting technologies\n2. Then, the group identifies how each and every technology might be applied to the business and how the business would benefit",
+    "answer": "Technology Analysis"
+  },
+  {
+    "question": "Activity Elimination\nthe analysts and managers work together to identify:\n- how the org could eliminate each and every ativity in the business process\n- how the function could operate w/o it\n- and what effects are likely to occur",
+    "answer": "Activity Elimination"
+  },
+  {
+    "question": "what does analysis focus on?\nit focuses on capturing the business requirements for the system",
+    "answer": "what does analysis focus on?"
+  },
+  {
+    "question": "what is a requirement determination?\nis the part of analysis in which the project team turns the business requirements stated in the system request into a precise list of requirements",
+    "answer": "what is a requirement determination?"
+  },
+  {
+    "question": "What are Requirements Analysis Strategies?\nare useful for analysts to help the business users think critically about the new system requirements",
+    "answer": "What are Requirements Analysis Strategies?\n"
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
     "question": "Activity-based costing is a similar analysis that examines the cost of each major process or step in a business process rather than the time taken.11 The analysts identify the costs associated with each of the basic functional steps or processes, identify the most costly processes, and focus their improvement efforts on them.\n",
-    "answer": "Activity-based costing"
+    "answer": ""
+  },
+  {
+    "question": "Activity elimination is exactly what it sounds like. The analysts and managers work together to identify how the organization could eliminate each and every activity in the business process, how the function could operate without it, and what effects are likely to occur. Initially, managers are reluctant to conclude that processes can be eliminated, but this is a “force-fit” exercise in that they must eliminate each activity. In some cases, the results are silly; nonetheless, participants must address each and every activity in the business process\n",
+    "answer": ""
+  },
+  {
+    "question": "Analysis The analysis phase answers the questions of who will use the system, what the system will do, and where and when it will be used (Figure 1-3). During this phase, the project team investigates any current system(s), identifies improvement opportunities, and develops a concept for the new system. This phase has three steps",
+    "answer": ""
+  },
+  {
+    "question": "As-is system An analysis strategy is developed to guide the project team’s efforts. Such a strategy usually includes studying the current system (called the as-is system) and its problems, and envisioning ways to design a new system (called the to-be system)\n",
+    "answer": ""
+  },
+  {
+    "question": "Benchmarking refers to studying how other organizations perform a business process in order to learn how your organization can do something better. Benchmarking helps the organization by introducing ideas that employees may never have considered, but that have the potential to add value",
+    "answer": ""
+  },
+  {
+    "question": "Bottom-up interview With the bottom-up interview, the interviewer starts with very specific questions and moves to broad questions. In practice, analysts mix the two approaches, starting with broad general issues, moving to specific questions, and then back to general issues",
+    "answer": ""
+  },
+  {
+    "question": "Business requirement The business need drives the high-level business requirements for the system. Business requirements describe the reasons for developing the system and outline the capabilities it will provide the organization. These requirements need to be explained at a high level so that the approval committee and, ultimately, the project team understand what the business expects from the final product. Business requirements summarize the features the IS must include, such as the ability to collect customer orders online or the ability for suppliers to receive inventory status information as sales occur.\n",
+    "answer": ""
+  },
+  {
+    "question": "Business value Before moving into the design phase, the project’s business value should be reviewed to ensure it remains positive.",
+    "answer": ""
+  },
+  {
+    "question": "Typically, interviews include: closed-ended questions, open-ended questions, and probing questions. Closed-ended questions require a specific answer. You can think of them as being similar to multiple choice or arithmetic questions on an exam (Figure 3-5). Closed-ended questions are used when the analyst is looking for specific, precise information (e.g., how many credit card requests are received per day). In general, precise questions are best. For example, rather than asking “Do you handle a lot of requests?” it is better to ask “How many requests do you process per day?” Closed-ended questions enable analysts to control the interview and obtain the information they need. However, these types of questions do not uncover why the answer is the way it is, nor do they uncover information that the interviewer does not think to ask ahead of time.\n",
+    "answer": "Closed-ended question"
+  },
+  {
+    "question": " To move the users “from here to there,” an analyst needs strong critical thinking skills. Critical thinking is the ability to recognize strengths and weaknesses and recast an idea in an  improved form. These skills are needed in order for the analyst to understand issues and develop  new and improved business processes that are supported by information system technologies. \nThese skills are essential in examining the results of requirements discovery and translating those  requirements into a concept for the new system\n",
+    "answer": "Critical thinking skills"
+  },
+  {
+    "question": "Project teams often use document analysis to understand the as-is system. Under ideal circumstances, the project team that developed the existing system will have produced documentation, which was then updated by all subsequent projects. In this case, the project team can start by reviewing the documentation and examining the system itself.",
+    "answer": "Document analysis"
+  },
+  {
+    "question": "Duration analysis requires a detailed examination of the amount of time it takes to perform each process in the current as-is system. The analysis begin by determining the total amount of time it takes, on average, to perform a set of business processes for a typical input. They then  time each of the individual steps (or subprocesses) in the business process. The time to complete the basic steps are then totaled and compared with the total for the overall process. A significant difference between the two—and, in our experiences, the total time often can be 10 or even 100 times longer than the sum of the parts—indicates that this part of the process is badly in need of a major overhaul\n",
+    "answer": "Duration analysis"
+  },
+  {
+    "question": "Electronic JAD, or e-JAD, attempts to overcome these problems by the use of groupware.  In an e-JAD meeting room, each participant uses special software on a networked computer to anonymously submit ideas, view all ideas generated by the group, and rate and rank ideas  through voting. The facilitator uses the electronic tools of the e-JAD system to guide the  group process, for maintaining anonymity and enabling the group to focus on each idea’s  merits and not the power or rank of the person who contributed the idea. In this way, all \n participants can contribute at the same time, without fear of reprisal from people with differing opinions. Initial research suggests that e-JAD can reduce the time required to run e-JAD sessions by 50–80%.\n",
+    "answer": "Electronic JAD (e-JAD)"
+  },
+  {
+    "question": "JAD is a structured process in which 10–20 users  meet under the direction of a facilitator skilled in JAD techniques. The facilitator is a person who  sets the meeting agenda and guides the discussion, but does not join in the discussion as a participant. He or she does not provide ideas or opinions on the topics under discussion and remains  neutral during the session. The facilitator must be an expert in both group process techniques  and systems analysis and design techniques. Ideally, the facilitator will have experience with the  business under discussion. In many cases, the JAD facilitator is an outside consultant. Organizations may not have a regular day-to-day need for JAD or e-JAD expertise, and developing and  maintaining this expertise in-house can be expensive. One or two scribes assist the facilitator by recording notes, making copies, and so on. Often, the scribes will use computers and CASE tools  to record information as the JAD session proceeds.\n",
+    "answer": "Facilitator"
+  },
+  {
+    "question": "But these documents (forms, reports, policy manuals, organization charts) only tell part of  the story. They represent the formal system that the organization uses.\n",
+    "answer": "Formal system"
+  },
+  {
+    "question": "what the software should do\n Process-oriented A process the system must perform; a process the system must do\nInformation-oriented Information the system must contain\n",
+    "answer": "Functional requirement"
+  },
+  {
+    "question": "Most JAD sessions try to follow a formal agenda, and most have formal ground rules that define \nappropriate behavior. Common ground rules include following the schedule, respecting others’ \nopinions, accepting disagreement, and ensuring that only one person talks at a time",
+    "answer": "Ground rule"
+  },
+  {
+    "question": "Informal benchmarking is fairly common for “customer-facing” business processes (i.e., those processes that interact with the customer). With informal benchmarking, the managers and analysts think about other organizations, or visit them as customers to watch how the business process is performed. In many cases, the business studied may be a known leader in the industry or simply a related firm. For example, suppose that the team is developing a website for a car dealer. The project sponsor, key managers, and key team members would likely visit the website of competitors, those of others in the car industry (e.g., manufacturers, accessories suppliers), and those of other industries that have won awards for their websites.",
+    "answer": "Informal benchmarking"
+  },
+  {
+    "question": "Quite often, the “real,” or informal system differs from the formal one, and these differences, particularly large ones, give strong indications of what needs to be changed\n",
+    "answer": "Informal system"
+  },
+  {
+    "question": "Interpersonal skills are those that enable you to develop rapport with others, and they are very important for interviewing. They help you to communicate with others effectively. Some people develop good interpersonal skills at an early age; they simply seem to know how to communicate and interact with others. Other people are less “lucky” and need to work hard to develop their skills\n",
+    "answer": "Interpersonal skill"
+  },
+  {
+    "question": "An interview schedule should be created, listing who will be interviewed, the purpose of the interview, and where and when it will take place (Figure 3-4). The people who appear on the interview schedule are selected on the basis of the analyst’s information needs. The project sponsor, key business users, and other members of the project team can help the analyst find the best candidates to provide important information about requirements.\n",
+    "answer": "Interview schedule"
+  },
+  {
+    "question": "Joint Application Development (JAD) is an information gathering technique that allows the project team, users, and management to work together to identify requirements for the system.\n",
+    "answer": "Joint application development (JAD)"
+  },
+  {
+    "question": "For example, we may describe what the business needs (business requirements); what the users need to do (user requirements); what the software should do (functional requirements); characteristics the system should have (nonfunctional requirements); and how the system should be built (system requirements)",
+    "answer": "Nonfunctional requirements"
+  },
+  {
+    "question": "Observation, the act of watching processes being performed, is a powerful tool to gain insight into the as-is system. Observation enables the analyst to see the reality of a situation, rather than listening to others describe it in interviews or JAD sessions. Several research studies have shown that many managers really do not remember how they work and how they allocate their time. (Quick, how many hours did you spend last week on each of your courses?) Observation is a good way to check the validity of information gathered from other sources such as interviews and questionnaires\n",
+    "answer": "Observation"
+  },
+  {
+    "question": "Outcome analysis focuses on understanding the fundamental outcomes that provide value to customers\n",
+    "answer": "Outcome analysis"
+  },
+  {
+    "question": "Processes in which many different people work on small parts of the inputs are prime candidates for process integration or parallelization. Process integration means changing the fundamental process so that fewer people work on the input, which often requires changing the processes and retraining staff to perform a wider range of duties. Process parallelization means changing the process so that all the individual steps are performed at the same time.\n",
+    "answer": "Parallelization"
+  },
+  {
+    "question": "As with interviews, a JAD post-session report is prepared and circulated among session attendees. The post-session report is essentially the same as the interview report in Figure 3-7.\n",
+    "answer": "Post-session report"
+  },
+  {
+    "question": "Probing questions follow up on what has just been discussed in order for the interviewer to learn more. They encourage the interviewee to expand on or to confirm information from a previous response, and they are a signal that the interviewer is listening and interested in the topic under discussion. Many beginning analysts avoid probing questions because they are afraid that the interviewee might be off ended at being challenged or because they believe it shows that they did not understand what the interviewee said. When done politely, probing questions can be a powerful tool in requirements discovery.\n",
+    "answer": "Probing question"
+  },
+  {
+    "question": "The most straightforward (and probably the most commonly used) requirements analysis strategy  is problem analysis. Problem analysis means asking the users and managers to identify problems  with the as-is system and to describe how to solve them in the to-be system\n",
+    "answer": "Problem analysis"
+  },
+  {
+    "question": "Processes in which many different people work on small parts of the inputs are prime candidates for process integration or parallelization. Process integration means changing the fundamental process so that fewer people work on the input, which often requires changing the processes and retraining staff to perform a wider range of duties.\n",
+    "answer": "Process integration"
+  },
+  {
+    "question": "A questionnaire is a set of written questions for obtaining information from individuals. Questionnaires often are used when there is a large number of people from whom information and opinions are needed. In our experience, questionnaires are commonly used for systems intended for use outside of the organization (e.g., by customers or vendors) or for systems with business users spread across many geographic locations. Today, most questionnaires are being distributed in electronic form, either via e-mail or on the Web\n",
+    "answer": "Questionnaire"
+  },
+  {
+    "question": "Requirements determination is performed to transform the system request’s high-level statement of business requirements into a more detailed, precise list of what the new system must do to provide the needed value to the business.\n",
+    "answer": "Requirements determination"
+  },
+  {
+    "question": "Root cause analysis focuses on problems first rather than solutions.",
+    "answer": "Root cause analysis"
+  },
+  {
+    "question": "Typically, a sample, or subset, of people are selected who are representative of the entire group. Sampling guidelines are discussed in most statistics books, and most business schools include courses that cover the topic, so we will not discuss it here. The important point in selecting a sample, however, is to realize that not everyone who receives a questionnaire will actually complete it\n",
+    "answer": "Sample"
+  },
+  {
+    "question": "One or two scribes assist the facilitator by recording notes, making copies, and so on. Often, the scribes will use computers and CASE tools to record information as the JAD session proceeds\n",
+    "answer": "Scribe"
+  },
+  {
+    "question": "You must include all of the key stakeholders (the people who can affect the system or who will be affected by the system)\n",
+    "answer": "Stakeholder"
+  },
+  {
+    "question": "The final deliverable of the analysis phase is the system proposal, a document compiling the detailed requirements definition statement, use cases, process models, and data model together with a revised feasibility analysis and work plan. At the conclusion of the analysis phase, the system proposal is presented to the approval committee, usually in the form of a system walk-through",
+    "answer": "System proposal"
+  },
+  {
+    "question": "An analysis strategy is developed to guide the project team’s efforts. Such a strategy usually includes studying the current system (called the as-is system) and its problems, and envisioning ways to design a new system (called the to-be system)\n",
+    "answer": "To-be system"
+  },
+  {
+    "question": "With the top-down interview, the interviewer starts with broad, general issues and gradually works towards more specific ones.\n",
+    "answer": "Top-down interview"
+  },
+  {
+    "question": "At the initial stage of an IS development project the as-is process can be unclear, so the interview process begins with unstructured interviews, interviews that seek a broad and roughly defined set of information\n",
+    "answer": "Unstructured interview"
+  },
+  {
+    "question": "User requirements what the users need to do",
+    "answer": ""
+  },
+  {
+    "question": "Walk-through The goal of the walk-through is to explain the system in moderate detail so that the users, managers, and key decision makers clearly understand it, can identify any needed modifications, and are able to make a decision about whether the project should continue.\n",
+    "answer": ""
+  },
+  {
+    "question": "Actor The actor refers a person, another software system, or a hardware device that interacts with the system to achieve a useful goal\n",
+    "answer": ""
+  },
+  {
+    "question": "Business scenario At one time, organizations applying traditional system development techniques used what were called business scenarios to describe user interactions with the system, while organizations applying object-oriented techniques (see Chapter 14) used what were called use cases. \n",
+    "answer": ""
+  },
+  {
+    "question": "Essential use case \nThe use cases shown here are essential use cases, written to depict the user–system interactions  as abstract, technology-independent steps. For example, in the first step of the Normal Course  shown in Figure 4-1, “The customer selects base model drone from a list of models” nothing is  said about the specific way this is done.\n",
+    "answer": ""
+  },
+  {
+    "question": "Event-driven modeling \n Each use case describes how an event triggers actions performed by the system and the user. With this type of event-driven modeling, everything in the system can be thought of as a response to some trigger event. The fully dressed use case is not always necessary, but does provide value in certain circumstances. Fully dressed use cases are especially valuable when: • User representatives are not closely engaged with the development team throughout the project. • The application is complex and has a high risk associated with system failures. • Comprehensive test cases will be based on the user requirements. • Collaborating remote teams need a detailed, shared understanding of the user requirements\n",
+    "answer": ""
+  },
+  {
+    "question": "External trigger \nEach use case describes how an event triggers actions performed by the system and the user\n",
+    "answer": ""
+  },
+  {
+    "question": "Fully dressed use case \nThe use case in Figure 4-3 represents a fully dressed use case. 2 This means that the use case is very thorough, detailed, and highly structured. As you can see, there are several additional sections in this use case format. We use the third use case in our example, Obtain shop manager approval, to illustrate this use case format.\n",
+    "answer": ""
+  },
+  {
+    "question": "Happy path \nThe next major section of a use case is the description of the major steps that are performed to execute the response to the event, the inputs used for the steps, and the outputs produced by the steps. The normal course lists the steps that are performed when everything flows smoothly in the system. This is sometimes called the “happy path” because there are no problems or issues that arise when the steps are able to be followed normally.\n",
+    "answer": ""
+  },
+  {
+    "question": "Inputs, Outputs \nAt this point, the steps have been described, but not the elements that further define and link the steps. In other words, the use case forms in Figure 4-9 require some final work before they are complete. The last column (“Information for Steps”) must be completed and arrows may be drawn to describe inputs and outputs from the steps. The goal at this point is to identify the major inputs and outputs for each step\n",
+    "answer": ""
+  },
+  {
+    "question": "Postconditions \nThese postconditions also serve to define the preconditions for the next use case in the series. In our example, that would be the use case that describes the Shop Manager’s custom order approval process.\n",
+    "answer": ""
+  },
+  {
+    "question": "Preconditions \nThese preconditions define the state the system must be in before the use case commences. In our example, you can see that in order for a customer to place an order, he must be authenticated and the Sales System Order Processing application is online. These tasks are taken care of in a different use case prior to the performance of this use case. Once these preconditions are established, the customer can perform the Create preliminary custom drone order use case\n",
+    "answer": ""
+  },
+  {
+    "question": "Primary actor \nDuring the JAD sessions, the team followed the steps of the process we outlined earlier in the chapter. For each use case, the primary actor and trigger were identified and a brief description was written\n",
+    "answer": ""
+  },
+  {
+    "question": "Priority \nThe priority may be assigned to indicate the relative significance of the use case in the overall system. Some use cases will describe essential activities that the system must perform and hence will have a high priority level. Other use cases may describe activities that are less critical, having medium or low priority\n",
+    "answer": ""
+  },
+  {
+    "question": "Role-play \nReview the use case with the users to make sure that each step and each input and output are correct and that the final result of the use case is consistent with the final result in the event-action list.  The most powerful approach is to ask the user to role-play, or execute the use case by using the written steps in the use case. The project team had the users role-play the use cases.\n",
+    "answer": ""
+  },
+  {
+    "question": "Step \nThe goal at this point is to identify the major inputs and outputs for each step\n",
+    "answer": ""
+  },
+  {
+    "question": "Temporal trigger \nA trigger can also be a temporal trigger, where the event is time-based, such as ebook becoming overdue at the library or it’s time to process the weekly payroll\n",
+    "answer": ""
+  },
+  {
+    "question": "Use case package \nIf there really are more than eight or nine major use cases, the use cases are grouped together into use case packages. For example, if we were to do a more thorough study of the Customization shop at DrōnTeq, we would likely find more than the seven events discussed in our example\n",
+    "answer": ""
+  },
+  {
+    "question": "User requirements \nuser requirements: the things the users Introduction 125 need to accomplish with the new system\n",
+    "answer": "A use case represents how a system interacts with its environment by illustrating the activities \nthat are performed by the users of the system and the system’s responses. The goal is to create a \nset of use cases that describe all the tasks that users need to perform using the system"
+  },
+  {
+    "question": "User role \nThe actor refers a person, another software system, or a hardware device that interacts with the system to achieve a useful goal. Some organizations use the term user role rather than actor because there may be several different user groups who interact with the system in the same way. For example, an order entry use case could be performed with either customers or order entry clerks performing the user role.\n",
+    "answer": ""
+  },
+  {
+    "question": "Visualization\nThe techniques of visualizing your interaction with the process and thinking about how other systems work (informal benchmarking) are important techniques that help analysts and users understand how processes work and how to write the use cases. Both visualization and informal benchmarking are commonly used in practice.\n",
+    "answer": ""
+  },
+  {
+    "question": "1:1 relationships \nThe 1:1 (read as “one to one”) relationship means that one instance of the parent entity is associated with exactly one instance of the child entity.\n",
+    "answer": ""
+  },
+  {
+    "question": "1:N relationships \nMore often, relationships are 1:N (read as “one to many”). In this kind of relationship, a single instance of a parent entity is associated with many instances of a child entity; however, the child entity instance is related to only one instance of the parent\n",
+    "answer": ""
+  },
+  {
+    "question": "Assumption \nAssumptions are an important part of data modeling. \n",
+    "answer": ""
+  },
+  {
+    "question": "Attribute\nAn attribute is some type of information that is captured about an entity. For example, last name, home address, and e-mail address are all attributes of an employee\n",
+    "answer": ""
+  },
+  {
+    "question": "Balance \nThese components of the DFD need to balance with the ERD. \n",
+    "answer": ""
+  },
+  {
+    "question": "business rules \nLines are drawn between entities to represent relationships among the data, and special symbols are added to the diagram to communicate high-level business rules that need to be supported by the system. The ERD implies no order, although entities that are related to each other are usually placed close together.\n",
+    "answer": ""
+  },
+  {
+    "question": "cardinality \nFirst, a relationship has cardinality, which is the ratio of parent instances to child instances. To determine the cardinality for a relationship, we ask ourselves: “How many instances of one entity are associated with an instance of the other?” (Remember that an instance is one occurrence of an entity, such as Customer “Precision Wings Drone Services” or Drone Base Model “DrōnTeq QuadMax Raptor V2.”) We ask, a Customer places how many Custom Drone Orders? A Drone Base Model is included in how many Custom Drone Orders? The cardinality for binary relationships (i.e., relationships between two entities) is 1:1, 1:N, or M:N, and we will discuss each in turn\n",
+    "answer": ""
+  },
+  {
+    "question": "Child entity \nRelationships are associations between entities, and they are shown by lines that connect the entities together. Every relationship has a parent entity and a child entity, the parent being the first entity in the relationship, and the child being the second. To help you think about this, generally, the parent entity is on the “one” side of the relationship line, and the child entity is on the “many” side.\n",
+    "answer": ""
+  },
+  {
+    "question": "clients \nThese names should be consistent across the model and reflect the terminology used by the business. If DrōnTeq refers to people who request drone flights as clients, the data model should include an entity called Client, not Customer or Stakeholder\n",
+    "answer": ""
+  },
+  {
+    "question": "Concatenated identifier\nFirst, you can use a combination of multiple fields to serve as the identifier (last name and first name). This is called a concatenated identifier because several fields are combined, or concatenated, to uniquely identify an instance\n",
+    "answer": ""
+  },
+  {
+    "question": "CRUD matrix \nA useful tool to clearly depict the interrelationship between process and data models is the create, read, update, delete (CRUD) matrix. The CRUD matrix is a table that depicts how the system’s processes use the data within the system. It is helpful to develop the CRUD matrix on the basis of the logical process and data models and then revise it later in the design phase.\n",
+    "answer": ""
+  },
+  {
+    "question": "Data dictionary \nEvery CASE tool has something called a data dictionary, which quite literally is where the analyst goes to define or look up information about the entities, attributes, and relationships on the ERD\n",
+    "answer": ""
+  },
+  {
+    "question": "Data model \nA data model is a formal way of representing the data that are used and created by a business system; it illustrates people, places, or things about which information is captured and how they are related to each other. The data model is drawn by an iterative process in which the model becomes more detailed and less conceptual over time\n",
+    "answer": ""
+  },
+  {
+    "question": "Dependent entity\nThere are situations when a child entity does require attributes from the parent entity to uniquely identify an instance. In these cases, the child entity is called a dependent entity, and its identifier consists of at least one attribute from the parent entity.\n",
+    "answer": ""
+  },
+  {
+    "question": "Derived attribute \nThird normal form also addresses issues of derived, or calculated, attributes. By definition, derived attributes can be calculated from other attributes and do not need to be stored in the data model\n",
+    "answer": ""
+  },
+  {
+    "question": "Entity relationship diagram (ERD), Parent entity, Relationship\nAn entity relationship diagram (ERD) is a picture which shows the information that is created, stored, and used by a business system\n",
+    "answer": ""
+  },
+  {
+    "question": "First normal form (1NF) identifier \nA logical data model is in first normal form (1NF) if it does not contain attributes that have repeating values for a single instance of an entity\n",
+    "answer": ""
+  },
+  {
+    "question": "Identifier \nWhen we are developing a logical data model, an asterisk is used to indicate the uniquely identifying data element(s). We term this data element, or several elements grouped together, the identifier. A unique ID data element has been created to identify every Customer, Custom Drone Order, Drone Base Model, and every Drone Component\n",
+    "answer": ""
+  },
+  {
+    "question": "Identifying relationship \nWhen relationships have a dependent child entity, they are called identifying relationships.\n",
+    "answer": ""
+  },
+  {
+    "question": "Logical data model \nDuring analysis, analysts draw a logical data model, which shows the logical organization of data without indicating how data are stored, created, or manipulated\n",
+    "answer": ""
+  },
+  {
+    "question": "Metadata\nThe information you see in the data dictionary is called metadata, which, quite simply, is data about data. Metadata is anything that describes an entity, attribute, or relationship, such as entity names, attribute descriptions, and relationship cardinality, and it is captured to help designers better understand the system that they are building and to help users better understand the system that they will use\n",
+    "answer": ""
+  },
+  {
+    "question": "Non-identifying relationship normalization \nWhen a relationship includes an independent child entity, it is called a non-identifying relationship\n",
+    "answer": ""
+  },
+  {
+    "question": "Normalization \nOnce you have created your ERD, there is a technique called normalization that can help analysts validate the models that they have drawn. It is a process whereby a series of rules are applied to a logical data model or a file to determine how well formed it is. Normalization rules help analysts identify entities that are not represented correctly in a logical data model, or entities that can be broken out from a file. The result of the normalization process is that the data attributes are arranged to form stable, yet flexible, relations for the data model. In Appendix 6A, we describe three normalization rules that are applied regularly in practic\n",
+    "answer": ""
+  },
+  {
+    "question": "Partial dependency \nThe attribute Date Skill Acquired was moved to Employee are dependent on only part of the identifier (i.e., partial dependency), and these attributes belong in another entity\n",
+    "answer": ""
+  },
+  {
+    "question": "Repeating attributes, Repeating groups \nA logical data model is in first normal form (1NF) if it does not contain attributes that have repeating values for a single instance of an entity. Often, this problem is called repeating attributes, or repeating attribute groups. \n",
+    "answer": ""
+  },
+  {
+    "question": "Physical data model\nIn the design phase, analysts draw a physical data model to reflect how the data will physically be stored in databases and files. At this point, the analysts investigate ways to store the data efficiently and to make the data easy to retrieve.\n",
+    "answer": ""
+  },
+  {
+    "question": "Second normal form (2NF)\nSecond normal form (2NF) requires that the data model is in 1NF and that the data model leads to entities containing attributes that are dependent on the whole identifier\n",
+    "answer": ""
+  },
+  {
+    "question": "Subject area \nIf the model becomes too complex or busy (some companies have hundreds of entities on a data model), the model can be broken down into subject areas. Each subject area would contain related entities and relationships, and the analyst can work with one group of entities at a time to make the modeling process less confusing.\n",
+    "answer": ""
+  },
+  {
+    "question": "Third normal form (3NF), Transitive dependency\nThird normal form (3NF) occurs when a model is in both 1NF and 2NF and when, in the resulting entities, none of the attributes is dependent on a non identifier attribute (i.e., transitive dependency)\n",
+    "answer": ""
+  },
+  {
+    "question": "Access control requirements \nAccess control requirements state who can access what data and what type of access is permitted—whether the individual can create, read, update, and/or delete the data. The requirements reduce the chance that an authorized user of the system can perform unauthorized actions\n",
+    "answer": ""
+  },
+  {
+    "question": "Application logic\nThe third function is the application logic: the logic documented in the DFDs, use cases, and functional requirements\n",
+    "answer": ""
+  },
+  {
+    "question": "Application program interface (API)\nThird, cloud services typically have standardized application program interfaces (APIs). This means that the services have standardized the way that programs or data sources communicate with each other\n",
+    "answer": ""
+  },
+  {
+    "question": "Architectural component \nThe major architectural components of any system are the software and the hardware. The major software components of the system being developed have to be identified and then allocated to the various hardware components on which the system will operate. Each of these components can be combined in a variety of different ways\n",
+    "answer": ""
+  },
+  {
+    "question": "Architecture design \nAn important step of the design phase is the creation of the architecture design, the plan for how the information system components will be distributed across multiple computers and what hardware, operating system software, and application software will be used on each computer (e.g., Windows or Linux operating system software)\n",
+    "answer": ""
+  },
+  {
+    "question": "Asymmetric encryption algorithm \nin an asymmetric encryption algorithm (such as public key encryption), the key used to encrypt data (called the public key) is different from the one used to decrypt it (called the private key). Even if everyone knows the public key, once the data are encrypted, they cannot be decrypted without the private key. Public key encryption greatly reduces the key management problem. Each user has a public key that is used to encrypt incoming messages. These public keys are widely publicized (e.g., listed in a telephone book-style directory)—that is why they are called “public” keys. The private key, in contrast, is kept secret (that is why it is called a “private” key).\n",
+    "answer": ""
+  },
+  {
+    "question": "Authentication \nPublic key encryption also permits authentication (or digital signatures)\n",
+    "answer": ""
+  },
+  {
+    "question": "Availability and reliability requirements\nAvailability and reliability requirements focus on the extent to which users can assume that the system will be available for them to use. While some systems are intended to be used just during the 40-hour work week, other systems are designed to be used by people around the world\n",
+    "answer": ""
+  },
+  {
+    "question": "Blockchain \nA promising new security technology is blockchain. Blockchain is used to secure the transactions taking place between users in the same network. Its primary goal is to certify transactions between parties. With blockchain, a public register stores transactions between two users belonging to the same network in a secure, permanent, and verifiable way\n",
+    "answer": ""
+  },
+  {
+    "question": "Capacity requirements \nCapacity requirements attempt to predict how many users the system will have to support, both in total and simultaneously. Capacity requirements are important in understanding the size of the databases, the processing power needed, and so on. The most important requirement is usually the peak number of simultaneous users, because this has a direct impact on the processing power of the computer(s) needed to support the system.\n",
+    "answer": ""
+  },
+  {
+    "question": "Client computer \nThe three primary hardware components of a system are client computers, servers, and the network that connects them. Client computers are the input–output devices employed by the user and include desktop or laptop computers, handheld devices, smartphones, tablet devices, special-purpose terminals, and so on.\n",
+    "answer": ""
+  },
+  {
+    "question": "Client–server architecture\nMost organizations today are utilizing client–server architectures, which attempt to balance the processing between client devices and one or more server devices \n",
+    "answer": ""
+  },
+  {
+    "question": "Cloud computing\n It is no longer necessary for organizations to own, manage, and administer their own computing infrastructure. We are in the midst of the rise of cloud computing, wherein everything, from computing power to computing infrastructure, applications, business processes to personal collaboration—can be delivered as a service wherever and whenever needed. The “cloud” in cloud computing can be defined as the set of hardware, networks, storage, services, and interfaces that combine to deliver aspects of computing as a service. Cloud services include the delivery of software, infrastructure, and storage over the Internet (either as separate components or a complete platform) based on user demand. Cloud computing can be implemented in three ways: private cloud, public cloud, and hybrid clouds. With public clouds, services are provided “as a service” over the Internet with little or no control over the underlying technology infrastructure. Private clouds offer activities and functions “as a service,” but are deployed over a company intranet or hosted data center. Hybrid clouds combine the power of both public and private clouds. In this scenario, activities and tasks are allocated to private or public clouds as required.\n",
+    "answer": ""
+  },
+  {
+    "question": "Concurrent multilingual system \nSome systems are designed to handle multiple languages on the fly so that users in different countries can use different languages concurrently; that is, the same system supports several different languages simultaneously (a concurrent multilingual system).\n",
+    "answer": ""
+  },
+  {
+    "question": "Cultural and political requirements \nCultural and political requirements are specific to the countries in which the system will be used. In today’s global business environment, organizations are expanding their systems to reach users around the world. Although this can make great business sense, its impact on application development should not be underestimated. Yet another important part of the design of the system’s architecture is understanding the global cultural and political requirements for the system (Figure 8-8)\n",
+    "answer": ""
+  },
+  {
+    "question": "Customization requirements \nFor global applications, the project team will need to give some thought to customization requirements: how much of the application will be controlled by a central group and how much of the application will be managed locally? For example, some companies allow subsidiaries in some countries to customize the application by omitting or adding certain features. This decision has trade-offs between flexibility and control because customization often makes it more difficult for the project team to create and maintain the application. It also means that training can differ between different parts of the organization, and customization can create problems when staff move from one location to another\n",
+    "answer": ""
+  },
+  {
+    "question": "Data access logic \nThese are the data entities documented in ERDs. The second function is the data access logic: the processing required to access data, often meaning database queries in Structured Query Language (SQL)\n",
+    "answer": ""
+  },
+  {
+    "question": "Data storage \nAll software systems can be divided into four basic functions. The first is data storage. Most information systems require data to be stored and retrieved, whether a small file, such as a list of customers who have been granted a special status, or a large database that stores an organization’s human resources records\n",
+    "answer": ""
+  },
+  {
+    "question": "Discrete multilingual system \nOther systems contain separate parts that are written in each language and must be reinstalled before a specific language can be used; that is, each language is provided by a different version of the system so that any one installation will use only one language (i.e., a discrete multilingual system)\n",
+    "answer": ""
+  },
+  {
+    "question": "Elasticity \nThis capability, termed elasticity, makes the cloud scalable—the cloud can scale up for periods of peak demand and scale down for times of less demand\n",
+    "answer": ""
+  },
+  {
+    "question": "Encryption\nOne of the best ways to prevent unauthorized access to data is encryption, which is a means of disguising information by the use of mathematical algorithms (or formulas). Encryption can be used to protect data stored in databases or data that are in transit over a network from a database to a computer \n",
+    "answer": ""
+  },
+  {
+    "question": "Encryption and authentication requirements \nThe encryption and authentication requirements state what encryption and authentication requirements are needed for what data. For example, will sensitive data such as customer credit card numbers be stored in the database in encrypted form, or will encryption be used to take orders over the Internet from the company’s website? Will users be required to use a digital certificate in addition to a standard password?\n",
+    "answer": ""
+  },
+  {
+    "question": "Functions \nAll software systems can be divided into four basic functions. The first is data storage\n",
+    "answer": ""
+  },
+  {
+    "question": "Graphical user interface (GUI)\nTypically the user interface runs on a desktop PC or workstation and uses a standard graphical user interface\n",
+    "answer": ""
+  },
+  {
+    "question": "Legal requirements \nLegal requirements are imposed by laws and government regulations. System developers sometimes forget to think about legal regulations, but unfortunately, ignorance of the law is no defense. \n",
+    "answer": ""
+  },
+  {
+    "question": "Mainframe \nThe very first computing architectures were server-based, with the server (usually, a central mainframe computer) performing all four application functions. The clients (in those days, “dumb” terminals) enabled users to send and receive messages to and from the server computer\n",
+    "answer": ""
+  },
+  {
+    "question": "Maintainability requirements \nMaintainability requirements specify the business requirement changes that can be anticipated.\n",
+    "answer": ""
+  },
+  {
+    "question": "Middleware is a type of system software designed to translate between different vendors’ software. Middleware is installed on both the client computer and the server computer. The client software communicates with the middleware, which can reformat the message into a standard language that can be understood by the middleware, which assists the server software\n",
+    "answer": ""
+  },
+  {
+    "question": "Mission critical system \nIn some cases, the information system itself has value that far exceeds the cost of the equipment as well. For example, for an Internet bank that has no brick-and-mortar branches, the website is a mission critical system. If the website crashes, the bank cannot conduct business with its customers. A mission critical application is an information system that is literally critical to the survival of the organization. It is an application that cannot be permitted to fail, and if it does fail, the operations staff drops everything else to fix it. Mission critical applications are usually clearly identified so that their importance is not overlooked.\n",
+    "answer": ""
+  },
+  {
+    "question": "Multilingual requirements\nGlobal applications often have multilingual requirements, which means that they have to support users who speak different languages and write with non-English letters (e.g., those with accents, Cyrillic, Japanese \n",
+    "answer": ""
+  },
+  {
+    "question": "Network\nThe network that connects the computers can vary in speed from slow cell phones or modem connections that must be dialed, to medium-speed always-on frame relay networks, to fast always-on broadband connections such as cable modem, DSL, or T1 circuits, to high-speed always-on Ethernet, T3, or ATM circuits\n",
+    "answer": ""
+  },
+  {
+    "question": "n-tier architecture \n The middle tier may be divided into tiers itself, resulting in an overall architecture called an “n-tier architecture.”\n",
+    "answer": ""
+  },
+  {
+    "question": "n-tiered architecture \nAn n-tiered architecture distributes the work of the application (the middle tier) among multiple layers of more specialized server computers. \n",
+    "answer": ""
+  },
+  {
+    "question": "Performance requirements \nPerformance requirements focus on performance issues such as response time, capacity, and reliability\n",
+    "answer": ""
+  },
+  {
+    "question": "Portability requirements \nPortability requirements define how the technical operating environments may evolve over time and how the system must respond (e.g., the system may currently run on Windows 7, but in the future may have to run on Windows 10 and Linux). Portability requirements also refer to potential changes in business requirements that will drive technical-environment changes. For example, many organizations today are working to ensure their applications are optimized for tablet or smartphone devices in response to user demand\n",
+    "answer": ""
+  },
+  {
+    "question": "Presentation logic \nThe fourth function is the presentation logic: the display of information to the user and the acceptance of the user’s commands (the user interface). These four functions (data storage, data access logic, application logic, and presentation logic) are the basic building blocks of any information system.\n",
+    "answer": ""
+  },
+  {
+    "question": "Response time \nFirst and foremost, this is the response time of the system: How long does it take the system to respond to a user request? While everyone would prefer low response times with the system responding immediately to each user request, this is not practical\n",
+    "answer": ""
+  },
+  {
+    "question": "Rich Internet application (RIA) \nIf the application requires a rich user interface (UI), only limited access to local device resources, and must be portable to other platforms, design a rich Internet application (RIA) client. Rich Internet Applications are Web-based applications that function as traditional desktop applications; however, Web browsers are required for access\n",
+    "answer": ""
+  },
+  {
+    "question": "Scalable \nClient–server architectures have four important benefits. First and foremost, they are scalable. That means it is easy to increase or decrease the storage and processing capabilities of the servers.\n",
+    "answer": ""
+  },
+  {
+    "question": "Server \nServers typically are larger multi-user computers used to store software and data that can be accessed by anyone who has permission. \n",
+    "answer": ""
+  },
+  {
+    "question": "Server-based architecture \nIn this section we discuss the server-based architecture, a less common, but still important architecture choice. The very first computing architectures were server-based, with the server (usually, a central mainframe computer) performing all four application functions. The clients (in those days, “dumb” terminals) enabled users to send and receive messages to and from the server computer. The clients merely captured keystrokes and sent them to the server for processing, and accepted instructions from the server on what to display (Figure 8-4).\n",
+    "answer": ""
+  },
+  {
+    "question": "Server virtualization \nServer virtualization involves partitioning a physical server into smaller virtual servers.\n",
+    "answer": ""
+  },
+  {
+    "question": "Speed requirements\nSpeed requirements are exactly what they say: how fast the system must operate.\nStorage area network (SAN) \nA storage area network (SAN) uses storage virtualization to create a high-speed subnetwork of shared storage devices. In this environment, tasks such as backup, archiving, and recovery are easier and faster.\n",
+    "answer": ""
+  },
+  {
+    "question": "Storage virtualization\nStorage virtualization involves combining multiple network storage devices into what appears to be a single storage unit \n",
+    "answer": ""
+  },
+  {
+    "question": "Symmetric encryption algorithm \nA symmetric encryption algorithm [such as Data Encryption Standard (DES) or Advanced Encryption Standard (AES)] is one in which the key used to encrypt a message is the same as the one used to decrypt it. With symmetric encryption, it is essential to protect the key, and a separate key must be used for each person or organization with whom the system shares information (or else everyone can read all the data).\n",
+    "answer": ""
+  },
+  {
+    "question": "System integration requirements \nSystem integration requirements are those that require the system to operate with other information systems, either inside or outside the company. These typically specify interfaces through which data will be exchanged with other systems\n",
+    "answer": ""
+  },
+  {
+    "question": "Technical environment requirements \nTechnical environment requirements specify the type of hardware and software on which the system will work. These requirements usually focus on the operating system software (e.g., Windows, Linux), database system software (e.g., Oracle), and other system software (e.g., Internet Explorer). Occasionally, there may be specific hardware requirements that impose important limitations on the system, such as the need to operate on a smartphone with a very small display\n",
+    "answer": ""
+  },
+  {
+    "question": "Thick client, Fat client \nThe application logic may reside on the client, reside on the server, or be split between both (Figure 8-1). If the client shown in Figure 8-1 contained all or most of the application logic, it is called a thick or fat client\n",
+    "answer": ""
+  },
+  {
+    "question": "Thin client \nCurrently, thin clients, containing just a small portion of the application logic, are popular because of lower overhead and easier maintenance.\n",
+    "answer": ""
+  },
+  {
+    "question": "Thin Web-based client \nWhen the application can rely on the availability of server processing and will always be connected, a thin Web-based client can be developed. In this case, the business logic and data access logic will be located on the server side rather than the client side.\n",
+    "answer": ""
+  },
+  {
+    "question": "Three-tiered architecture\nA three-tiered architecture uses three sets of computers, as shown in Figure 8-2. In this case, the software on the client computer is responsible for presentation logic, an application server(s) is responsible for the application logic, and a separate database server(s) is responsible for the data access logic and data storage\n",
+    "answer": ""
+  },
+  {
+    "question": "Two-tiered architecture \nIn this case, the server is responsible for the data and the client is responsible for the application and presentation. This is called a two-tiered architecture because it uses only two sets of computers—clients and servers.\n",
+    "answer": ""
+  },
+  {
+    "question": "Unstated norms \nMany countries have unstated norms that are not shared internationally. It is important for the application designer to make these assumptions explicit, because they can lead to confusion otherwise. In the United States, the unstated norm for entering a date is the date format MM/DD/YYYY; \nhowever, in Canada and most European countries, the unstated norm is DD/MM/YYYY\n",
+    "answer": ""
+  },
+  {
+    "question": "Virtualization \nTwo advances that are currently getting a lot of attention, virtualization and cloud computing, will be described here briefly.\n",
+    "answer": ""
+  },
+  {
+    "question": "Virus The single most common security problem comes from viruses. Recent studies have shown that \nover 50% of organizations suffer a virus infection each year. Viruses cause unwanted events—\nsome harmless (such as nuisance messages), some serious (such as the destruction of data)",
+    "answer": ""
+  },
+  {
+    "question": "Zero client, ultra thin client\nZero client, or ultra thin client, is a server-based computing model that is often used today in a virtual desktop infrastructure (VDI). A typical zero client device is a small box that connects a keyboard, mouse, monitor, and Ethernet connection to a remote server. The server hosts everything: the client’s operating system and all software applications. The server can be accessed wirelessly or with cable.\n",
+    "answer": ""
+  },
+  {
+    "question": "hardware and software specification\nThe hardware and software specification is a document that describes what hardware and software are needed to support the application. There are several steps involved in creating the document. Figure 8-10 shows a sample hardware and software specification.\n",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
   },
   {
     "question": "",
