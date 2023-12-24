@@ -368,58 +368,6 @@
     "answer": ""
   },
   {
-    "question": "",
-    "answer": ""
-  },
-  {
-    "question": "",
-    "answer": ""
-  },
-  {
-    "question": "",
-    "answer": ""
-  },
-  {
-    "question": "",
-    "answer": ""
-  },
-  {
-    "question": "",
-    "answer": ""
-  },
-  {
-    "question": "",
-    "answer": ""
-  },
-  {
-    "question": "",
-    "answer": ""
-  },
-  {
-    "question": "",
-    "answer": ""
-  },
-  {
-    "question": "",
-    "answer": ""
-  },
-  {
-    "question": "",
-    "answer": ""
-  },
-  {
-    "question": "",
-    "answer": ""
-  },
-  {
-    "question": "",
-    "answer": ""
-  },
-  {
-    "question": "",
-    "answer": ""
-  },
-  {
     "question": "Activity-based costing is a similar analysis that examines the cost of each major process or step in a business process rather than the time taken.11 The analysts identify the costs associated with each of the basic functional steps or processes, identify the most costly processes, and focus their improvement efforts on them.\n",
     "answer": ""
   },
@@ -1016,23 +964,431 @@
     "answer": ""
   },
   {
-    "question": "",
+    "question": "What is a System? \n● Interdependent components which are connected to each other to produce some result ● Real world examples: \n○ Economic system\n ○ Educational system etc. \n● Consists of 3 major components: \n○ Input: what we have \n○ Processing: what system should to \n○ Output: what we will get as a result \n● We will focus on Information Systems\n",
     "answer": ""
   },
   {
-    "question": "",
+    "question": "Types of Information Systems\n ● Transaction Processing System (TPS)\n ● Management Infortmation System (MIS) \n● Decision Support System (DSS) \n● Expert System \n● Office Automation System\n● Knowledge Management System\n",
     "answer": ""
   },
   {
-    "question": "",
+    "question": "Transaction Processing System (TPS)\n● System that captures and processes every single transaction that takes place\n● Includes collection, modification and retrieval of all transaction data\n● Sometimes referred as Real-time systems\n● Examples:\n○ Ticketing services \n○ POS-terminals\n○ Subscription payments\n",
     "answer": ""
   },
   {
-    "question": "",
+    "question": "Management Infortmation System (MIS)\n● Takes collected data and converts them into aggregated and summarized data\n● Usually used in reports\n● Examples:\n○ Monthly sales reports\n○ Customer reports\n",
     "answer": ""
   },
   {
-    "question": "",
+    "question": "Decision Support System\n● System that provides information, models and data manipulation tools to help in making the decision\n● Relies on following components:\n○ User interface: users should be able to interact with DSS\n○ Knowledge base: a data which is used by DSS (e.g quarterly sales data)\n○ Model management system: used for storing and manipulating data\n● Examples:\n○ GPS: analyzes real time data about traffics and makes decisions about best possible routes\n○ Dashboards which allows to monitor data in various representations and helps managers to make decisions\n",
+    "answer": ""
+  },
+  {
+    "question": "Expert Systems\n● System designed to solve complex problems and to provide decision-making ability like a \nhuman\n● Mostly base on artificial intelligence\n● Relies on following components:\n○ Knowledge base: collection of data collected by human (dataset)\n○ Inference engine: used for processing and examining the knowledge base for \ninformation\n○ User interface: to interact and see results\n● Examples:\n○ Medical diagnosis\n○ Finance: frauds, suspicious bank transactions\n",
+    "answer": ""
+  },
+  {
+    "question": "Office Automation System\n● System that automates different administrative processes like documenting, recording \ndata, and office transactions\n● Examples:\n○ Automated mailing to employees\n○ Maintaining employee data (sick leave requests, vacation requests)\n",
+    "answer": ""
+  },
+  {
+    "question": "Knowledge Management System\n● System is a type of information system that stores information for building knowledge\n● Examples:\n○ Documentation\n○ FAQ\n○ Company processes\n○ Training materials\n",
+    "answer": ""
+  },
+  {
+    "question": "What System Analysis and Design (SAD) is about?\n● System analysis is a part of system development which includes:\n○ Collecting and interpreting information \n○ Inentifying issues and proposing solutions\n○ Decomposition of system into smaller parts\n○ Answers the question: what the system should do?\n● System design is a process of planning an implementation of system which includes:\n○ Designing architecture of system\n○ Designing the logic of system\n○ Designing the representation of system (UI)\n○ Answers the question: how to accomplish the objective of the system?\n",
+    "answer": ""
+  },
+  {
+    "question": "Who is System Analyst?\n● Person who uses analysis and design techniques to solve business problems using \ninformation technology\n● Main responsibilities:\n○ Conducting a research\n○ Analyzing and evaluating client information technology requirements, procedures or \nproblems\n○ Developing and implementing proposals, recommendations, and plans to improve \ninformation systems\n",
+    "answer": ""
+  },
+  {
+    "question": "Systems development life cycle (SDLC)\n● Process of developing and maintaining systems\n● Goal of SDLC:\n○ Ensure that system development requirements are well defined \n○ Establish a project management structure to ensure that the project is effectively managed \nthroughout its life cycle. \n● Consists of following phases:\n○ Planning\n○ Analysis of system and its requirements\n○ Design of the system\n○ Development\n○ Testing\n○ Implementation\n○ Maintenance\n",
+    "answer": ""
+  },
+  {
+    "question": "System planning (Feasability study)\n● All the relevant information is collected from the customer to develop a product as per \ntheir expectation\n● The problem, scope and objectives of system are defined\n● Confirm project feasibility and produce the project schedule\n",
+    "answer": ""
+  },
+  {
+    "question": "Analysis of system and its requirements\n● Define the requirements about features and prototypes of system\n● Helps to point out who will be responsible for different parts of project\n● Prioritize the requirements\n● The result of this phase is Software Requirement Specification (SRS) document which \ncontains:\n○ Software\n○ Hardware\n○ Functional requirements of the system\n",
+    "answer": ""
+  },
+  {
+    "question": "System design\n● Technical details of the system are created based on SRS document\n● The design of:\n○ User interface\n○ Database\n○ Business processes are developed here\n● At the end of this phase everything that developer will need should be read\n",
+    "answer": ""
+  },
+  {
+    "question": "Development and testing \n● Development\n○ All the magic coding happens here\n○ Developer uses all the system design documents in order to develop a system\n● Testing\n○ The phase that developers hate J\n○ All parts of system will be tested to meet the functional requirements\n○ Contains different tests (will be discussed in future lectures)\n",
+    "answer": ""
+  },
+  {
+    "question": "Implementation (Deployment)\n● Based on the type of information system, this phase can differ\n● Usually it’s a deployment of system to production\n● Examples:\n○ Website deployment\n○ Mobile app release in App Store/Google Play\n○ etc.\n● Also user manual can be created in this phase\n",
+    "answer": ""
+  },
+  {
+    "question": "Maintenance\n● Fix bugs reported by customers\n● System updates, implementation of new requirements, features\n",
+    "answer": ""
+  },
+  {
+    "question": "Business Analysis\n● Communicating with stakeholders\n● Identifying needs and requirements\n● Validating requirements\n● Determining solutions\n",
+    "answer": ""
+  },
+  {
+    "question": "Types of requirements \n● Business Requirements \n○ High level statement describing what is required from the business’s perspective \n● User/Stakeholder Requirements \n○ Specified to define what they expect from a particular solution \n○ Bridge between the generalized business requirements and specific solution requirements ● Solution Requirements \n○ Describe specific characteristics that a product must have to meet the needs of the stakeholders and the business \n● Transition Requirements \n○ Describes a requirements that must be in place for a certain phase or period of time\n",
+    "answer": ""
+  },
+  {
+    "question": "Solution requirements \n● Functional requirements \n○ Describes how the solution must behave \n● Non-functional requirements \n○ Describes the characteristics that you want the system to have \n○ Describes the attributes a system or process should possess and not a function that the system must perform\n",
+    "answer": ""
+  },
+  {
+    "question": "Requirement elicitation \n● Process of gathering information by communicating with stakeholders \n● Stages: \n○ Prepare for elicitation \n■ Understand the scope \n■ Select right technique \n○ Conduct elicitation \n■ Explore and gather information \n○ Confirm elicitation results \n■ Information gathered in elicitation session validated by sending the document to stakeholders for review\n",
+    "answer": ""
+  },
+  {
+    "question": " Requirement elicitation techniques \n● Brainstorming \n● Interviews \n● Prototyping \n● Document Analysis/Review \n● Surveys\n",
+    "answer": ""
+  },
+  {
+    "question": "Brainstorming \n● When to use? \n○ Current solutions may not be innovative enough to meet the project’s goal \n● For what? \n○ Uncover new, innovative ideas and solutions \n● How to? \n○ Assemble a mix of key stakeholders for an open conversation on innovative ideas and solutions ○ Business analyst ensures that the conversation stays on topic and records ideas discussed\n",
+    "answer": ""
+  },
+  {
+    "question": "Brainstorming phases \n● Preparation \n○ Define agenda \n○ Define time limit \n○ Identify the participants \n● Session \n○ Share and record ideas \n○ Get as many ideas as possible \n● Concluding the results \n○ Discuss ideas, remove duplicates \n○ Make final list\n",
+    "answer": ""
+  },
+  {
+    "question": " Interviews ● When to use? ○ Get an in-depth perspective from stakeholder ● For what? ○ Obtain a stakeholder’s one-on-one insight on the business need or viability of given solutions ● How to? ○ Create questions that will allow the stakeholder to be open about the issues on the table ○ Questions can be shared in advance or be conducted as a conversation ○ Interviewer should take notes and share them with the stakeholder to ensure if the stakeholder’s point of view is correctly understood\n",
+    "answer": ""
+  },
+  {
+    "question": "Prototyping ● When to use? ○ When stakeholders do not understand written technical requirements and would benefit from seeing a version of the product ● For what? ○ Collect feedback from non-technical stakeholders by showing them an example ● How to? ○ Can be executed via storyboard, interactive screen, virtual mock-up, navigation flow, etc. ○ As more requirements come forward, more detailed prototypes are created to ensure they meet the expectations as recorded\n",
+    "answer": ""
+  },
+  {
+    "question": "Document Analysis/Review ● When to use? ○ When identifying gaps in the system i.e. to compare the AS-IS process with the TO-BE process ● For what? ○ Gather business information by reviewing the available materials that describe the business environment ○ Documents can be: business plans, technical documents, problem reports, existing requirement documents ● How to? ○ Business analyst should get all related documents about the system ○ After detailed review, the gaps in the system should be analyzed and noted\n",
+    "answer": ""
+  },
+  {
+    "question": "Surveys ● When to use? ○ When business analysts need data from large groups of participants ● For what? ○ Obtain objective feedback from large groups of customers or end-users ● How to? ○ Choose participants wisely based on desired criteria ○ Create list of clear questions",
+    "answer": ""
+  },
+  {
+    "question": "Documenting requirements ● Software Requirements Specification (SRS) document ● Use cases ● User stories ● Work Breakdown Structure (WBS) ● Prototypes",
+    "answer": ""
+  },
+  {
+    "question": "Software Requirements Specification (SRS) ● Contains descriptions of functions and capabilities that the product must provide ● Can be a single document communicating functional requirements or it may accompany other software documentation like user stories and use cases ● Main sections: ○ Purpose ■ Definitions, system overview, and background ○ Overall description ■ Assumptions, constraints, business rules, and product vision ○ Specific requirements ■ System attributes, functional requirements, and database requirements ● Note: Don’t make SRS before development. Instead collect needed requirements and then combine them when everything will be clear.\n",
+    "answer": ""
+  },
+  {
+    "question": "Use cases ● Describe the interaction between the system and external users ● Main elements: ○ Actors ■ The external users that interact with the system ○ System ■ Functional requirements that define an intended behavior ○ Goals ■ The purposes of the interaction between the users and the system\n ",
+    "answer": ""
+  },
+  {
+    "question": "Two formats \n○ Use case specification structured in textual format \n○ Use case diagram\n",
+    "answer": ""
+  },
+  {
+    "question": "Use case specification \n● Sequence of events along with other information that relates to this use case \n● Includes following information \n○ Description \n○ Pre- and Post- interaction condition \n○ Basic flow \n○ Alternative flow\n",
+    "answer": ""
+  },
+  {
+    "question": "Use case diagram \n● High-level overview of the relationships between actors, different use cases, and the system \n● Main elements: \n○ Use cases \n■ Drawn with ovals, represent different interaction scenarios (log in, generate report, etc.) ○ System boundaries \n■ Box that groups various use cases in a system \n○ Actors \n■ Participants of the system \n○ Associations \n■ Lines showing different types of relationships between actors and use cases\n",
+    "answer": ""
+  },
+  {
+    "question": "User stories ● Documented description of a software feature seen from the end-user perspective ● Describes what exactly the user wants the system to do ● Format: ○ As a , I want so that ● Example: ○ As a manager, I want to download quarterly report, so marketing team can analyze this report to make decisions",
+    "answer": ""
+  },
+  {
+    "question": "Acceptance criteria ● User stories must be accompanied by acceptance criteria ○ Conditions that the product must satisfy to be accepted by a user, stakeholders, or a product owner ● Each user story must have at least one acceptance criterion ● Example acceptance criteria for downloading report: ○ A reports tab is available in main menu ○ When clicking to tab, page with previously generated reports will open ○ After pressing “Generate new report button”, the modal drowdown will open ○ When opening dropdown, options “Monthly”, “Quarterly”, “Yealy” should be shown ○ After pressing submit, report should be downloaded \n",
+    "answer": ""
+  },
+  {
+    "question": "Work Breakdown Structure \n● Division of complex project into smaller tasks (decomposition) \n● Usually represented as a tree \n\\○ Each node is decomposed into smaller sub-tasks until it becomes undividable Allows to ○ Give an overview of all tasks in project ○ Estimate time for each task more precisely ● Useful when making Gannt Chart\n",
+    "answer": ""
+  },
+  {
+    "question": "Gannt Chart \n● Provides a visual representation of tasks with schedule \n● Tasks decomposed during WBS can be converted to Gannt Chart \n● Allows to represent ○ Schedule of project ○ List of tasks ○ Start and end dates for each task ○ Progress of each task ○ Team members working\n",
+    "answer": ""
+  },
+  {
+    "question": " Prototyping ● Process of developing a simulated user interface of a product or system ● Used when the customers do not know the exact project requirements beforehand ● Steps of prototyping ○ Identification of initial requirements ○ Initial prototype development ○ Review of prototype ○ Making changes after review\n",
+    "answer": ""
+  },
+  {
+    "question": "Models of prototyping ● Throwaway model ○ Designed to be discarded once the review process has been completed ○ Shows how system can look like at the end ● Evolutionary model ○ Starts with initial requirements ○ Refined once additional requirements are defined",
+    "answer": ""
+  },
+  {
+    "question": "Prototype types \n● Sketches ○ Freehand drawings on a piece of paper or in a digital tool that gives you a basic representation of your concept ○ Helpful during the conceptualization and initial visualization phase\n● Wireframes \n○ Design artifacts that represent only essential elements of UI\n ○ Useful when \n■ Evaluating the structure of individual pages/screens \n■ Understanding how related screens/pages work together\n● Mockups ○ Mid or high detailed visualization of your design ○ Visual look of product ○ Useful when ■ Evaluate visual design decisions (colours, fonts, etc.) ■ Evaluate the visual consistency of design: screens/pages should be in similar style, thus, making app UI consistent ■ Presenting final interface to stakeholders\n",
+    "answer": ""
+  },
+  {
+    "question": "Data modeling ● Process of creating a data model for the data to be stored in a database ● Conceptual representation of data in project and connections between them",
+    "answer": ""
+  },
+  {
+    "question": "Data modeling: Goals ● Ensures that all data objects required by the database are accurately represented ● Helps to design database at different levels ● Helps to define the relational tables, primary and foreign keys ● Helps in identifying what data is missed ● Gives a clear picture when creating actual database\n",
+    "answer": ""
+  },
+  {
+    "question": "Types of Data Models ● Conceptual Data Model ● Logical Data Model ● Physical Data Model",
+    "answer": ""
+  },
+  {
+    "question": "Conceptual Data Model Defines what system contains ● Created by stakeholders and analysts ● Used to identify entities and establish high-level relationships\n",
+    "answer": ""
+  },
+  {
+    "question": "Conceptual Data Model: Characteristics ● Designed and developed for a business audience ● Developed independently of software specifications like DBMS ● The focus is to represent data at high-level without any details\n",
+    "answer": ""
+  },
+  {
+    "question": "Logical Data Model ● Defines how the system should be implemented regardless of the DBMS ● Created by stakeholders, analysts/data architects ● Used to develop structure of data elements and rules ● Adds further information to the conceptual data model elements\n",
+    "answer": ""
+  },
+  {
+    "question": "Physical Data Model ● Defines how the system will be implemented using specific DBMS ● Created by developers and data architects ● Used to describe a database-specific implementation of the data model ● Helps in visualizing actual database structure\n",
+    "answer": ""
+  },
+  {
+    "question": "Physical Data Model: Characteristics ● Developed for the specific DBMS ● Columns should have exact data types. Also you can specify lengths and default values ● Cardinality between tables should be specified as well (one-to-one, one-to-many, manyto-many)\n",
+    "answer": ""
+  },
+  {
+    "question": "Data modeling steps ● Gathering of business requirements ● Identifying entities ○ Each entity must be logically separate from all others ● Creating conceptual data model ● Identifying properties of each entity and creating logical data model ● Identifying property types and constraints such as length, etc. ● Inentifying relationships between tables ● Creating physical data model\n",
+    "answer": ""
+  },
+  {
+    "question": "Basic data modeling techniques ● Entity-Relationship Modeling ● Object-Oriented Modeling\n",
+    "answer": ""
+  },
+  {
+    "question": "Entity-Relationship Modeling ● ER Modeling is what we’ve described earlier ● Default technique for modeling and the design of relational databases ● Identifies: 1. Entities representing objects (or tables in relational database), 2. Attributes of entities including data type, 3. Relationships between entities (or foreign keys in a database).\n",
+    "answer": ""
+  },
+  {
+    "question": "Object-Oriented Modeling ● Usually represented with UML Class Diagram ● Defines: ○ Classes (like entities in ER diagram) ○ Properties (like attributes in ER diagram) ○ Methods: represent behaviour of the object ○ Relationships",
+    "answer": ""
+  },
+  {
+    "question": "What is Business Process? ● Set of interrelated or interacting activities that transform inputs into outputs ● Set of activities covering various entities of the enterprise and subordinated to a specific goal ● Set of tasks and activities that when performed by people or systems in a structured course, produce an outcome that contributes to the business goals ● Set of different activities that use one or more types of resources as an input and produce a product that is of value to the consumer as an output\n",
+    "answer": ""
+  },
+  {
+    "question": "Business Process Model Graphical representation of a business process or workflow and its related subprocesses",
+    "answer": ""
+  },
+  {
+    "question": " Business Process Modeling Techniques ● Business process modelling notation (BPMN) ● UML Diagrams ● Flow charts ● Data flow diagrams\n",
+    "answer": ""
+  },
+  {
+    "question": "Business process modelling notation (BPMN) \nGraphical notation that specifies business processes based on flowcharts ● Shows in what sequence actions are performed and how the data move during the business process\n",
+    "answer": ""
+  },
+  {
+    "question": "BPMN Elements ● Consists of 4 main elements Events Activities Gateways Flows\n",
+    "answer": ""
+  },
+  {
+    "question": "Event that happen during the process. 3 categories of events: Start – indicates where a particular process will start Intermediate – occur between the start and end events and affect the flow of the process End – indicates where the process ends\n",
+    "answer": ""
+  },
+  {
+    "question": "Activities ● Actions (tasks) that need to be performed at a certain stage of the business process ● Can be: ○ Simple action or task that does exactly one thing ○ Subprocess, which is within the main process\n",
+    "answer": ""
+  },
+  {
+    "question": "Gateways ● Decision points that can adjust the path of a flow based on certain conditions ● Control node that appears when the business process is conditionally branched ● Simple example: if-else condition\n",
+    "answer": ""
+  },
+  {
+    "question": "Main gateway types \nExclusive – directs the flow to only one of the outgoing branches (if-else) Parallel – when splitting into parallel streams, all branches are activated simultaneously. Useful when doing two or more tasks at the same time. Inclusive – directs the flow to one or more of the outgoing branches\n",
+    "answer": ""
+  },
+  {
+    "question": "Pools and Lanes ● Pools - graphically show participants or processes in a diagram ○ Example: application, external API, etc. ● Lanes – represent roles inside pool: ○ Example: backend, frontend ● Example: Pool can be some product “A”, and it can contain lanes such as app, backend.\n",
+    "answer": ""
+  },
+  {
+    "question": "Creating an architecture design ● Starts with the non-functional requirements ● 4 primary types of non-functional requirements ○ Operational requirements ○ Performance requirements ○ Security requirements ○ Cultural & political requirements",
+    "answer": ""
+  },
+  {
+    "question": "Operational requirements ● Specify the operating environment(s) in which the system must perform and how those may change over time ● Usually refers to operating systems, system software, and information systems with which the system must interact",
+    "answer": ""
+  },
+  {
+    "question": " Operational requirements ● Technical Environment Requirements ○ Special hardware, software, and network requirements imposed by business requirements ○ Specify the type of hardware and software on which the system will work ○ Focus on the operating system software (Linux, Windows), database system software (DBMS), other software (browsers, etc.) ○ Examples: ■ The system will work over the Web environment with any browser ■ The web-application will be hosted on Windows Server with 32GB of ram, 2TB storage, etc\n",
+    "answer": ""
+  },
+  {
+    "question": "Operational requirements ● System Integration Requirements ○ Require the system to operate with other information systems, either inside or outside the company ○ Typically specify interfaces through which data will be exchanged with other systems ○ Examples: ■ The system must be able to import and export Excel spreadsheets ■ The system will use 3rd party external API to fetch some data\n",
+    "answer": ""
+  },
+  {
+    "question": "Operational requirements ● Portability Requirements ○ Define how the technical operating environments may evolve over time and how the system must respond ○ Also refer to potential changes in business requirements that will drive technical-environment changes ○ Examples: ■ The system must be able to work with different operating systems ■ The website should support small screens\n",
+    "answer": ""
+  },
+  {
+    "question": "Operational requirements ● Maintainability Requirements ○ Specify the business requirement changes that can be anticipated ○ Define expected business changes to which the system should be able to adapt ○ Examples: ■ Imagine users can attach only images to their posts. In this case one of the requirements can be: “The system will support attaching other types of media suc\n",
+    "answer": ""
+  },
+  {
+    "question": "Performance requirements ● Focus on performance issues such as response time, capacity, and reliability ● Each requirement must be measurable so that a benchmark comparison can be made\n",
+    "answer": ""
+  },
+  {
+    "question": " Performance requirements ● Speed Requirements ○ Specify the time within which the system must perform its functions ○ Response time of the system: ■ How long does it take the system to respond to a user request? ○ Process time: ■ How long it takes transactions in one part of the system to be reflected in other parts? For example: if user buys the last item from the store, how long does it take to show that this item is unavailable to other users? ○ Examples: ■ Response time must be at most 10 seconds ■ The items should be synchronized every 5 seconds\n",
+    "answer": ""
+  },
+  {
+    "question": "Performance requirements ● Capacity Requirements ○ Predict how many users the system will have to support, both in total and simultaneously. ○ Important in understanding the size of the databases, the processing power needed, etc. ○ Examples: ■ There will be a maximum of 2000 simultaneous users at peak use times ■ The size of uploaded file must be at most 25 megabytes\n",
+    "answer": ""
+  },
+  {
+    "question": "Performance requirements ● Availability and Reliability Requirements ○ Focus on the extent to which users can assume that the system will be available for them to use ○ Examples: ■ The website should be available 24/7. In case of maintenance, the duration of maintenance should not exceed 3 hours ■ The system will have 99% uptime\n",
+    "answer": ""
+  },
+  {
+    "question": "Security requirements ● Focus on protect the information system from disruption and data loss, whether caused by an intentional act (e.g., a hacker attack) or a random event (e.g., disk failure) \n ● System Value Estimates ○ The most important computer asset in any organization is not the equipment, it is the organization’s data ○ In some cases, the information system itself has value that far exceeds the cost of the equipment as well. This type of system is called mission critical system. If this system crashes, the company will not be able to conduct business with customers. ○ Examples: ■ The system is mission critical. Every hour of system outage is estimated to 100 000₸ revenue loss. ■ The loss of all data will cost a company 10 000 000₸\n",
+    "answer": ""
+  },
+  {
+    "question": "Security requirements ● Access Control Requirements ○ Define who can access what data and what type of access is permitted ○ The requirements reduce the chance that an authorized user of the system can perform unauthorized actions ○ Examples: ■ Only content moderators can edit or delete posts ■ Only administrator can add new users\n● Encryption and Authentication Requirements ○ Define what data will be encrypted where and whether authentication will be needed for user access ○ Examples: ■ The user data will be encrypted on client side before sending it to the backend ■ The conversation will have end-to-end encryption ■ To add a new post, user must be logged in\n● Virus Control Requirements ○ Controls the spread of viruses ○ Examples: ■ Post attachments will be scanned for viruses before saving it in the system\n",
+    "answer": ""
+  },
+  {
+    "question": "Cultural and Political Requirements ● Specific to the countries in which the system will be used ● If system will be user worldwide, it also include global cultural and political requirements\n",
+    "answer": ""
+  },
+  {
+    "question": "Cultural and Political Requirements ● Multilingual Requirements ○ The first difference between systems used in one country and system used in worldwide is language ○ Global applications often have multilingual requirements ○ Examples: ■ The system will operate in Kazakh, Russian and English languages\n",
+    "answer": ""
+  },
+  {
+    "question": "Customization Requirements ○ Define how much of the system will be controlled by a central group and how much of the application will be managed locally ○ If system is global, certain features might be unavailable in some countries ○ Examples: ■ Managers will be able to switch payment processing system for country X ■ Managers will be able to turn off feature X for country Y\n",
+    "answer": ""
+  },
+  {
+    "question": "Cultural and Political Requirements ● Making Unstated Norms Explicit ○ Used to explicitly stating assumptions that differ from country to country ○ For example, date format can differ in different countries. In USA it can be mm/dd/yyyy, but in other countries dd/mm/yyyy ○ If system is worldwide, such unstated norms should be displayed to the user as hint, so they will not be confused. ○ Examples: ■ All date fields will be explicitly identified as using the dd/mm/yyyy format ■ All temperature fields explicitly identified as being stated in celcium\n",
+    "answer": ""
+  },
+  {
+    "question": "Cultural and Political Requirements ● Legal Requirements ○ Are imposed by laws and government regulations ○ Examples: ■ Personal information of customers cannot be stored in servers located outside Kazakhstan ■ The servers should be located in country X\n",
+    "answer": ""
+  },
+  {
+    "question": "What is scalability? ● The capability of a system, network or process to handle a growing amount of work, or its potential to be enlarged in order to accommodate that growth. ● System should be able to handle increasing number of users, requests and dat\n",
+    "answer": ""
+  },
+  {
+    "question": "Types of scaling ● Vertical scaling (scale up) ○ Process of adding more power (CPU, RAM, storage) to the server ● Horizontal scaling (scale-out) ○ Process of adding more servers into the pool of resources\n",
+    "answer": ""
+  },
+  {
+    "question": "Vertical scaling ● Advantages ○ Simplicity: you only need to improve specifications of server by adding more memory, switching to more powerful CPU ● Disadvantages ○ Limitations: it’s impossible to add unlimited CPU and memory to a single server ○ Does not have failover: if one server goes down, the website/app goes down as well\n",
+    "answer": ""
+  },
+  {
+    "question": "Horizontal scaling ● Advantages ○ Unlimited: you can add as many servers as you need ○ Fault tolerance: if one server goes down, other servers will continue working ● Disadvantages ○ Complexity: it’s harder to handle data and processes across multiple servers and needs good architecture\n",
+    "answer": ""
+  },
+  {
+    "question": "Case study Single server setup ● Users are connected to server directly ● If lots of users access server simultaneously, server will reach its load limit ● If server goes offline, users will be unable to access the website/app\n",
+    "answer": ""
+  },
+  {
+    "question": "Scaling of system ● Scale horizontally, so if one server goes offline, the system will continue working ● Problem: how it will decide which server will process the user request? How can we distribute users among different servers?\n",
+    "answer": ""
+  },
+  {
+    "question": "Load balancing ● Process of distribution of incoming traffic across a group of web servers ● Performed by load balancer\n",
+    "answer": ""
+  },
+  {
+    "question": "Load balancing ● If server 1 goes offline, all incoming traffic will be routed to server 2 ● If the traffic increases rapidly, we can just add new servers, and load balancer will handle them automatically\n",
+    "answer": ""
+  },
+  {
+    "question": "Database scaling ● Web servers connected to a single database ● If database fails, users won’t be able to access the data\n",
+    "answer": ""
+  },
+  {
+    "question": "Database replication ● Process of copying data from a primary database to one or more replica databases in order to improve data accessibility, system fault-tolerance and reliability ● Can be used in many DBMS, usually with a master/slave relationship between primary (master) and the replica databases (slaves)\n",
+    "answer": ""
+  },
+  {
+    "question": "Database replication ● Master database generally supports write operations ● Slave databases get copies of data from the master database and only supports read operations ● Since number of reads are much more than number of writes, there are several replicas for one primary database",
+    "answer": ""
+  },
+  {
+    "question": "Database replication: Advantages ● Better performance ○ Load to master database is reduced, since all read operations are distributed among slave databases. Also it allows to have more queries processed in parallel. ● Reliability ○ If something happens with master database, you always can restore data from replicas ● High availability ○ If database is offline, the clients still can access data, since data is replicated across different locations",
+    "answer": ""
+  },
+  {
+    "question": "Database replication ● If only one replica database is available and it goes offline, read operations will be directed to primary database temporarily ● If multiple replicas are available, read operations will be directed to the available replica ● If master database goes offline, the slave database will be promoted to primary database, and all operations temporarily will be executed in new primary database\n",
+    "answer": ""
+  },
+  {
+    "question": "Caching ● Process of storing the result of expensive responses or frequently requested data in memory ● Cache layer is temporary data store layer and much faster than database ● Example: ○ online-shop which has lots of active users ○ users can search some devices in website ○ since search requests are frequent, it makes sense to cache search results, to reduce the load to the database\n",
+    "answer": ""
+  },
+  {
+    "question": "Caching ● Caching should be used with frequently requested data ● If cache is full, some data from cache should be removed. For example, LRU (Least-recently used) ● It’s a good practice to implement cache expiration policy. After some time, cache should be cleared.\n",
+    "answer": ""
+  },
+  {
+    "question": "What is software testing? ● Method to check whether the actual software product matches expected requirements and to ensure that software product is defect free ● Involves the execution of system components/features using manual or automated tools ● Purpose: identify errors or missing requirements\n",
+    "answer": ""
+  },
+  {
+    "question": "Why software testing is important? ● Customer satisfaction ○ Software testing improves the user experience of an application and gives satisfaction to the customers. UI/UX Testing ensures the best user experience ● Cost-effectiveness ○ Testing the system at the beginning can save the money on long term. If the bugs caught in the earlier stage of software testing, it costs less to fix ● Security ○ Ensures that the data cannot be accessed by unauthorized parties and the overall security of the system ● Quality of product ○ Ensures that the high-quality product is delivered to the customers\n",
+    "answer": ""
+  },
+  {
+    "question": "Types of software testing ● Manual testing ○ Test cases are executed manually by a tester without using any automated tools ○ Purpose: to identify the bugs, issues, and defects in the system ● Automation testing ○ Performed using special automated testing software tools to execute a test case ○ Testers execute the test scripts and generate the test results automatically by using automation tools",
+    "answer": ""
+  },
+  {
+    "question": "Testing approaches ● White-box testing ○ Software’s internal structure, design, and code are tested to verify input-output flow ● Black-box testing ○ Functionalities of software applications are tested without having knowledge of internal code structure and implementation details ○ Divided into functional and non-functional testing\n",
+    "answer": ""
+  },
+  {
+    "question": "Types of black-box testing ● Functional testing ○ Testing all the functionalities to verify whether the actual output is matching the expected output or not ○ Used to check if each function/feature of the system behaves as specified in the requirements document ● Non-functional testing ○ Not related to testing of specific functionality ○ Refers to various aspects of the software such as performance, load, security, compatibility, etc\n",
+    "answer": ""
+  },
+  {
+    "question": "Testing stages ● Unit testing ○ Performed to check whether the individual modules of the source code are working properly ○ Is done during the development by the developer to check whether the individual module of the application is working properly ● Integration testing ○ Software modules are integrated logically and tested as a group ○ Purpose: find defects in the interaction between different software modules when they are integrated ○ Example: page A and page B are developed by different developers. Integration test ensures that if user enters data and presses button on page A, system will navigate to page B correctly\n",
+    "answer": ""
+  },
+  {
+    "question": "Testing stages ● System testing ○ Black-box testing to check whether original business requirements are met ○ Usually functional and non-functional testing ● Acceptance testing ○ Done by the end-users along with the testers to validate the functionality of the application to make sure the product meets the acceptance criteria ○ Alpha-testing ■ Conducted by users in to ensure that they accept the system ○ Beta testing ■ Uses real user data, no test data",
+    "answer": ""
+  },
+  {
+    "question": "Software Testing Lifecycle (STLC) ● Requirement analysis ○ Testers study the system requirements and identify which parts of system are testable ○ Identify the types of tests that will be performed ○ Testing priorities and focus: which parts of systems needs to be tested first ● Test planning ○ Identify the activities and resources which would help to meet the testing objectives ○ Determining roles and responsibilities and testing schedule for each stag",
+    "answer": ""
+  },
+  {
+    "question": "Software Testing Lifecycle (STLC) ● Test case development ○ Includes the creation, verification and rework of test cases & test scripts after the test plan is ready ○ Create test data for each test case (test users, etc.) ● Test environment setup ○ Decides the software and hardware conditions under which a work product is tested ○ It can be devices (PC, mobile), or software (different browsers, operating systems, etc.) ● Test execution ○ Carried out by the testers in which testing of the system is done based on test plans and test cases ○ If bugs are reported then it is reverted back to development team for fixing and retesting will be performed ● Test cycle closure ○ Completion of test execution ○ Involves activities like test completion reporting, collection test results\n",
+    "answer": ""
+  },
+  {
+    "question": "Test cases ● Set of actions executed to verify a particular feature or functionality of the system ● Contains test steps, test data, precondition, postcondition developed for specific test scenario to verify any requirement ● Includes conditions, using which a testing engineer can compare expected and actual results\n",
+    "answer": ""
+  },
+  {
+    "question": "Test case components ● Unique identifier of test case: helps to find specific test case among others ● Test description: short introduction about which feature is being tested and what is being verified ● Preconditions: defines what conditions should be met before executing the test case (for example: user has to be logged in with specific account) ● Test data: variables and their values in the test case (user credentials, search queries, e\n",
+    "answer": ""
+  },
+  {
+    "question": "Test case components ● Execution steps: steps as executed from the end user’s perspective ● Expected result: the result expected after the test case step execution according requirements ● Actual result: the result of test case as is, used to compare with expected results ● Pass/Fail: if actual result differs from expected, test is failed, otherwise, test is passed\n",
     "answer": ""
   }
 ]
