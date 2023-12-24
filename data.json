@@ -1,5 +1,801 @@
 [
   {
+    "question": "Probably the first thing to do when conducting an interview is:",
+    "answer": "Build rapport with the interviewee so he or she trusts you"
+  },
+  {
+    "question": "An example of a functional requirement is _________",
+    "answer": "Access to the customer order system"
+  },
+  {
+    "question": "A technique where a set of written (or online) questions are distributed to people (frequently  to a large number of people) is: _____.",
+    "answer": "Questionnaires / surveys"
+  },
+  {
+    "question": "In the interview report, what will probably NOT be included?",
+    "answer": "The actual questions that were asked as a permanent record"
+  },
+  {
+    "question": "Which is NOT a requirements analysis strategy?",
+    "answer": "Understanding of screen design, layout and navigation"
+  },
+  {
+    "question": "Paul is interviewing Ming. He first explains why he is there and what he wants to \naccomplish in the interview. This would be done in which step of the interview process?",
+    "answer": "Conducting the interview"
+  },
+  {
+    "question": "Which is generally NOT true of non-functional requirements?",
+    "answer": "Systems may need to have actual expenses from global operations"
+  },
+  {
+    "question": "According to the authors, in moving “from here to there”, an analyst needs: ",
+    "answer": "Strong critical thinking skill"
+  },
+  {
+    "question": "The authors suggest that an analyst is ‘very much like a ____________’ and business users are like elusive suspects.",
+    "answer": "Detective"
+  },
+  {
+    "question": "An example of a nonfunctional requirement is ____________",
+    "answer": "System can be used in any of 100 offices worldwide "
+  },
+  {
+    "question": "Michael, a systems analyst, is preparing a closed wiki site for Northstate Bank. He has \nwritten permission from eight other companies to view their internal wiki sites, and also has approval from his manager and the project team to use these other sites for ideas and  structure. This would be a form of:\n",
+    "answer": "Formal Benchmarking"
+  },
+  {
+    "question": "The interview process has gone well. There are a few things that need clarification and what really happens when specific financial analysts use the system. Which of the following  might be the best way to verify what does happen?\n",
+    "answer": "Observation of how the analysts do their work"
+  },
+  {
+    "question": "Myles is studying a system to lessen the number of complaints about the Help Desk. He has\nformally studied the service counter at Wal-Mart, Target and Kohl’s department stores; as \nwell as listened in to complaint phone calls to a hotel booking site. He is trying to see how \nother organizations work at lessening complaints and also how they handle complaints. This\nwould be what type of analysis?",
+    "answer": "Informal benchmarking"
+  },
+  {
+    "question": "When gathering requirements from processing clerks and lower level managers about ‘how’ a system works, the best approach might be: _____.",
+    "answer": "Closed ended interview questions"
+  },
+  {
+    "question": "Which of the following will probably NOT be at a system walkthrough?",
+    "answer": "Computer Center director"
+  },
+  {
+    "question": "The line between analysis and design is sometimes very blurry. One reason is that _____:",
+    "answer": "the deliverables are really the first step in the design of the new system"
+  },
+  {
+    "question": "Which is NOT a purpose of the requirements definition?",
+    "answer": "Create cost/benefit analysis"
+  },
+  {
+    "question": "When gathering requirements, the most commonly used technique is: __________",
+    "answer": "Interviews"
+  },
+  {
+    "question": "A technique where the analyst watches how people perform their activities is _______",
+    "answer": "Observation"
+  },
+  {
+    "question": "Which is NOT a good practice in conducting interviews?",
+    "answer": "Explain thoroughly – it is estimated that in a strong interview session, the interviewer (you) should talk and explain about 60% of the time; and the interviewee should answer about 40% of the time"
+  },
+  {
+    "question": "After creating the interview report you should:",
+    "answer": "Send a copy to the interviewee with a request to read it and correct or clarify"
+  },
+  {
+    "question": "Danielle has asked some closed ended questions to start an interview; then some open ended questions. Now she wants to really wants to get a greater depth of information about the process. She would probably use _________ questions.",
+    "answer": "Probing"
+  },
+  {
+    "question": "One of the major differences between a JAD session and an interview is:",
+    "answer": "All JAD sessions are structured and must be carefully planned"
+  },
+  {
+    "question": "When dealing with a global information supply chain, functional requirements generally increase exponentially, while nonfunctional requirements tend to stay about the same.",
+    "answer": "False"
+  },
+  {
+    "question": "An interview report is prepared in which step of the interview process?\n",
+    "answer": "Post interview following-up"
+  },
+  {
+    "question": "What information-gathering strategy enables the analyst to see the reality of the situation rather than listen to others describe it?",
+    "answer": "Observation"
+  },
+  {
+    "question": "When an analyst is seeking more information from a response to questions they would probably use:",
+    "answer": "Probing questions"
+  },
+  {
+    "question": "Blaine is using a requirements gathering technique that begins with non-threatening questions, avoids abbreviations, groups items into logically coherent sections, and might best be used with outside users. He probably is using:",
+    "answer": "Questionnaires"
+  },
+  {
+    "question": "When an analyst is seeking a more wide ranging response to questions they would probably use:\n",
+    "answer": "Open Ended"
+  },
+  {
+    "question": "Jorge, Vice President of Operations, has requested that the updated supply chain system keep a record of all ‘stock-outs’ for six years. This is an example of a functional requirement.",
+    "answer": "True"
+  },
+  {
+    "question": "Rafael, Fraud Unit Manager, has just received an interview report from Stefano, a systems analyst. Rafael was interviewed by Stefano, and was asked to make corrections and clarifications to the interview report. In what interview phase would this occur?",
+    "answer": "Post-interview follow-up"
+  },
+  {
+    "question": "Hamid has selected one middle manager from each department that will be affected by the updated system and one lower-level manager from each department, along with a few senior staff as well as the project sponsor for a JAD session. He is trying to: _________",
+    "answer": "Have a broad mix of organizational levels in the JAD session"
+  },
+  {
+    "question": "Marta wants to collect facts and opinions from a wide range of geographically dispersed people quickly and with the least expense. She would probably want to use:",
+    "answer": "Questionnaires"
+  },
+  {
+    "question": "Which of the following is true about a JAD facilitator?",
+    "answer": "They set the meeting agenda"
+  },
+  {
+    "question": "Some people have suggested that the ‘analysis’ phase could be clearer if it was called the\n‘analysis and initial design’ phase.",
+    "answer": "True"
+  },
+  {
+    "question": "One of the first activities of an analyst is to determine the business requirements for the new system",
+    "answer": "True"
+  },
+  {
+    "question": "One difference between the reports from interviews and from a JAD session is that:",
+    "answer": "The interview report is generally written within 48 hours of the interview; while the JAD session report may take a week or two after the JAD session."
+  },
+  {
+    "question": "Typically, interviews include the following type questions:",
+    "answer": "Observation"
+  },
+  {
+    "question": "When an analyst is looking for specific, precise information they would probably choose this type of question:",
+    "answer": "Close ended"
+  },
+  {
+    "question": "Practical tips states that interpersonal skills are important, they include:",
+    "answer": "All of these"
+  },
+  {
+    "question": "The SDLC moves from the current system (often called the “past system”) to the new system (often called the “future system”).",
+    "answer": "False"
+  },
+  {
+    "question": "Maria, a systems analyst, is tweaking the high-level explanation of the business requirements into a more precise list of requirements. This is called ‘requirements detemination’.",
+    "answer": "True"
+  },
+  {
+    "question": "Generally ‘system requirements’ are developed in the analysis phase and evolve to more technical ‘business requirements’ in the design phase.",
+    "answer": "False"
+  },
+  {
+    "question": "In terms of reaching the most number of people in requirements gathering, interviews are considered better than questionnaires. ",
+    "answer": "False"
+  },
+  {
+    "question": "Unless ordered by the lead analyst for a project, you should not share your interview report with those that you interviewed. Doing so will almost always result in scope creep and changes in the requirements.",
+    "answer": "False"
+  },
+  {
+    "question": "The most commonly used requirements gathering technique is the interview..",
+    "answer": "True"
+  },
+  {
+    "question": "The most important purpose of the requirements definition is to define the scope of the system.",
+    "answer": "True"
+  },
+  {
+    "question": "Management of requirements and system scope is one of the hardest parts of managing a\nproject.",
+    "answer": "True"
+  },
+  {
+    "question": "Cindi Flores distributed ‘white-papers’ on RFID, ERP, GPS and SOA to a user-management group. She then asked them to ‘think outside the box’ on where these technologies could be used in the company. This would be an example of ‘technology analysis’.",
+    "answer": "True"
+  },
+  {
+    "question": "One person dominating the group discussion of a JAD session will normally lead to a positive outcome?",
+    "answer": "False"
+  },
+  {
+    "question": "Most existing systems are well documented which leads to document analysis being very valuable.",
+    "answer": "False"
+  },
+  {
+    "question": "Online questionnaires (using tools like SurveyMonkey and similar sites) are growing in use, but generally online questionnaires have a lower completion rate",
+    "answer": "True"
+  },
+  {
+    "question": "Your company updated its processes for financial reporting when Sarbanes-Oxley became law. Additional changes in Sarbanes-Oxley reporting have been mandated to start in one year. To help you understand the as-is system, you should review the documentation, processes and procedures that were developed with the initial Sarbanes-Oxley project. ",
+    "answer": "True"
+  },
+  {
+    "question": "To create the requirements definition, the project team first should consider the kinds of functional and non-functional requirements that they will collect about the system.",
+    "answer": "True"
+  },
+  {
+    "question": "Rebecca, a fairly new employee in the company and Matt, her boss (who has been with the company for 22 years) are in your JAD session. It would probably be expected that Rebecca would not share much in the session.\n",
+    "answer": "True"
+  },
+  {
+    "question": "In preparing for an interview, TJ does research as to areas in which the interviewee has\nknowledge so that he does not ask questions that an interviewee cannot answer",
+    "answer": "True"
+  },
+  {
+    "question": "The requirements-gathering process is used for building financial support for the project and establishing common understanding of technologies and rapport between the project team building the system and the users of the system.",
+    "answer": "False"
+  },
+  {
+    "question": "Miski has modified an existing time reporting system for hourly employees to be more efficient as they can text message when they are leaving a job site. This would be an example of Business Process Automation.",
+    "answer": "True"
+  },
+  {
+    "question": "In interviews, Ross has learned that the new order entry system must be available in at least three formats (mobile, web browser, and local area network based); that it must function in either English or Spanish; and that the system must return order forms and data in less than 2 seconds. He recognizes these as nonfunctional requirements.",
+    "answer": "true"
+  },
+  {
+    "question": "In RAD or agile development methodology (especially with BPR), a significant amount of\ntime and effort is spent in understanding the as-is system.",
+    "answer": "False"
+  },
+  {
+    "question": "Marta wants to focus on ‘why’ a particular lockout situation occurs on a customer\nrelationship management system, rather than just developing a work-around fix. She is\ndoing activity elimination.",
+    "answer": "False"
+  },
+  {
+    "question": "Yuri wants to interview both managers and staff in the accounting department for the updated credit analysis project. This is an appropriate group for first round interviews.",
+    "answer": "True"
+  },
+  {
+    "question": "The three types of interview questions are: multiple choice, fill in the blank and short\nanswer. ",
+    "answer": "False"
+  },
+  {
+    "question": "Generally beginning analysts should avoid unstructured interviews and likewise should\navoid “winging it”.",
+    "answer": "True"
+  },
+  {
+    "question": "Gary has eight interviews to conduct over the next week. Once he has completed all interviews, he should then write up a summary report. Preparing interview reports prior to completing all interviews will generally be premature until Gary has talked to all interviewees. ",
+    "answer": "False"
+  },
+  {
+    "question": "To get to more depth in understanding the as-is system, document analysis and observation generally are more beneficial as compared to interviews and JAD sessions",
+    "answer": "False"
+  },
+  {
+    "question": "\n\nInterpersonal skills are those that enable a person to develop a rapport and are important for interviewing\n",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nWhich of the following is probably NOT a step for writing a use case?\n",
+    "answer": "Identify the analyst"
+  },
+  {
+    "question": "\n\nBarb is an analyst developing a use case. Which of the following will probably NOT be on her use case?\n",
+    "answer": "Destination for the major inputs"
+  },
+  {
+    "question": "Austin is a systems analyst. Which of the follow people might be the most valuable to him in developing a use case for an accounts payable system upgrade?",
+    "answer": "Amy, a team manager in the accounts payable department"
+  },
+  {
+    "question": "\n\nThe primary actor in a use case is generally:\n",
+    "answer": "An external user of the system"
+  },
+  {
+    "question": "Marta has asked the users of a system to picture themselves performing the processes and to write down those processes in a sequential order. She should get a good idea of ________.",
+    "answer": "The major steps for each use case"
+  },
+  {
+    "question": "Which of the following is probably NOT a part of most use cases?",
+    "answer": "Secondary Actor"
+  },
+  {
+    "question": "\n\nBarton is an analyst developing a use case. Which of the following will probably NOT be on his use case?\n",
+    "answer": "Description of data flows"
+  },
+  {
+    "question": "\n\nUse cases are used to more fully delineate _____.\n",
+    "answer": "System requirements"
+  },
+  {
+    "question": "\n\nWhich is probably NOT true about building use cases?\n",
+    "answer": "Major costs are analyzed"
+  },
+  {
+    "question": "\n\nWhich is NOT true of use cases?\n",
+    "answer": "They illustrate what starts (or triggers) an event, all the people that are involved, and how the system provides value"
+  },
+  {
+    "question": "\n\nWhat is probably NOT a part of a Use Case?\n",
+    "answer": "Statement of business value"
+  },
+  {
+    "question": "\n\nA ‘temporal’ trigger might be which of the following:\n",
+    "answer": "The date changes to the first day of the month"
+  },
+  {
+    "question": "Omar is an analyst building a use case. Which of the following project roles might be the most important in terms of getting information about building the use case?",
+    "answer": "Users"
+  },
+  {
+    "question": "\n\nDestination would be described on a use case in which of the following areas?:\n",
+    "answer": "Major outputs"
+  },
+  {
+    "question": "\n\nA use case helps:\n",
+    "answer": "Understand system activities and requirements"
+  },
+  {
+    "question": "\n\nRalph wants to illustrate how a system interacts with the environment. The best solution for him would be to use a ________:\n",
+    "answer": "Use case"
+  },
+  {
+    "question": "\n\nRole-playing the use case with actual users is a good way to:\n",
+    "answer": "Confirm the use case"
+  },
+  {
+    "question": "Arianna is an analyst studying credit card fraud. She is working on developing a use case for when a stolen credit card is used. The trigger would be:",
+    "answer": "Alarm is activated for stolen credit card use"
+  },
+  {
+    "question": "\n\nThe second principal part of use cases is ‘input and output’. Another name might be:\n",
+    "answer": "Data flows"
+  },
+  {
+    "question": "\n\nWhich is NOT true of use cases?\n",
+    "answer": "Use cases normally contain ten to twelve major steps"
+  },
+  {
+    "question": "\n\nSome organizations may choose to include additional sections on their use case forms, these may include:\n",
+    "answer": "All of these "
+  },
+  {
+    "question": "\n\nUse cases generally have three parts: _____.\n",
+    "answer": "Basic information, inputs and outputs, and details"
+  },
+  {
+    "question": "\n\nWhen developing the Major Inputs and Major Outputs for a use case, the analyst and users should consider:\n",
+    "answer": "All possible inputs and outputs (even with rare occurrences) "
+  },
+  {
+    "question": "\n\nYou might have to go back and adjust the steps in a use case, if _______\n",
+    "answer": "The steps are of varying size"
+  },
+  {
+    "question": "Special cases (like customer cancels an appointment or returns an item) are: ____________",
+    "answer": "Frequently overlooked by users"
+  },
+  {
+    "question": "\n\nThe Major Inputs section of a use case describes their:\n",
+    "answer": "Source"
+  },
+  {
+    "question": "After working with Chris (who is a staff member in the registrar’s office) on major steps in the registration process, Maureen (a systems analyst) will:",
+    "answer": "Create use cases"
+  },
+  {
+    "question": "\n\nAs a last step in building a use case for the study-abroad registration system, Brianna will:\n",
+    "answer": "Ask Wendy in the registrar’s office to confirm the use case"
+  },
+  {
+    "question": "\n\nThe Major Inputs section on a use case will give the\n",
+    "answer": "Sources of that input"
+  },
+  {
+    "question": "\n\nThe Major Outputs section on a use case will give the ___\n",
+    "answer": "Destinations of that input"
+  },
+  {
+    "question": "\n\nThe Major Steps Performed section on a use case will give the ____\n",
+    "answer": "Information for each step"
+  },
+  {
+    "question": "\n\nWhich is NOT true of use cases?\n",
+    "answer": "Use cases normally contain ten to twelve major steps"
+  },
+  {
+    "question": "\n\nThe ‘primary actor’ is the external user that triggers the event to which the system responds.\n",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nUse cases are a type of ‘data-driven modeling’.\n",
+    "answer": "False"
+  },
+  {
+    "question": "\n\nThe ‘primary actor’ is the internal action that occurs based on a SQL query (like: sort, select).\n",
+    "answer": "False"
+  },
+  {
+    "question": "\n\nEach use case has a name and a number.\n",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nUse cases sometimes are called ‘business scenarios’.\n",
+    "answer": "True"
+  },
+  {
+    "question": "Each use case has the same name (like “Customer Relationship Management System”) followed by\nan identifying letter (“A”, “B”, etc.).",
+    "answer": "False"
+  },
+  {
+    "question": "\n\nA use case depicts a set of activities performed to produce some output result.\n",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nUse cases are a type of ‘event-driven modeling’.\n",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nUse cases are diagrams with three components: selection, process, iteration.\n",
+    "answer": "False"
+  },
+  {
+    "question": "\n\nUse cases are the same as process diagrams.\n",
+    "answer": "False"
+  },
+  {
+    "question": "\n\nA trigger is based on cost/benefit analysis, like an employee labor report, a sale of an item, or the purchase of new hardware.\n",
+    "answer": "False"
+  },
+  {
+    "question": "\n\nUse cases illustrate the activities that are performed by the users of the system.\n",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nUse Cases give more detail about requirements\n",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nA Use Case is a formal way of representing how a business system interacts with its environment.\n",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nUse cases are always internal and rarely shared or discussed with business users\n",
+    "answer": "False"
+  },
+  {
+    "question": "\n\nEach use case contains a fairly complete description of all the activities that occur in response to a trigger event.\n",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nUse cases are always numbered sequentially from start to finish.\n",
+    "answer": "False"
+  },
+  {
+    "question": "Use cases can vary from one organization to another in terms of the degree of formality employed?\n",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nThe most common ways to gather information for use cases is with questionnaires of the affected users.\n",
+    "answer": "False"
+  },
+  {
+    "question": "\n\nTriggers are referred to as external or internal?\n",
+    "answer": "False"
+  },
+  {
+    "question": "\n\nIt is common practice to create smaller, more focused use cases breaking the whole process down into parts.\n",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nProject managers, business analysts and systems analysts create all use cases without user input.\n",
+    "answer": "False"
+  },
+  {
+    "question": "\n\nTina is a systems analysis and is describing how a system should react to an event. She is creating a use case.\n",
+    "answer": "True"
+  },
+  {
+    "question": "Use cases generally have up to 20 major steps spelled out in great detail.",
+    "answer": "False"
+  },
+  {
+    "question": "Dr. O’Brien’s dental office calls a patient three days before an appointment. This could be an example of a temporal trigger.",
+    "answer": "True"
+  },
+  {
+    "question": "Liang has identified the payroll authorization office as the primary actor in a use case. This would be incorrect as primary actors need to be singular like a customer or a patient or a student.\n",
+    "answer": "False"
+  },
+  {
+    "question": "The final step in Building Use Cases is to use a CASE analysis tool to verify that the inputs and outputs are discrete items triggered by external events.",
+    "answer": "False"
+  },
+  {
+    "question": "\n\nA temporal trigger might be related to time, such as 30 days have passed and a late fee needs to be assessed.\n",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nThe event that causes the use case to begin is referred to as the Name?\n",
+    "answer": "False"
+  },
+  {
+    "question": "External triggers might be something like a customer calling a doctor for an appointment or a student registering for a class.",
+    "answer": "True"
+  },
+  {
+    "question": "Use cases will have inputs and outputs.",
+    "answer": "True"
+  },
+  {
+    "question": "Use cases can vary from one organization to another in terms of the content included?",
+    "answer": "True"
+  },
+  {
+    "question": "The actor of a use case refers to only a person that interacts with the system?",
+    "answer": "False"
+  },
+  {
+    "question": "Which would NOT likely be an entity on a car insurance ERD?\n",
+    "answer": "Zip code"
+  },
+  {
+    "question": "An ERD is a picture which shows the information that is ________ by a business system?",
+    "answer": "all of these"
+  },
+  {
+    "question": "A data model is a:",
+    "answer": "A formal way of representing the data that are used and created by a business system"
+  },
+  {
+    "question": "An entity:",
+    "answer": "Is a person, place or thing"
+  },
+  {
+    "question": "Which would likely be an entity on a car insurance ERD?",
+    "answer": "Car"
+  },
+  {
+    "question": "An entity relationship diagram (ERD)",
+    "answer": "Is a picture that shows the information that is created, stored and used by a business system"
+  },
+  {
+    "question": "A data model can __________:",
+    "answer": "Be used as a logical data model in analysis and as a physical data model in design"
+  },
+  {
+    "question": "Which would NOT likely be an attribute of an entity called “Student”?",
+    "answer": "Class room number"
+  },
+  {
+    "question": "The lines that connect the entities are referred to as?",
+    "answer": "relationships"
+  },
+  {
+    "question": "Which of the following is NOT true about ERDs?",
+    "answer": "The diagrams are drawn in a sequential order – from top to bottom"
+  },
+  {
+    "question": "Information in the data dictionary is called: _______________",
+    "answer": "Metadata"
+  },
+  {
+    "question": "Entity Relationship Diagrams show relationships between entities that are _____.",
+    "answer": "In line with the business rules and processing"
+  },
+  {
+    "question": "Which is NOT true about using Visible Analyst Workbench?",
+    "answer": "It can generate Java code when the data modeling is done"
+  },
+  {
+    "question": "On an ERD _________________:",
+    "answer": "Data elements are listed together and place inside boxes called entities."
+  },
+  {
+    "question": "Lines on an ERD diagram indicate:",
+    "answer": "Relationships among the data"
+  },
+  {
+    "question": "You have entities of ITEM, SOLD-ITEM, SALE and PAYMENT. Which most likely is NOT a relationship?",
+    "answer": "PAYMENT pays for ITEM"
+  },
+  {
+    "question": "Modality refers to:",
+    "answer": "Whether a child entity can exist with or without a related instance in the parent entity"
+  },
+  {
+    "question": "Jack is developing an ERD for a small dental practice office patient record system. The dental practice has three dentists, six hygienists, and many patients. A patient is always assigned to the same dentist for all appointments. In particular, he is working on the relationship between dentists and patients. Should it be:",
+    "answer": "1 to many with a modality of not null"
+  },
+  {
+    "question": "A(n) _____ entity is an entity at the “1” end of a relationship or an entity with an identifier that describes only the entity.",
+    "answer": "independent"
+  },
+  {
+    "question": "A logical data model that does not lead to repeating fields and that the data models leads to tables containing fields that are dependent on the whole identifier is in _____ normal form.",
+    "answer": "second"
+  },
+  {
+    "question": "The two methods to validate that an ERD is well formed are _____.",
+    "answer": "Normalization and balancing with process models"
+  },
+  {
+    "question": "When the analyst is evaluating a data model to ensure that all fields in a record depend fully on the entire primary key, which step of normalization is being performed?",
+    "answer": "second normal form"
+  },
+  {
+    "question": "Anthony is working on the cardinality of doctors and patients in a large urban hospital. With the large number of doctors with varying specialties and patients that may have more than one aliment, he thinks the relationship might be noted as:",
+    "answer": "Many to many"
+  },
+  {
+    "question": "When normalizing data models, if you take attributes that have multiple values for a single instance of an entity and create separate entities for those attributes you are moving from:",
+    "answer": "O normal form to 1st normal form (1NF)"
+  },
+  {
+    "question": "The three major parts of an ERD diagram are:\n",
+    "answer": "Relationship, attribute, entity"
+  },
+  {
+    "question": "Omar has a model with 85 entities. He can:",
+    "answer": "Group these into related subject areas"
+  },
+  {
+    "question": " What is true about creating an entity relationship diagram?",
+    "answer": "It is an iterative process"
+  },
+  {
+    "question": "Andrew, an analyst for PaxMedia Inc., has just learned that the business rules for a system he has been working on have changed. This means that _____.",
+    "answer": "The ERD components will have to be changed"
+  },
+  {
+    "question": "If the logical data model does not contain attributes that have repeating values it is in _____.",
+    "answer": "first normal form"
+  },
+  {
+    "question": "The first step to building an Entity Relationship Diagram is to _____",
+    "answer": "identify the entities"
+  },
+  {
+    "question": "What type of process is creating an ERD?",
+    "answer": "Iterative process"
+  },
+  {
+    "question": "In adding attributes to an ERD, which of the following might NOT be a good resource for attributes?",
+    "answer": "The system proposal document"
+  },
+  {
+    "question": "In creating ERD’s, which would most likely NOT be a source for entities?",
+    "answer": "Cost / benefit reports"
+  },
+  {
+    "question": "The last step in creating basic ERD’s is to:",
+    "answer": "Identify relationships"
+  },
+  {
+    "question": "Independent entities are:",
+    "answer": "When an entity can exist without the help of another entity"
+  },
+  {
+    "question": "A(n) _____ entity cannot exist without the presence of another entity and is normally on the “many” end of a relationship or has an identifier that is based on another entity’s attribute.",
+    "answer": "dependent"
+  },
+  {
+    "question": "When the analyst is evaluating a data model to ensure that all fields in a record depend fully on the entire primary key, which step of normalization is being performed?",
+    "answer": "second normal form"
+  },
+  {
+    "question": "A data model is a formal way of representing the data that are used and created by a business system.",
+    "answer": "True"
+  },
+  {
+    "question": "Balance occurs between DFDs and ERDs when the data stores _____",
+    "answer": "Can be equated to entities on the ERD and when entities are referred to by data stores on the DFD "
+  },
+  {
+    "question": "ERD’s and DFD’s are two techniques for process modeling.",
+    "answer": "False"
+  },
+  {
+    "question": "An entity is the basic building block for a data model",
+    "answer": "True"
+  },
+  {
+    "question": "During the analysis phase logical data models are created\n",
+    "answer": "True"
+  },
+  {
+    "question": "A textbook-provided example of a ‘full-service CASE’ tool is Visible Analyst",
+    "answer": "True"
+  },
+  {
+    "question": "An illustration of the transformation of data into business value is an ERD.",
+    "answer": "False"
+  },
+  {
+    "question": "Data models can be either logical or physical.",
+    "answer": "True"
+  },
+  {
+    "question": " An entity is described by an action verb.",
+    "answer": "False"
+  },
+  {
+    "question": "A graphical illustration that shows the information that is created, stored and used by a business system would be an ERD.",
+    "answer": "True"
+  },
+  {
+    "question": "\n\nAn ERD is a picture that shows how data and information is processed and transformed by a business system.\n",
+    "answer": "False"
+  },
+  {
+    "question": "ERD’s are drawn in several levels: Context ERD diagrams; Level 0 ERD diagrams; Level 1 ERD diagrams.",
+    "answer": "False"
+  },
+  {
+    "question": "One of the most commonly used techniques for data modeling is ERD’s.",
+    "answer": "True"
+  },
+  {
+    "question": "A logical data model that does not lead to repeating fields and that the data models leads to tables containing fields that are dependent on the whole identifier is in _____ normal form",
+    "answer": "second"
+  },
+  {
+    "question": "If the logical data model does not contain attributes that have repeating values it is in _____.",
+    "answer": "first normal form"
+  },
+  {
+    "question": "If the logical data model contains attribute values that depend on an attribute that is not the\nidentifier, then it is in _____.",
+    "answer": "second normal form"
+  },
+  {
+    "question": "During the analysis phase, analysts create programming models to represent how the business system will operate.",
+    "answer": "False"
+  },
+  {
+    "question": "ERD’s and DFD’s are two techniques for data modeling",
+    "answer": "False"
+  },
+  {
+    "question": "An analyst can read an ERD to discover the individual pieces of information in a system and how they are organized and related to each other.",
+    "answer": "True"
+  },
+  {
+    "question": "On an ERD, similar kinds of information are listed together and placed inside boxes called data containers.",
+    "answer": "False"
+  },
+  {
+    "question": "InanentitycalledSTUDENT,youmightfindattributesofStudent-ID,Last-Name,First-Name and cell-phone.",
+    "answer": "True"
+  },
+  {
+    "question": "Thick clients contain:",
+    "answer": "Almost all or most of the application logic"
+  },
+  {
+    "question": "Client-server architecture holds the client responsible for_____ and server is only responsible for\n_____.",
+    "answer": " Presentation Logic; Data Access Logic and Data Storage"
+  },
+  {
+    "question": " The major architectural components of any system are the___________.",
+    "answer": "Hardware and Software"
+  },
+  {
+    "question": "Client-server architectures tend to be:",
+    "answer": "Less expensive than client-based architectures"
+  },
+  {
+    "question": "Servers can take on what “flavors”?",
+    "answer": "Mainframes, Minicomputers and Microcomputers"
+  },
+  {
+    "question": "Form(s) of network connection(s) in a system include:",
+    "answer": "ATM and DSL"
+  },
+  {
+    "question": "Which of the following is an advantage of client-server architectures?",
+    "answer": "All of these "
+  },
+  {
+    "question": "An n-tiered architecture is distinguished by:",
+    "answer": "The number of specialized server computers"
+  },
+  {
+    "question": "Server-based architecture is",
+    "answer": "When the clients capture keystrokes and the very first architecture system"
+  },
+  {
     "question": "What are the ouputs for the planning phase?\nsystem request, feasibility study, and project plan",
     "answer": "What are the ouputs for the planning phase?"
   },
