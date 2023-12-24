@@ -4,136 +4,360 @@
     "answer": "What are the ouputs for the planning phase?"
   },
   {
-    "question": "What are the three steps in the analysis phase?\n-Understand the exisitng situation (the as-is system)\n-Identify improvements\n- Define requirements for the new systems (the to-be)",
+    "question": "What are the three steps in the analysis phase?\n :: -Understand the exisitng situation (the as-is system)\n-Identify improvements\n- Define requirements for the new systems (the to-be)",
     "answer": "What are the three steps in the analysis phase?"
   },
   {
-    "question": "What is the final deliverable of the Analysis Phase?\nThe system proposal:\n- use cases\n-process models\n- data model\n-revised feasbility analysis and work plan",
+    "question": "What is the final deliverable of the Analysis Phase? :: \nThe system proposal:\n- use cases\n-process models\n- data model\n-revised feasbility analysis and work plan",
     "answer": "What is the final deliverable of the Analysis Phase?"
   },
   {
-    "question": "Requirements Determination\nis performed to transform the system requests high level statement of business requirements into a more detailed, precise list of what the new system must do to provide the needed value to the business",
+    "question": "Requirements Determination\n :: is performed to transform the system requests high level statement of business requirements into a more detailed, precise list of what the new system must do to provide the needed value to the business",
     "answer": "Requirements Determination"
   },
   {
-    "question": "What is a requirement?\nis simply a statement of what the system must do or what characteristics it needs to have.",
+    "question": "What is a requirement?\n :: is simply a statement of what the system must do or what characteristics it needs to have.",
     "answer": "What is a requirement?"
   },
   {
-    "question": "What are the list a requirement categories\n- business requirements/needs\n- user requirements\n- nonfunctional requirements\n- system requirements",
+    "question": "What are the list a requirement categories\n :: - business requirements/needs\n- user requirements\n- nonfunctional requirements\n- system requirements",
     "answer": "What are the list a requirement categories"
   },
   {
-    "question": "What is a user requirement\na good starting place is to concentrate on what the user actually needs to accomplish with the system in order to fulfill a needed job or task",
+    "question": "What is a user requirement\n :: a good starting place is to concentrate on what the user actually needs to accomplish with the system in order to fulfill a needed job or task",
     "answer": "What is a user requirement"
   },
   {
-    "question": "What is a functional requirement\nrelated directly to a process the system has to perform as part of supporting a user task and or information it needs to provdide as the user is performing a task",
+    "question": "What is a functional requirement\n :: related directly to a process the system has to perform as part of supporting a user task and or information it needs to provdide as the user is performing a task",
     "answer": "What is a functional requirement"
   },
   {
-    "question": "User vs. functional requirement\nYou have a task that gets done by the user and then the functional requirements are what the system needs to do in order for that task to get completed.",
+    "question": "User vs. functional requirement\n :: You have a task that gets done by the user and then the functional requirements are what the system needs to do in order for that task to get completed.",
     "answer": "User vs. functional requirement"
   },
   {
-    "question": "Interviews Basic Steps\n- selecting interviewees\n- designing interview questions\n- preparing for the interview\n- conducting the interview\n- post - interview follow up",
+    "question": "Interviews Basic Steps\n :: - selecting interviewees\n- designing interview questions\n- preparing for the interview\n- conducting the interview\n- post - interview follow up",
     "answer": "Interviews Basic Steps"
   },
   {
-    "question": "Selecting Interviewees\nInclude ppl at different levels of the organization:\nManagers\nUsers\nOther key stakeholders",
+    "question": "Selecting Interviewees\n :: Include ppl at different levels of the organization:\nManagers\nUsers\nOther key stakeholders",
     "answer": "Selecting Interviewees"
   },
   {
-    "question": "Designing Interview questions\nUnstructured interview:\nfor a broad and roughly defined set of information\n\nStructure interview:\nfor very specific information",
+    "question": "Designing Interview questions :: \nUnstructured interview:\nfor a broad and roughly defined set of information\n\nStructure interview:\nfor very specific information",
     "answer": "Designing Interview questions"
   },
   {
-    "question": "Preparing the interview\n- prepare a general interview plan\n- confiem areas of knowledge\n- set priorities in case fo time shortage\n- prepare the interviewee",
+    "question": "Preparing the interview :: \n- prepare a general interview plan\n- confiem areas of knowledge\n- set priorities in case fo time shortage\n- prepare the interviewee",
     "answer": "Preparing the interview"
   },
   {
-    "question": "Conducting the interview\nappear professional and UNBIASED\nrecord ALL information\nbe sure you understand the issues that are discussed\nseparate facts from opinions\ngive interviewee time to ask questions",
+    "question": "Conducting the interview :: \nappear professional and UNBIASED\nrecord ALL information\nbe sure you understand the issues that are discussed\nseparate facts from opinions\ngive interviewee time to ask questions",
     "answer": "Conducting the interview"
   },
   {
-    "question": "Post -Interview Questions\n-Prepare and interview report\n- Report should include \"interview notes\"\n- The report is sent to interviewee for clarification & updates.",
+    "question": "Post -Interview Questions\n :: -Prepare and interview report\n- Report should include \"interview notes\"\n- The report is sent to interviewee for clarification & updates.",
     "answer": "Post -Interview Questions"
   },
   {
-    "question": "JAD\nJoint Application Development\n\nis an information gathering technique that allows the project team, users, and management to work together to identify requirements for the system\n\nit can reduce scope creep by 50%\n\nThis process in which 10-20 users meet under the direction of a FACILITATOR skilled in JAD techniques",
+    "question": "JAD\nJoint Application Development\n\n :: is an information gathering technique that allows the project team, users, and management to work together to identify requirements for the system\n\nit can reduce scope creep by 50%\n\nThis process in which 10-20 users meet under the direction of a FACILITATOR skilled in JAD techniques",
     "answer": "JAD\nJoint Application Development"
   },
   {
-    "question": "Designing and Preparing for JAD\n- Sessions can last from half a day to weeks\n- Sucess depends upon careful planning\n- most sessions are designed to collect specific information\n- It is important to prepare the analyst and participants for the JAD sesssion",
+    "question": "Designing and Preparing for JAD\n :: - Sessions can last from half a day to weeks\n- Sucess depends upon careful planning\n- most sessions are designed to collect specific information\n- It is important to prepare the analyst and participants for the JAD sesssion",
     "answer": "Designing and Preparing for JAD"
   },
   {
-    "question": "Conducting JAD session\n- sessions follow formal agenda and ground rules\n- Facilitator does the following:\n* Keep session on track (agenda)\n* Help group understand technical terms and jargon\n* record the groups input on the publix display area\n- The facilitator must remain neutral at all time and help the group throught the process.",
+    "question": "Conducting JAD session\n :: - sessions follow formal agenda and ground rules\n- Facilitator does the following:\n* Keep session on track (agenda)\n* Help group understand technical terms and jargon\n* record the groups input on the publix display area\n- The facilitator must remain neutral at all time and help the group throught the process.",
     "answer": "Conducting JAD session"
   },
   {
-    "question": "POST JAD Follow up\n-post session report is prepared and circulated among session attendees\n- the report should be completed approximately a week to two after the JAD",
+    "question": "POST JAD Follow up\n :: -post session report is prepared and circulated among session attendees\n- the report should be completed approximately a week to two after the JAD",
     "answer": "POST JAD Follow up"
   },
   {
-    "question": "Questionnaires\n- it is a written set of questions for the users to obtain info\n- selecting participants: using a sample of people who are representative of the entire group.\n- designing: follow good practice guidelines\n- administering the questionarre: improving the response rates\n- questionnaire follow up: developing a report",
+    "question": "Questionnaires\n :: - it is a written set of questions for the users to obtain info\n- selecting participants: using a sample of people who are representative of the entire group.\n- designing: follow good practice guidelines\n- administering the questionarre: improving the response rates\n- questionnaire follow up: developing a report",
     "answer": "Questionnaires"
   },
   {
-    "question": "Good questionnaire design\n- begin with nonthreatning questions\n- group items into coherent sections\n- but important items on top\n- avoid abbreviations\n- number the questions\n- pretest to avoid any bad questions\n- provide anonymity to repondents",
+    "question": "Good questionnaire design\n :: - begin with nonthreatning questions\n- group items into coherent sections\n- but important items on top\n- avoid abbreviations\n- number the questions\n- pretest to avoid any bad questions\n- provide anonymity to repondents",
     "answer": "Good questionnaire design"
   },
   {
-    "question": "Document Analysis\nis used to understand the as-is system\n-forms, reports, policy manuals, organization charts decribe the formal system that the organization uses\n- the \"real\" ifo system differes from the formal one and reveals what needs to be changed\n- the indication that the system needs to be changed is when users create new forms or make changes to the existing forms",
+    "question": "Document Analysis\n :: is used to understand the as-is system\n-forms, reports, policy manuals, organization charts decribe the formal system that the organization uses\n- the \"real\" ifo system differes from the formal one and reveals what needs to be changed\n- the indication that the system needs to be changed is when users create new forms or make changes to the existing forms",
     "answer": "Document Analysis"
   },
   {
-    "question": "Observation\nthe acto of watching the processes being performed\n\n- it is a poweful tool to gain insight into the as- is system, and to check teh validity of information gathered form other sources\n-ppl tend to be extremely careful with thier behaviors as they are being watched",
+    "question": "Observation\n :: the acto of watching the processes being performed\n\n- it is a poweful tool to gain insight into the as- is system, and to check teh validity of information gathered form other sources\n-ppl tend to be extremely careful with thier behaviors as they are being watched",
     "answer": "Observation"
   },
   {
-    "question": "Problem Analysis\n- asking users to identify problems and solutions\n-improvements from problem analysis tend to be small and incremental\n- this type of improvments often is very effective at improving a system's efficiency or ease of use; however, it provides minor improvements in business value",
+    "question": "Problem Analysis\n :: - asking users to identify problems and solutions\n-improvements from problem analysis tend to be small and incremental\n- this type of improvments often is very effective at improving a system's efficiency or ease of use; however, it provides minor improvements in business value",
     "answer": "Problem Analysis"
   },
   {
-    "question": "Root Cause Analysis\nfocuses on problems first rather than solutions",
+    "question": "Root Cause Analysis\n :: focuses on problems first rather than solutions",
     "answer": "Root Cause Analysis"
   },
   {
-    "question": "Duration Analysis\nrequires a detailed examination of amount of time it takes to perform each process in the as-is system\n- compare the total time to complete basic steps and the total time for the overall process - a significant difference indicates that the process is badly fragmented\n-potential solutions:\n* Process integration\n* Parallelization",
+    "question": "Duration Analysis\n :: requires a detailed examination of amount of time it takes to perform each process in the as-is system\n- compare the total time to complete basic steps and the total time for the overall process - a significant difference indicates that the process is badly fragmented\n-potential solutions:\n* Process integration\n* Parallelization",
     "answer": "Duration Analysis"
   },
   {
-    "question": "Activity Based Costing\n- examines the cost of each major process or step in a business process\n- Both direct and indirect costs are considered\n- the analyst identify most costly steps and focus improvement efforts on them",
+    "question": "Activity Based Costing\n :: - examines the cost of each major process or step in a business process\n- Both direct and indirect costs are considered\n- the analyst identify most costly steps and focus improvement efforts on them",
     "answer": "Activity Based Costing"
   },
   {
-    "question": "Informal Benchmarking\n-refers to the studying how other organizations perform a business process\n- informal benchmarking is common for \"customer-facing\" processes.\n- the analysts visit other organizations as customers to watch how the business process is perfomed",
+    "question": "Informal Benchmarking\n :: -refers to the studying how other organizations perform a business process\n- informal benchmarking is common for \"customer-facing\" processes.\n- the analysts visit other organizations as customers to watch how the business process is perfomed",
     "answer": "Informal Benchmarking"
   },
   {
-    "question": "Outcome Analysis\n- focuses on uderstanding fundamental outcomes that provide value to customers\n- think what the organization could enable the customer to do",
+    "question": "Outcome Analysis\n :: - focuses on uderstanding fundamental outcomes that provide value to customers\n- think what the organization could enable the customer to do",
     "answer": "Outcome Analysis"
   },
   {
-    "question": "Technology Analysis\n1. the analysts and managers list important and interesting technologies\n2. Then, the group identifies how each and every technology might be applied to the business and how the business would benefit",
+    "question": "Technology Analysis\n :: 1. the analysts and managers list important and interesting technologies\n2. Then, the group identifies how each and every technology might be applied to the business and how the business would benefit",
     "answer": "Technology Analysis"
   },
   {
-    "question": "Activity Elimination\nthe analysts and managers work together to identify:\n- how the org could eliminate each and every ativity in the business process\n- how the function could operate w/o it\n- and what effects are likely to occur",
+    "question": "Activity Elimination\n :: the analysts and managers work together to identify:\n- how the org could eliminate each and every ativity in the business process\n- how the function could operate w/o it\n- and what effects are likely to occur",
     "answer": "Activity Elimination"
   },
   {
-    "question": "what does analysis focus on?\nit focuses on capturing the business requirements for the system",
+    "question": "what does analysis focus on?\n :: it focuses on capturing the business requirements for the system",
     "answer": "what does analysis focus on?"
   },
   {
-    "question": "what is a requirement determination?\nis the part of analysis in which the project team turns the business requirements stated in the system request into a precise list of requirements",
+    "question": "what is a requirement determination?\n :: is the part of analysis in which the project team turns the business requirements stated in the system request into a precise list of requirements",
     "answer": "what is a requirement determination?"
   },
   {
-    "question": "What are Requirements Analysis Strategies?\nare useful for analysts to help the business users think critically about the new system requirements",
+    "question": "What are Requirements Analysis Strategies?\n :: are useful for analysts to help the business users think critically about the new system requirements",
     "answer": "What are Requirements Analysis Strategies?\n"
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "User Requirements\n :: the things the users need to accomplish with the new system",
+    "answer": ""
+  },
+  {
+    "question": "Use Case\n :: helps us understand and clarify the users required interactions with the system and can reveal most, if not all, functioanl requirements of the new system",
+    "answer": ""
+  },
+  {
+    "question": "What is a use case\n :: a use case represents how a system interacts with its environment by illustrating the activities that are performed by the users of the system and teh system's responses.",
+    "answer": ""
+  },
+  {
+    "question": "Trigger\n :: the event that causes the use case to begin.\n* can be an external trigger or a temporal trigger",
+    "answer": ""
+  },
+  {
+    "question": "Preconditions\n :: defines the state the system must be in before the use case commmences",
+    "answer": ""
+  },
+  {
+    "question": "actor :: \nrefers to the person, software, or hardware device that interacts with the system to achieve a useful goal",
+    "answer": ""
+  },
+  {
+    "question": "Normal Course\nthis section lists the steps that are performed when everything flows smoothly (happy path)\n- a column is included which the information that flows in or out of the steps is recorded.",
+    "answer": ""
+  },
+  {
+    "question": "Alternative Courses\ncourses are included to depict branches in logic taht also will lead to a successful conclusion of the use case.",
+    "answer": ""
+  },
+  {
+    "question": "Postconditions\nthe final products of the use case are depicted here. (this might be used a precondition for another use case)",
+    "answer": ""
+  },
+  {
+    "question": "Exceptions\nany error conditions or exceptions that may occur as the sue case steps are performed. These are not normal branches in decision logic, but are unusual occurencesor errors that could potentially be encountered and will lead to an unsuccessful result.",
+    "answer": ""
+  },
+  {
+    "question": "Summary Inputs and Outputs\neach of the major input and outputs are listed in this section along with its source or destination.",
+    "answer": ""
+  },
+  {
+    "question": "How can individual use cases be identified?\nBy reviewing the functional requirements",
+    "answer": ""
+  },
+  {
+    "question": "event-driven modeling\neverything in the system can be thought of as a response to some triggering event",
+    "answer": ""
+  },
+  {
+    "question": "Additional sections\nAdditional sections may be included, e.g.,\n- Frequency of use\n- Business rules\n- Special requirements\n- Assumptions\n- Notes and issues",
+    "answer": ""
+  },
+  {
+    "question": "full-dressed use case\nA full-dressed use case is very thorough, detailed, and highly structured.\nThe project team may decide that a more casual use case format is acceptable.",
+    "answer": ""
+  },
+  {
+    "question": "Building Use Cases\nStep 1: Identify the major use cases\nStep 2: Identify the major steps for each use case\nStep 3: Identify elements within steps\nStep 4. Confirm the use case",
+    "answer": ""
+  },
+  {
+    "question": "Revision of functional Requirements\nThe functional requirements in the requirements definition may be modified to reflect the more detailed understanding and to provide insight to the development team on some \"back-end\" processing",
+    "answer": ""
+  },
+  {
+    "question": "",
+    "answer": ""
+  },
+  {
+    "question": "Which of these is not part of Knuth's algorithm tasks?",
+    "answer": "Limitless"
+  },
+  {
+    "question": "Creates an estimated wish list that is identified as a product backlog:",
+    "answer": "Product owner"
+  },
+  {
+    "question": "Choose the correct definition of an \"activity\" in BPMN",
+    "answer": "A particular activity or task performed by a person or system\n"
+  },
+  {
+    "question": "The tables and data structures, validation routines, data capture forms, data input forms are part of:",
+    "answer": "Implementation stage;"
+  },
+  {
+    "question": "The phase of the waterfall process that broken up into two sub phases: logical design and physical design\n\n",
+    "answer": "Design"
+  },
+  {
+    "question": "The phase when the customer reviews the product to make sure that it meets the requirements laid out at the beginning of the waterfall project",
+    "answer": "Verification"
+  },
+  {
+    "question": "Focuses on the visual, interactive elements of a product to create aesthetically-pleasing interfaces:",
+    "answer": "UI"
+  },
+  {
+    "question": "Data object, group, annotation are part of",
+    "answer": "Artifacts"
+  },
+  {
+    "question": "Project Management Methodology is",
+    "answer": "A strictly defined combination of logically related practices, methods and processes\n"
+  },
+  {
+    "question": "What should not be included in general information of technical specification",
+    "answer": "Information about sources and control of financial works(?)\n"
+  },
+  {
+    "question": "What should a \"technical specification\" contain (choose one)?\n\n",
+    "answer": "Requirements for software\n"
+  },
+  {
+    "question": "The display of information to the user and the acceptance of the user's commands (the user interface)::",
+    "answer": "presentation logic"
+  },
+  {
+    "question": "The phase that all customer requirements are gathered at the beginning of the project, allowing every other phase to be planned without\n\nfurther customer correspondence until the product is complete:",
+    "answer": "Requirements"
+  },
+  {
+    "question": "Which of these methods does not belong to an Installation stage",
+    "answer": "Indirect"
+  },
+  {
+    "question": "Focuses on creating a seamless and meaningful user experience by understanding user needs, conducting research, and designing",
+    "answer": "UX"
+  },
+  {
+    "question": "Requirements, Design, Implementation, Verification and Maintenance are part of ＿",
+    "answer": "Waterfall"
+  },
+  {
+    "question": "Choose the stage that does not belong to the system life cycle",
+    "answer": "Verification"
+  },
+  {
+    "question": "Project management approach developed as a more flexible and efficient way to get products to market",
+    "answer": "Agile"
+  },
+  {
+    "question": "Which of these belong to four element types for business process diagrams?",
+    "answer": "Events"
+  },
+  {
+    "question": "Sequence flow, message flow, association are part of ＿",
+    "answer": "Connecting objects"
+  },
+  {
+    "question": "Which of these are not the stage of Agile methodology?\n\n",
+    "answer": "Design"
+  },
+  {
+    "question": "Maintains the team focused toward their targets:\n\n",
+    "answer": "Scrum Master"
+  },
+  {
+    "question": "Architectural components:",
+    "answer": "Hardware and software"
+  },
+  {
+    "question": "What is Artifact in BPMN?\n\n",
+    "answer": "Additional information that developers add to bring a necessary level of detail to the diagram\n"
+  },
+  {
+    "question": "The plan for how the information system components will be distributed across multiple computers and what hardware, operating system software, and application software will be used on each computer:\n\n",
+    "answer": "Architecture design"
+  },
+  {
+    "question": "A definition of a Business Process Modeling Notation (BPMN):\n\n",
+    "answer": "A flow chart method that models the steps of a planned business process from end to end\n"
+  },
+  {
+    "question": "Determining and documenting business and user requirements\" is part of a ＿\n\n",
+    "answer": "Ideation"
+  },
+  {
+    "question": "Which oh these example does not belong to an \"Actor\" in use case diagram\n\n",
+    "answer": "An information system"
+  },
+  {
+    "question": "The stage that goes after an Installation phase ?\n\n",
+    "answer": "Maintenance"
+  },
+  {
+    "question": "Choose the correct definition of a \"gateway\" in BPMN:\n\n",
+    "answer": "Decision point that can adjust the path based on conditions or events\n"
+  },
+  {
+    "question": "Keep the amount users have to remember to a minimum is definition for:\n\n",
+    "answer": "Recognition rather than recall\n"
+  },
+  {
+    "question": "Takes one little part of the top wish list, termed as Sprint Backlog and work out in order to implement it:\n\n",
+    "answer": "Scrum team\n"
+  },
+  {
+    "question": "\"Developing the first iteration of a software product\" is a part of a ＿\n\n",
+    "answer": "Development"
+  },
+  {
+    "question": "Design should accommodate both experienced and inexperienced users is definition for:\n\n",
+    "answer": "Flexibility and efficiency of use"
+  },
+  {
+    "question": "\"Technical Specification\" contains the basic technical requirements for\n\n",
+    "answer": "Information System\n"
+  },
+  {
+    "question": "The logic documented in the DFDs (Data Flow Diagrams), use cases, and functional requirements:\n\n",
+    "answer": "application logic"
+  },
+  {
+    "question": "Choose the correct definition of an \"event\" in BPMN:\n\n",
+    "answer": "A trigger that starts, modifies or completes a process\n"
   },
   {
     "question": "",
